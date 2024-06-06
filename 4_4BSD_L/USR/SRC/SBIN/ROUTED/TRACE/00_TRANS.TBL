@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/routed/trace
+F TAGS                              	tags
+F TRACE.C                           	trace.c

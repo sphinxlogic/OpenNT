@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+F MAKEFILE.DIS                      	Makefile.dist
+F MAKEMAP.8                         	makemap.8
+F MAKEMAP.C                         	makemap.c
+L OBJ                               	obj	/usr/obj/usr.sbin/sendmail/makemap
+F TAGS                              	tags

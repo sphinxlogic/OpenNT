@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+F MOUNT_LF.8                        	mount_lfs.8
+F MOUNT_LF.C                        	mount_lfs.c
+L OBJ                               	obj	/usr/obj/sbin/mount_lfs
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

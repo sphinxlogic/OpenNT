@@ -1,0 +1,24 @@
+F ACKNOWLE                          	ACKNOWLEDGEMENTS
+F CLOSURE.C                         	closure.c
+F DEFS.H                            	defs.h
+F ERROR.C                           	error.c
+F LALR.C                            	lalr.c
+F LR0.C                             	lr0.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MKPAR.C                           	mkpar.c
+F NEW_FEAT                          	NEW_FEATURES
+F NOTES                             	NOTES
+L OBJ                               	obj	/usr/obj/usr.bin/yacc
+F OUTPUT.C                          	output.c
+F READER.C                          	reader.c
+F README                            	README
+F SKELETON.C                        	skeleton.c
+F SYMTAB.C                          	symtab.c
+F TAGS                              	tags
+D TEST                              	test
+F VERBOSE.C                         	verbose.c
+F WARSHALL.C                        	warshall.c
+F YACC.1                            	yacc.1
+F YYFIX.1                           	yyfix.1
+F YYFIX.SH                          	yyfix.sh

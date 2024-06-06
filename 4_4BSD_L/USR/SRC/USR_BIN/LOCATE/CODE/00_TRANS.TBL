@@ -1,0 +1,4 @@
+F LOCATE_C.C                        	locate.code.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/locate/code
+F TAGS                              	tags

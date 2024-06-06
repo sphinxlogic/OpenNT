@@ -1,0 +1,5 @@
+F CLRI.8                            	clri.8
+F CLRI.C                            	clri.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/clri
+F TAGS                              	tags

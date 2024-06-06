@@ -1,0 +1,7 @@
+F MAKEFILE                          	Makefile
+F MAKEFILE.POR                      	Makefile.port
+F README                            	README
+D SRC                               	src
+D TEMPLATE                          	templates
+D TEST                              	test
+D TMP                               	tmp

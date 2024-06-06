@@ -1,0 +1,5 @@
+F FTP.H                             	ftp.h
+F INET.H                            	inet.h
+F NAMESER.H                         	nameser.h
+F TELNET.H                          	telnet.h
+F TFTP.H                            	tftp.h

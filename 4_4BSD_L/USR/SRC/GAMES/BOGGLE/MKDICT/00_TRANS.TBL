@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+F MKDICT.C                          	mkdict.c
+L OBJ                               	obj	/usr/obj/games/boggle/mkdict
+F TAGS                              	tags

@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+F MAP3270                           	map3270
+L OBJ                               	obj	/usr/obj/share/termcap
+F README                            	README
+F REORDER                           	reorder
+F TCK                               	tck
+F TERMCAP.5                         	termcap.5
+F TERMCAP.SRC                       	termcap.src

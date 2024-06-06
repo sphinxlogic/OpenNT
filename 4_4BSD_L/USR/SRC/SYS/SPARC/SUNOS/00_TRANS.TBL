@@ -1,0 +1,11 @@
+F MAKEFILE                          	Makefile
+F MAKESYSC.SH                       	makesyscalls.sh
+F SUN_DISK.C                        	sun_disklabel.c
+F SUN_DISK.H                        	sun_disklabel.h
+F SUN_IOCT.C                        	sun_ioctl.c
+F SUN_MISC.C                        	sun_misc.c
+F SUN_SYSC.C                        	sun_syscalls.c
+F SUN_SYSC.H                        	sun_syscall.h
+F SUN_SYSE.C                        	sun_sysent.c
+F SYSCALLS.MAS                      	syscalls.master
+L TAGS                              	tags	/var/db/sys_tags

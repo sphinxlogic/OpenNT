@@ -1,0 +1,4 @@
+F COMPAT.H                          	compat.h
+L DB.H                              	db.h	../../include/db.h
+L MPOOL.H                           	mpool.h	../../include/mpool.h
+L NDBM.H                            	ndbm.h	../../include/ndbm.h

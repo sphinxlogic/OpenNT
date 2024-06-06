@@ -1,0 +1,5 @@
+F ARITHMET.6                        	arithmetic.6
+F ARITHMET.C                        	arithmetic.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/arithmetic
+F TAGS                              	tags

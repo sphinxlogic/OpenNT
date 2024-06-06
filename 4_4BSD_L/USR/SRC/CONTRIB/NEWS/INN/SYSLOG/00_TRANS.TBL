@@ -1,0 +1,9 @@
+F LOGGER.1                          	logger.1
+F LOGGER.C                          	logger.c
+F README                            	README
+F SYSLOG.3                          	syslog.3
+F SYSLOG.C                          	syslog.c
+F SYSLOG.CON                        	syslog.conf
+F SYSLOG.H                          	syslog.h
+F SYSLOGD.8                         	syslogd.8
+F SYSLOGD.C                         	syslogd.c

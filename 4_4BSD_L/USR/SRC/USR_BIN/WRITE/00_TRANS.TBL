@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/write
+F TAGS                              	tags
+F WRITE.1                           	write.1
+F WRITE.C                           	write.c

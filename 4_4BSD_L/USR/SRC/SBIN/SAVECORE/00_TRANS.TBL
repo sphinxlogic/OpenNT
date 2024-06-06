@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/savecore
+F SAVECORE.8                        	savecore.8
+F SAVECORE.C                        	savecore.c
+F TAGS                              	tags

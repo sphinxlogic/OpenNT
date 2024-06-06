@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MOUNT_CD.8                        	mount_cd9660.8
+F MOUNT_CD.C                        	mount_cd9660.c
+L OBJ                               	obj	/usr/obj/sbin/mount_cd9660
+F TAGS                              	tags

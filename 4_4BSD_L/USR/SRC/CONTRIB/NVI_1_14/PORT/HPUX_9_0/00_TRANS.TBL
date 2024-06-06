@@ -1,0 +1,11 @@
+L CLIB                              	clib	../clib
+L CURSES                            	curses	../curses
+L DB                                	db	../db
+D INCLUDE                           	include
+D LOCAL                             	local
+F MAKEFILE                          	Makefile
+F OTHER_PA                          	OTHER_PATCHES
+F OWNER                             	OWNER
+F README                            	README
+L REGEX                             	regex	../regex
+L SYS                               	sys	include

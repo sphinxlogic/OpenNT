@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+F MKASTOSC.C                        	mkastosc.c
+L OBJ                               	obj	/usr/obj/usr.bin/tn3270/tools/mkastosc
+F TAGS                              	tags

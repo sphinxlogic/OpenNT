@@ -1,0 +1,7 @@
+F CCITT_AD.C                        	ccitt_addr.c
+F GETX25H0.C                        	getx25hostbyaddr.c
+F GETX25H1.C                        	getx25hostbyname.c
+F GETX25H2.C                        	getx25hostent.c
+F MAKEFILE                          	Makefile
+F VERIFY.C                          	verify.c
+F X25ERR.C                          	x25err.c

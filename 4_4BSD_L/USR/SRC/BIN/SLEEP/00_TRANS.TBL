@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/sleep
+F SLEEP.1                           	sleep.1
+F SLEEP.C                           	sleep.c
+F TAGS                              	tags

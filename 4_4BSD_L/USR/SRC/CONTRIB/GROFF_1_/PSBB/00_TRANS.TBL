@@ -1,0 +1,5 @@
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+L PSBB.1                            	psbb.1	psbb.man
+F PSBB.C                            	psbb.c
+F PSBB.MAN                          	psbb.man

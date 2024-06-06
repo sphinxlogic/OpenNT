@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/who
+F TAGS                              	tags
+F WHO.1                             	who.1
+F WHO.C                             	who.c

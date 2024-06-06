@@ -1,0 +1,10 @@
+F ARGRED.S                          	argred.s
+F ATAN2.S                           	atan2.s
+F CABS.S                            	cabs.s
+F CBRT.S                            	cbrt.s
+F INFNAN.S                          	infnan.s
+F MCOUNT.SED                        	mcount.sed
+F SINCOS.S                          	sincos.s
+F SQRT.S                            	sqrt.s
+F SUPPORT.S                         	support.s
+F TAN.S                             	tan.s

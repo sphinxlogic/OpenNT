@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MESG.1                            	mesg.1
+F MESG.C                            	mesg.c
+L OBJ                               	obj	/usr/obj/usr.bin/mesg
+F TAGS                              	tags

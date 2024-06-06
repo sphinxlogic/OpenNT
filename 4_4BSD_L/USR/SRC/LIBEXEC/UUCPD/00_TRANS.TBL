@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/uucpd
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F UUCPD.C                           	uucpd.c

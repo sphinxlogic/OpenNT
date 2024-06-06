@@ -1,0 +1,10 @@
+The Lily (LIsp LibrarY) C++ class library gives C++ programmers the
+capability to write LISP-style code.
+
+Lily is probably useful in academia for instructors who want to teach
+artificial intelligence techniques with C++.  The garbage collection
+mechanism employed by Lily is slow which may make it unattractive for
+commercial use.
+
+It is available via anonymous ftp from sunsite.unc.edu (152.2.22.81) as the
+file `/uploads/lily-0.1.tar.gz'.

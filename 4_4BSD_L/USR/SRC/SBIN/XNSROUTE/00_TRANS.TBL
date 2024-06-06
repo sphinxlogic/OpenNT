@@ -1,0 +1,20 @@
+F AF.C                              	af.c
+F AF.H                              	af.h
+F DEFS.H                            	defs.h
+F IF.C                              	if.c
+F INPUT.C                           	input.c
+F INTERFAC.H                        	interface.h
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/XNSrouted
+F OUTPUT.C                          	output.c
+F PROTOCOL.H                        	protocol.h
+F STARTUP.C                         	startup.c
+F TABLE.H                           	table.h
+F TABLES.C                          	tables.c
+F TAGS                              	tags
+F TIMER.C                           	timer.c
+D TOOLS                             	tools
+F TRACE.C                           	trace.c
+F TRACE.H                           	trace.h
+F XNSROUTE.8                        	XNSrouted.8

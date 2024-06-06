@@ -1,0 +1,5 @@
+F CHROOT.8                          	chroot.8
+F CHROOT.C                          	chroot.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/chroot
+F TAGS                              	tags

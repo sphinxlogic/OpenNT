@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MKSTR.1                           	mkstr.1
+F MKSTR.C                           	mkstr.c
+L OBJ                               	obj	/usr/obj/usr.bin/mkstr
+F TAGS                              	tags

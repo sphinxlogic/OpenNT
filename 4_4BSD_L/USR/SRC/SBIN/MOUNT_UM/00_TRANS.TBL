@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+F MOUNT_UM.8                        	mount_umap.8
+F MOUNT_UM.C                        	mount_umap.c
+L OBJ                               	obj	/usr/obj/sbin/mount_umap
+F SAMPLE_G.MAP                      	sample.group.mapfile
+F SAMPLE_U.MAP                      	sample.user.mapfile
+F TAGS                              	tags
+F UMAP_MAN                          	umap_manual

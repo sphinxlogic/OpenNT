@@ -1,0 +1,11 @@
+F CMP.C                             	cmp.c
+F EXTERN.H                          	extern.h
+F LS.1                              	ls.1
+F LS.C                              	ls.c
+F LS.H                              	ls.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/ls
+F PRINT.C                           	print.c
+F STAT_FLA.C                        	stat_flags.c
+F TAGS                              	tags
+F UTIL.C                            	util.c

@@ -1,0 +1,7 @@
+D BITMAPS                           	bitmaps
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/xroach
+F ROACHMAP.H                        	roachmap.h
+F TAGS                              	tags
+F XROACH.6                          	xroach.6
+F XROACH.C                          	xroach.c

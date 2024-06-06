@@ -1,0 +1,5 @@
+L TAGS                              	tags	/var/db/sys_tags
+F UMAP.H                            	umap.h
+F UMAP_SUB.C                        	umap_subr.c
+F UMAP_VFS.C                        	umap_vfsops.c
+F UMAP_VNO.C                        	umap_vnops.c

@@ -1,0 +1,9 @@
+F CBREAK.PL                         	cbreak.pl
+F CBREAK2.PL                        	cbreak2.pl
+D EG                                	eg
+F GETIOCTL                          	getioctlsizes
+F MKSIZES                           	mksizes
+F MKVARS                            	mkvars
+F README                            	README
+F TCBREAK                           	tcbreak
+F TCBREAK2                          	tcbreak2

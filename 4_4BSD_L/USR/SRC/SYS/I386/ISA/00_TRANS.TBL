@@ -1,0 +1,27 @@
+F CLOCK.C                           	clock.c
+F COM.C                             	com.c
+F COMREG.H                          	comreg.h
+F FD.C                              	fd.c
+F FDREG.H                           	fdreg.h
+D IC                                	ic
+F ICU.H                             	icu.h
+F ICU.S                             	icu.s
+F IF_APX.C                          	if_apx.c
+F IF_APXRE.H                        	if_apxreg.h
+F IF_EC.C                           	if_ec.c
+F IF_ECREG.H                        	if_ecreg.h
+F IF_NE.C                           	if_ne.c
+F IF_NEREG.H                        	if_nereg.h
+F IF_WE.C                           	if_we.c
+F IF_WEREG.H                        	if_wereg.h
+F ISA.C                             	isa.c
+F ISA.H                             	isa.h
+F ISA_DEVI.H                        	isa_device.h
+F NPX.C                             	npx.c
+F PCCONS.C                          	pccons.c
+F RTC.H                             	rtc.h
+L TAGS                              	tags	/var/db/sys_tags
+F WD.C                              	wd.c
+F WDREG.H                           	wdreg.h
+F WT.C                              	wt.c
+F WTREG.H                           	wtreg.h

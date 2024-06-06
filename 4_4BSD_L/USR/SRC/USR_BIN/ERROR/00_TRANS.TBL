@@ -1,0 +1,12 @@
+F ERROR.1                           	error.1
+F ERROR.H                           	error.h
+F FILTER.C                          	filter.c
+F INPUT.C                           	input.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/error
+F PATHNAME.H                        	pathnames.h
+F PI.C                              	pi.c
+F SUBR.C                            	subr.c
+F TAGS                              	tags
+F TOUCH.C                           	touch.c

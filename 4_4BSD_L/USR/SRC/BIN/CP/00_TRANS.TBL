@@ -1,0 +1,7 @@
+F CP.1                              	cp.1
+F CP.C                              	cp.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/cp
+F TAGS                              	tags
+F UTILS.C                           	utils.c

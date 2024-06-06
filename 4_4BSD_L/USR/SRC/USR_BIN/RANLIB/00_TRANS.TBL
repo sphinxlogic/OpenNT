@@ -1,0 +1,10 @@
+F BUILD.C                           	build.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/usr.bin/ranlib
+F PATHNAME.H                        	pathnames.h
+F RANLIB.1                          	ranlib.1
+F RANLIB.C                          	ranlib.c
+F RANLIB_5.5                        	ranlib.5.5
+F TAGS                              	tags
+F TOUCH.C                           	touch.c

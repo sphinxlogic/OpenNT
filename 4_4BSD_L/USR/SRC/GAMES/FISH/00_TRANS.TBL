@@ -1,0 +1,7 @@
+F FISH.6                            	fish.6
+F FISH.C                            	fish.c
+F FISH.INS                          	fish.instr
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/fish
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

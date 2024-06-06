@@ -1,0 +1,13 @@
+F IMAKEFIL                          	Imakefile
+F MAKEFILE                          	Makefile
+F SOL.H                             	sol.h
+F SOLBM.C                           	solBm.c
+F SOLFB.H                           	solFb.h
+F SOLINIT.C                         	solInit.c
+F SOLIO.C                           	solIo.c
+F SOLKBD.C                          	solKbd.c
+F SOLKBD.H                          	solKbd.h
+F SOLKMAP.C                         	solKMap.c
+F SOLMOUSE.C                        	solMouse.c
+F SOLMOUSE.H                        	solMouse.h
+F SOLUTILS.C                        	solUtils.c

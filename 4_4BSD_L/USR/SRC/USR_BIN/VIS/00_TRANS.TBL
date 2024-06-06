@@ -1,0 +1,6 @@
+F FOLDIT.C                          	foldit.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/vis
+F TAGS                              	tags
+F VIS.1                             	vis.1
+F VIS.C                             	vis.c

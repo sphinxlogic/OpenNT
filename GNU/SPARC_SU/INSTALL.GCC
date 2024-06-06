@@ -1,0 +1,62 @@
+The solaris gcc compilation here is almost complete; you can install it in
+/opt/gnu as-is.  However, you may still wish to install the fixincludes.
+We cannot distribute the fixed header files because they are proprietary.
+However, you can install them yourself on your own system.  To do so, first
+install the binaries in the proper place in your system (/opt/gnu).  Then,
+run the command
+
+    $ /bin/sh /opt/gnu/lib/gcc-lib/sparc-sun-solaris2/2.5.6/just-fixinc
+
+This will build the fixincludes.  Note that the corrected header files go
+in the GCC installation directory so that only GCC sees them.  The original
+header files in /usr/include are not modified.
+
+
+In addition to the solaris GCC binaries (and the sources, if you want to
+rebuild gcc), you will need the Solaris-2 OS packages, `SUNWhea',
+`SUNWbtool', `SUNWarc', and `SUNWtoo' installed on your system.
+
+To check whether an optional package is installed, you can run `pkginfo
+NAME'.  `pkginfo' is in `/usr/bin/'.  If NAME is not installed, you will
+get an error, like this:
+
+     eg$ /usr/bin/pkginfo SUNWlibm
+     ERROR: information for "SUNWlibm" was not found
+
+If NAME is installed, you will see a one-line summary of the package,
+like this:
+
+     eg$ /usr/bin/pkginfo SUNWhea
+     system      SUNWhea        Header Files
+
+To install one of these optional parts of Solaris 2 (NAME in the example),
+put the Solaris 2.0 distribution CD in the drive, mount it (for example, as
+`/cdrom'), then do:
+
+     /usr/sbin/pkgadd -d /cdrom/Solaris_2.0 NAME ...
+
+You can specify several package names at once.
+
+   These are the Solaris 2 optional packages you'll need to use GCC:
+
+`SUNWarc'
+     *Needed to link your programs:* Archive libraries for system
+     interfaces.
+
+`SUNWbtool'
+     *Needed to build your programs:* "SPARCCompilers 2.0 Bundled
+     tools".  Most of the contents of `/usr/ccs/bin' (most notably, the
+     assembler) come from this package.
+
+`SUNWhea'
+     *Needed to complete installation and compile your programs:* Header
+     files (`/usr/include').
+
+`SUNWtoo'
+     *Needed to link your programs:* "Programming Tools", notably the
+     linker, `/usr/ccs/bin/ld'.
+
+One additional optional package may be of interest:
+
+`SUNWlibm'
+     Sun's math subroutine library. 

@@ -1,0 +1,7 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/wump
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F WUMP.6                            	wump.6
+F WUMP.C                            	wump.c
+F WUMP.INF                          	wump.info

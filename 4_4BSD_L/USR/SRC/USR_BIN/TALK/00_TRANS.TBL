@@ -1,0 +1,17 @@
+F CTL.C                             	ctl.c
+F CTL_TRAN.C                        	ctl_transact.c
+F DISPLAY.C                         	display.c
+F GET_ADDR.C                        	get_addrs.c
+F GET_NAME.C                        	get_names.c
+F INIT_DIS.C                        	init_disp.c
+F INVITE.C                          	invite.c
+F IO.C                              	io.c
+F LOOK_UP.C                         	look_up.c
+F MAKEFILE                          	Makefile
+F MSGS.C                            	msgs.c
+L OBJ                               	obj	/usr/obj/usr.bin/talk
+F TAGS                              	tags
+F TALK.1                            	talk.1
+F TALK.C                            	talk.c
+F TALK.H                            	talk.h
+F TALK_CTL.H                        	talk_ctl.h

@@ -1,0 +1,23 @@
+Because the `compress' utility is covered by patents (US 4,464,650 and
+4,558,302), we cannot use it; it is not free software.
+
+Instead, the GNU Project uses the `gzip' program, which is free of known
+software patents and also compresses better than `compress'.  Files
+compressed with this method end with `.gz'.
+
+Gzip can also uncompress files compressed with `compress' (i.e. files
+ending in `.Z'), since the uncompression algorithm is not patented.
+
+To extract sources that are in files ending in `.tar.gz' you can use the
+command
+
+      gzip -d < foo.tar.gz | tar xf -
+
+where `foo.tar.gz' is the name of the file.
+
+Gzip is available in source form on this ftp archive, in the file
+gzip-N.N.shar, gzip-N.N.tar, and gzip-N.N.tar.gz (the last for people
+who already have gzip but want to get a newer version, since the gzipped
+file will transfer faster).  Gzip is also available as a DOS
+executable in the file gzip-N.N.msdos.exe. To find a VMS executable,
+read gzip-vms.README.

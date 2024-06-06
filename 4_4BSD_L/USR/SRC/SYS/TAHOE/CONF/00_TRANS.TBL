@@ -1,0 +1,8 @@
+F DEVICES.TAH                       	devices.tahoe
+F FILES.TAH                         	files.tahoe
+F FILES_MA.7                        	files.MATISSE.HCX.7
+F GENERIC.ALL                       	GENERIC.alltahoe
+F GENERIC.HCX                       	GENERIC.hcx9
+F GENERIC.TAH                       	GENERIC.tahoe
+F MAKEFILE.TAH                      	Makefile.tahoe
+L TAGS                              	tags	/var/db/sys_tags

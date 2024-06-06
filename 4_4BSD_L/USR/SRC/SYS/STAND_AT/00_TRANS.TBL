@@ -1,0 +1,11 @@
+F CAT.C                             	cat.c
+F COPY.C                            	copy.c
+F DEV.C                             	dev.c
+F GETFILE.C                         	getfile.c
+F GETS.C                            	gets.c
+F LS.C                              	ls.c
+F PRINTF.C                          	printf.c
+F SAERRNO.H                         	saerrno.h
+F SAIO.H                            	saio.h
+F SAIOCTL.H                         	saioctl.h
+F STAT.C                            	stat.c

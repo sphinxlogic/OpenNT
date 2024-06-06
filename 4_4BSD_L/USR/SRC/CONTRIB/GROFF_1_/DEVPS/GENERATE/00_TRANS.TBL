@@ -1,0 +1,9 @@
+F AFMNAME                           	afmname
+F DINGBAT0                          	dingbatsmap
+F DINGBAT1                          	dingbatsrmap
+F LGREEKMA                          	lgreekmap
+F MAKEFILE                          	Makefile
+F SYMBOL.SED                        	symbol.sed
+F SYMBOLCH                          	symbolchars
+F SYMBOLSL.AFM                      	symbolsl.afm
+F TEXTMAP                           	textmap

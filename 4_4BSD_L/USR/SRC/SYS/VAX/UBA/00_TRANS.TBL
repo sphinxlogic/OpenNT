@@ -1,0 +1,25 @@
+F KGCLOCK.C                         	kgclock.c
+F NP.C                              	np.c
+F NPREG.H                           	npreg.h
+F PDMA.H                            	pdma.h
+F PS.C                              	ps.c
+F PSREG.H                           	psreg.h
+F QD.C                              	qd.c
+F QDIOCTL.H                         	qdioctl.h
+F QDREG.H                           	qdreg.h
+F QDUSER.H                          	qduser.h
+F QEVENT.H                          	qevent.h
+F QFONT.C                           	qfont.c
+F QV.C                              	qv.c
+F QVIOCTL.H                         	qvioctl.h
+F QVREG.H                           	qvreg.h
+L TAGS                              	tags	/var/db/sys_tags
+F TMSCP.C                           	tmscp.c
+F TMSCPREG.H                        	tmscpreg.h
+F UBA.C                             	uba.c
+F UBAREG.H                          	ubareg.h
+F UBAVAR.H                          	ubavar.h
+F UDA.C                             	uda.c
+F UDAREG.H                          	udareg.h
+F VS.C                              	vs.c
+F VSREG.H                           	vsreg.h

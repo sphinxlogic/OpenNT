@@ -1,0 +1,15 @@
+F MAKEFILE                          	Makefile
+D MMDFII                            	mmdfII
+F POP.TXT                           	pop.txt
+F POPAKA.C                          	popaka.c
+F POPAUTH.C                         	popauth.c
+F POPAUTH.H                         	popauth.h
+F POPBB.TXT                         	popbb.txt
+F POPD.C                            	popd.c
+F POPSER.C                          	popser.c
+F POPWRD.C                          	popwrd.c
+F POP_MORE.TXT                      	pop-more.txt
+F RFC1081.TXT                       	rfc1081.txt
+F RFC1082.TXT                       	rfc1082.txt
+F SYSLOG.C                          	syslog.c
+F SYSLOG.H                          	syslog.h

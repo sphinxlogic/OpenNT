@@ -1,0 +1,14 @@
+F A.CC                              	a.cc
+F BF.CC                             	bf.cc
+F BM.CC                             	bm.cc
+F CHANGELO                          	ChangeLog
+F CONFIG.STA                        	config.status
+F CONFIGUR.IN                       	configure.in
+F EXPECTED.OUT                      	expected.out
+F EX_BAR.CC                         	ex_bar.cc
+F FOO.CC                            	Foo.cc
+F FOO.H                             	Foo.h
+F FOO_FUNC.CC                       	foo_func.cc
+F FOO_MAIN.CC                       	foo_main.cc
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in

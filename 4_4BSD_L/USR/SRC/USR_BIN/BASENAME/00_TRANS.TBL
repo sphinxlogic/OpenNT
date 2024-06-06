@@ -1,0 +1,5 @@
+F BASENAME.1                        	basename.1
+F BASENAME.C                        	basename.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/basename
+F TAGS                              	tags

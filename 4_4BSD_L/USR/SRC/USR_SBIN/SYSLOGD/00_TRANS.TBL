@@ -1,0 +1,7 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/syslogd
+F PATHNAME.H                        	pathnames.h
+F SYSLOGD.8                         	syslogd.8
+F SYSLOGD.C                         	syslogd.c
+F SYSLOG_C.5                        	syslog.conf.5
+F TAGS                              	tags

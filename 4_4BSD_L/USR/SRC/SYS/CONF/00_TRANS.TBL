@@ -1,0 +1,8 @@
+F DEFINES                           	defines
+F FILES                             	files
+F FILES.NEW                         	files.newconf
+F NEWVERS.SH                        	newvers.sh
+F NFSSWAPV.C                        	nfsswapvmunix.c
+F PARAM.C                           	param.c
+F SYSTAGS.SH                        	systags.sh
+L TAGS                              	tags	/var/db/sys_tags

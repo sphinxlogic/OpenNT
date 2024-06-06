@@ -1,0 +1,5 @@
+F COMM.1                            	comm.1
+F COMM.C                            	comm.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/comm
+F TAGS                              	tags

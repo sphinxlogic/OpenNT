@@ -1,0 +1,6 @@
+F MFSIOM.H                          	mfsiom.h
+F MFSNODE.H                         	mfsnode.h
+F MFS_EXTE.H                        	mfs_extern.h
+F MFS_VFSO.C                        	mfs_vfsops.c
+F MFS_VNOP.C                        	mfs_vnops.c
+L TAGS                              	tags	/var/db/sys_tags

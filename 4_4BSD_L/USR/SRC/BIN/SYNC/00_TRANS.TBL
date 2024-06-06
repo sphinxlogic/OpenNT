@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/sync
+F SYNC.8                            	sync.8
+F SYNC.C                            	sync.c
+F TAGS                              	tags

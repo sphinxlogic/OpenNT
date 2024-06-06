@@ -1,0 +1,12 @@
+L ANSI.H                            	ansi.h	../../hp300/include/ansi.h
+L ENDIAN.H                          	endian.h	../../pmax/include/endian.h
+F EXEC.H                            	exec.h
+F FLOAT.H                           	float.h
+L LIMITS.H                          	limits.h	../../hp300/include/limits.h
+F PROFILE.H                         	profile.h
+L RELOC.H                           	reloc.h	../../hp300/include/reloc.h
+F SIGNAL.H                          	signal.h
+L STDARG.H                          	stdarg.h	../../hp300/include/stdarg.h
+L TAGS                              	tags	/var/db/sys_tags
+F TYPES.H                           	types.h
+L VARARGS.H                         	varargs.h	../../hp300/include/varargs.h

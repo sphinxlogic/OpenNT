@@ -1,0 +1,137 @@
+Here is a list of anonymous FTP sites that hold the X11R5 sources; we don't
+have a list of who mirrors the non-distribution contributed software
+(export.lcs.mit.edu:/contrib).
+
+
+			  North America anonymous FTP:
+
+Location	Address				Directory
+--------	-------				---------
+
+California	gatekeeper.dec.com		pub/X11/R5
+		16.1.0.2
+Indiana		mordred.cs.purdue.edu		pub/X11/R5
+		128.10.2.2
+Maryland	ftp.brl.mil			pub/X11R5
+		128.63.16.158
+		(good for MILNET sites)
+Massachusetts	crl.dec.com			pub/X11/R5
+		192.58.206.2
+Massachusetts	export.lcs.mit.edu		pub/R5
+		18.24.0.12
+		(crl.dec.com is better)
+Michigan	merit.edu			pub/X11R5
+		35.1.1.42
+Missouri	wuarchive.wustl.edu		packages/X11R5
+		128.252.135.4
+Montana		ftp.cs.montana.edu		pub/X.V11R5
+		192.31.215.202
+New Mexico	pprg.eece.unm.edu		pub/dist/X11R5
+		129.24.24.10
+New York	azure.acsu.buffalo.edu		pub/X11R5
+		128.205.7.6
+North Carolina	cs.duke.edu			dist/sources/X11R5
+		128.109.140.1
+Ohio		ftp.cis.ohio-state.edu		pub/X.V11R5
+		128.146.8.52
+Washington DC	x11r5-a.uu.net			X/R5
+		192.48.96.12
+Washington DC	x11r5-b.uu.net			X/R5
+		137.39.1.12
+
+
+		   Europe/Middle East/Australia anonymous FTP:
+
+Australia	munnari.oz.au			X.V11/R5
+		128.250.1.21
+Denmark		freja.diku.dk			pub/X11R5
+		129.142.96.1
+United Kingdom	src.doc.ic.ac.uk		graphics/X.V11R5
+		146.169.3.7
+Finland		nic.funet.fi			pub/X11/R5
+		128.214.6.100
+France		ftp.inria.fr			X/X11R5
+		128.93.1.26
+Germany		ftp.germany.eu.net		pub/X11/X11R5
+		192.76.144.129
+Israel		cs.huji.ac.il			pub/X11R5
+		132.65.6.5
+Italy		ghost.sm.dsi.unimi.it		pub/X11R5
+		149.132.2.1
+Netherlands	archive.eu.net			windows/X/R5
+		192.16.202.1
+Norway		ugle.unit.no			pub/X11R5
+		129.241.1.97
+Norway		nac.no				pub/X11R5
+		129.240.2.40
+Switzerland	nic.switch.ch			software/X11R5
+		130.59.1.40
+
+
+			 Japan anonymous FTP:
+
+Kanagawa	sh.wide.ad.jp			X11R5
+		133.4.11.11
+Kwansai		ftp.ics.osaka-u.ac.jp		X11R5
+		133.1.12.30
+Kyushu		wnoc-fuk.wide.ad.jp		X11R5
+		133.4.14.3
+TISN		utsun.s.u-tokyo.ac.jp		X11R5
+		133.11.11.11
+Tokyo		kerr.iwanami.co.jp		X11R5
+		133.235.128.1
+Tokyo		scslwide.sony.co.jp		pub/X11R5
+		133.138.199.1
+
+
+				UUCP:
+
+uunet		for UUNET customers		~/X/R5
+
+decwrl		existing neighbors only		~/pub/X11/R5
+		
+osu-cis						~/X.V11R5
+
+WJanon		(host: watjo.swp.wj.com)	~/X/X11R5/
+		Modem: Telebit TB2500 (PEP, V.32, etc)
+		Systems or L.sys suggested/approximate entry:
+		    WJanon Any ACU 19200 1-408-435-0240 "" \r login: WJanon
+
+utai		existing neighbors only		~/ftp/pub/X11R5
+
+hp4nl		Netherlands only		~uucp/pub/windows/X/R5
+		
+
+
+				 NFS:
+
+Missouri	wuarchive.wustl.edu		/archive/packages/X11R5
+		128.252.135.4			mount point: /archive
+							
+
+				 AFS:
+
+Pennsylvania	/afs/grand.central.org/pub/X11R5
+
+
+		     NIFTP (hhcp, cpf, fcp, ...):
+
+United Kingdom	uk.ac.ic.doc.src		<X.V11R5>
+		00000510200001
+		user "guest"
+
+
+			      anon FTAM:
+
+United Kingdom	000005102000 (Janet)		X.V11R5
+		146.169.3.7 (Internet)
+		204334504108 (IXI)
+
+
+			       ACSNet:
+
+Australia	munnari.oz (fetchfile)		X.V11/R5
+		Please fetch only one file
+		at a time, after checking
+		that a copy is not available
+		at a closer site.

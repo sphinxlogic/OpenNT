@@ -1,0 +1,14 @@
+F FORTUNE0                          	fortunes
+F FORTUNE0.OK                       	fortunes-o.sp.ok
+F FORTUNE1                          	fortunes2
+F FORTUNE1.OK                       	fortunes.sp.ok
+F FORTUNE2                          	fortunes2-o
+F FORTUNES.FAK                      	fortunes-o.fake
+F FORTUNES.REA                      	fortunes-o.real
+F LIMERICK                          	limerick
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/fortune/datfiles
+F STARTREK                          	startrek
+F STARTREK.OK                       	startrek.sp.ok
+F ZIPPY                             	zippy
+F ZIPPY_SP.OK                       	zippy.sp.ok

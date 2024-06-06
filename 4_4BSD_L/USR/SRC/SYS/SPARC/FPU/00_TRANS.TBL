@@ -1,0 +1,12 @@
+F FPU.C                             	fpu.c
+F FPU_ADD.C                         	fpu_add.c
+F FPU_ARIT.H                        	fpu_arith.h
+F FPU_COMP.C                        	fpu_compare.c
+F FPU_DIV.C                         	fpu_div.c
+F FPU_EMU.H                         	fpu_emu.h
+F FPU_EXPL.C                        	fpu_explode.c
+F FPU_IMPL.C                        	fpu_implode.c
+F FPU_MUL.C                         	fpu_mul.c
+F FPU_SQRT.C                        	fpu_sqrt.c
+F FPU_SUBR.C                        	fpu_subr.c
+L TAGS                              	tags	/var/db/sys_tags

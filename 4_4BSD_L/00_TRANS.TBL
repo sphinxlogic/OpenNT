@@ -1,0 +1,22 @@
+D A                                 	a
+D ALTROOT                           	altroot
+D AMD                               	amd
+D B                                 	b
+D BIN                               	bin
+D C                                 	c
+F COPYRIGH                          	COPYRIGHT
+D DEV                               	dev
+D DUMP                              	dump
+D ETC                               	etc
+D HOME                              	home
+F MASTER.PAS                        	master.passwd
+D MNT                               	mnt
+D ROOT                              	root
+D SBIN                              	sbin
+D STAND                             	stand
+L SYS                               	sys	usr/src/sys
+D TMP                               	tmp
+D USR                               	usr
+D VAR                               	var
+F _CSHRC                            	.cshrc
+F _PROFILE                          	.profile

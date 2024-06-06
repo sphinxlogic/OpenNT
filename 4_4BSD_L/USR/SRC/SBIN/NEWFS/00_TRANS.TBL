@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+F MKFS.C                            	mkfs.c
+F NEWFS.8                           	newfs.8
+F NEWFS.C                           	newfs.c
+L OBJ                               	obj	/usr/obj/sbin/newfs
+F TAGS                              	tags

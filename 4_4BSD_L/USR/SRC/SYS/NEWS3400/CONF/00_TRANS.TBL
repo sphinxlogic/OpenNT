@@ -1,0 +1,6 @@
+F DEVICES.NEW                       	devices.news3400
+F FILES.NEW                         	files.news3400
+F MAKEFILE.NEW                      	Makefile.news3400
+F NEWS3200                          	NEWS3200
+F NEWS3400                          	NEWS3400
+L TAGS                              	tags	/var/db/sys_tags

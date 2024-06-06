@@ -1,0 +1,5 @@
+F COLCRT.1                          	colcrt.1
+F COLCRT.C                          	colcrt.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/colcrt
+F TAGS                              	tags

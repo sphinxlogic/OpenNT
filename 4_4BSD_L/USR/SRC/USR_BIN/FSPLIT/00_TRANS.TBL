@@ -1,0 +1,5 @@
+F FSPLIT.1                          	fsplit.1
+F FSPLIT.C                          	fsplit.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/fsplit
+F TAGS                              	tags

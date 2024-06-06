@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F NFSD.8                            	nfsd.8
+F NFSD.C                            	nfsd.c
+L OBJ                               	obj	/usr/obj/sbin/nfsd
+F TAGS                              	tags

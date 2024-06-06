@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MK_AMD_M.8                        	mk-amd-map.8
+F MK_AMD_M.C                        	mk-amd-map.c
+L OBJ                               	obj	/usr/obj/usr.sbin/amd/mk-amd-map
+F TAGS                              	tags

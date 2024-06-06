@@ -1,0 +1,17 @@
+D CKDNS                             	ckdns
+D DECWRL                            	decwrl
+D DNSPARSE                          	dnsparse
+D DNSWALK_                          	dnswalk-1.6
+D DOC_2_0                           	doc-2.0
+D HOST                              	host
+D HOSTMAIN                          	hostmaint
+D MISC                              	misc
+D NAMED_LI                          	named-lint
+D NINIT                             	ninit
+D NUTSHELL                          	nutshell
+F README                            	README
+D RFC1101                           	rfc1101
+D SUNLIBC                           	sunlibc
+D TIC                               	tic
+D UCSD                              	ucsd
+D UMICH                             	umich

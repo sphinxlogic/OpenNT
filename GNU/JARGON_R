@@ -1,0 +1,53 @@
+The Jargon File is the definitive compendium of hacker slang.
+
+We make at least the newest and oldest versions of the Jargon File
+available here.
+
+jargon.text.z
+	the original MIT/Stanford AI jargon file.
+
+jarg300.txt.gz
+	The 3.0.0 version, corresponding to the second paper edition from
+	MIT Press.  1961 entries.
+
+jarg300.info.gz
+	Version of the above suitable for info browsing.
+
+jargon-upd.gz
+	All new and changed entries since 2.9.6.
+
+  Entries with only trivial changes (spelling, punctuation,
+references, minor changes of phrasing) have been omitted from the
+change list.
+
+Some archive sites will also include the following, depending on free
+space available and the sysadmin's whim:
+
+jargon296.ascii.z 
+	the sixfold-expanded version published in 1991 as
+	"The New Hacker's Dictionary" by MIT Press.  This is the entire
+	text, except for Guy Steele's and Eric Raymond's introductions
+	and the "vietnam wall" credits list at the end (and of course
+	no fancy fonts and cartoons).  1702 entries.
+
+jargon298.ascii.z
+	Jan 01 1992 update, with corrections and new entries.  1760 entries.
+
+jargon299.ascii.z
+	Apr 01 1992 update, with new entries from XEROX PARC and elsewhere.
+	1821 entries.
+
+jargon2910.ascii.z
+	Jul 01 1992 update, with new entries and much additional
+	historical material.  1891 entries.
+
+jargon2911.ascii.z
+	Jan 01 1993 update.  1922 entries.
+
+jargon2912.txt.z
+	May 10 1993 update.  Last revision before the 3.0 freeze
+	for TNHD's second edition.  A few terms have been deleted,
+	mostly game-specific slang from the MUD community.  1946 entries
+
+Also note that vh-1.5.tar.gz contains sources for a hypertext reader
+handy for browsing the File.

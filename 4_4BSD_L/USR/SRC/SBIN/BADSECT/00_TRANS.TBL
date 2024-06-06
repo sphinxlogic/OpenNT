@@ -1,0 +1,5 @@
+F BADSECT.8                         	badsect.8
+F BADSECT.C                         	badsect.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/badsect
+F TAGS                              	tags

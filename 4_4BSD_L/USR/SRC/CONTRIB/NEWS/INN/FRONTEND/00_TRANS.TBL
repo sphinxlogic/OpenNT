@@ -1,0 +1,12 @@
+F C7UNBATC.SH                       	c7unbatch.sh
+F CTLINND.C                         	ctlinnd.c
+F DECODE.C                          	decode.c
+F ENCODE.C                          	encode.c
+F FEEDONE.C                         	feedone.c
+F GETLIST.C                         	getlist.c
+F INEWS.C                           	inews.c
+F INNCONFV.C                        	innconfval.c
+F MAKEFILE                          	Makefile
+F RN.PCH                            	rn.pch
+F RNEWS.C                           	rnews.c
+F SYS2NF.C                          	sys2nf.c

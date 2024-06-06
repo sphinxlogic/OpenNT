@@ -1,0 +1,16 @@
+CLISP is available via anonymous FTP from ma2s2.mathematik.uni-karlsruhe.de
+[129.13.115.2], directory /pub/lisp/clisp/, and from ftp.cs.cmu.edu
+[128.2.206.173], directory user/ai/lang/lisp/impl/clisp/.
+
+It is also available directly from the GNU Project on the `Emacs'
+distribution tape.  For more information, please ask gnu@prep.ai.mit.edu. 
+
+CLISP is a Common Lisp implementation by Bruno Haible and Michael Stoll.
+It mostly conforms to the version of Common Lisp described by "Common LISP:
+The Language (1st edition)", with some additions described in "Common LISP:
+The Language (2nd edition)", including a CLOS subset.  CLISP runs on many
+microcomputers (including the Atari ST, Amiga 500-4000, most MS-DOS systems,
+and OS/2) as well as on Unix workstations (Linux, SunOS (SPARC), Irix (SGI),
+HP-UX (HP 9000/800), and others) and needs only 1.5 MB of memory.  CLISP
+includes an interpreter, a compiler, and (for some machines) a screen editor.
+German and English versions are available.

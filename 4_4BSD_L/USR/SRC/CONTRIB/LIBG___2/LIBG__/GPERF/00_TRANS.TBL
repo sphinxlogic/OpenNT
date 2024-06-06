@@ -1,0 +1,10 @@
+F CHANGELO                          	ChangeLog
+F CONFIG.STA                        	config.status
+F COPYING                           	COPYING
+F GPERF.1                           	gperf.1
+F GPERF.TEX                         	gperf.texinfo
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F README                            	README
+D SRC                               	src
+D TESTS                             	tests

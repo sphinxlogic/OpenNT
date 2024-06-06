@@ -1,0 +1,17 @@
+Octave is available via anonymous ftp from ftp.che.utexas.edu
+in the directory /pub/octave.  The files are in gzipped tar format (see the
+file README on prep.ai.mit.edu:/pub/gnu).
+
+Octave is a high-level language, primarily intended for numerical
+computations.  It provides a convenient command line interface for
+solving linear and nonlinear problems numerically.
+
+Octave can do arithmetic for real and complex scalars and matrices,
+solve sets of nonlinear algebraic equations, integrate functions over
+finite and infinite intervals, and integrate systems of ordinary
+differential and differential-algebraic equations.
+
+The Octave distribution includes a 150+ page Texinfo manual.
+
+It is also available on the GNU `languages' tape.  Ask
+gnu@prep.ai.mit.edu for more details.

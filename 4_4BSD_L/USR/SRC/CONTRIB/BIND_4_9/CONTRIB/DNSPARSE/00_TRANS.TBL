@@ -1,0 +1,12 @@
+F COPYING                           	Copying
+F DNS2HOST                          	dns2hosts
+F DNSLEX.C                          	dnslex.c
+F DNSMKPTR                          	dnsmkptr
+F DNSPARSE.PL                       	dnsparse.pl
+F DNSTEST                           	dnstest
+F README                            	README
+F SIMPHOST                          	simphosts
+F SORTHOST                          	sorthosts
+F TEST.DB                           	test.db
+F TEST.HOS                          	test.hosts
+F ZONELIST                          	zonelist

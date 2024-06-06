@@ -1,0 +1,5 @@
+F CONFIG.C                          	config.c
+F MAKEFILE                          	Makefile
+F VERSION                           	version
+F VERSION.C                         	version.c
+F VERSION.SH                        	version.sh

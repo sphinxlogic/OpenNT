@@ -1,0 +1,18 @@
+F CONFIG.H                          	config.h
+F CONFIG_N.8                        	config.new.8
+F FILES.C                           	files.c
+F GRAM.Y                            	gram.y
+F HASH.C                            	hash.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MKHEADER.C                        	mkheaders.c
+F MKIOCONF.C                        	mkioconf.c
+F MKMAKEFI.C                        	mkmakefile.c
+F MKSWAP.C                          	mkswap.c
+L OBJ                               	obj	/usr/obj/usr.sbin/config.new
+F PACK.C                            	pack.c
+F SCAN.L                            	scan.l
+F SEM.C                             	sem.c
+F SEM.H                             	sem.h
+F TAGS                              	tags
+F UTIL.C                            	util.c

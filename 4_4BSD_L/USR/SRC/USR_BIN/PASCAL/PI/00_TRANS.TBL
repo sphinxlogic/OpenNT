@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pascal/pi
+F PI.1                              	pi.1
+L WHOAMI.H                          	whoami.h	../src/piwhoami.h

@@ -1,0 +1,5 @@
+F DMESG.8                           	dmesg.8
+F DMESG.C                           	dmesg.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/dmesg
+F TAGS                              	tags

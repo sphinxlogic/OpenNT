@@ -1,0 +1,5 @@
+D FFS                               	ffs
+D LFS                               	lfs
+D MFS                               	mfs
+L TAGS                              	tags	/var/db/sys_tags
+D UFS                               	ufs

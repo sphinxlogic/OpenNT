@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F NM.1                              	nm.1
+F NM.C                              	nm.c
+L OBJ                               	obj	/usr/obj/usr.bin/nm
+F TAGS                              	tags

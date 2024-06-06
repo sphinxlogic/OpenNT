@@ -1,0 +1,22 @@
+F ACM.ME                            	acm.me
+F CHARS.ME                          	chars.me
+F DELTEXT.ME                        	deltext.me
+F EQN.ME                            	eqn.me
+F FLOAT.ME                          	float.me
+F FOOTNOTE.ME                       	footnote.me
+F INDEX.ME                          	index.me
+F LETTERHE.ME                       	letterhead.me
+F LOCAL.ME                          	local.me
+F MAKEFILE                          	Makefile
+F ME.7                              	me.7
+F NULL.ME                           	null.me
+L OBJ                               	obj	/usr/obj/share/me
+F REFER.ME                          	refer.me
+F REVISION                          	revisions
+F SH.ME                             	sh.me
+F STRIP.SED                         	strip.sed
+F SUMMARY.EXT                       	summary.external
+F TBL.ME                            	tbl.me
+D TEST                              	test
+F THESIS.ME                         	thesis.me
+F TMAC.ORI                          	tmac.orig_me

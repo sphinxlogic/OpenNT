@@ -1,0 +1,6 @@
+F ALLOCA.C                          	alloca.c
+F DEBFLEX.AWK                       	debflex.awk
+D FASTWC                            	fastwc
+F FLEX.TEX                          	flex.texinfo
+F README                            	README
+F TESTXXLE.L                        	testxxLexer.l

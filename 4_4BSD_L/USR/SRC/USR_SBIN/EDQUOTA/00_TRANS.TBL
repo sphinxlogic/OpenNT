@@ -1,0 +1,6 @@
+F EDQUOTA.8                         	edquota.8
+F EDQUOTA.C                         	edquota.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/edquota
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

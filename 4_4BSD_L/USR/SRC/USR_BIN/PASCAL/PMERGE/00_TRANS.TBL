@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pascal/pmerge
+F PMERGE.1                          	pmerge.1
+F PMERGE.C                          	pmerge.c
+F TAGS                              	tags

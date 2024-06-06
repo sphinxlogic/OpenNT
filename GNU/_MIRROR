@@ -1,0 +1,79 @@
+mirroring tmp (prep.ai.mit.edu:/pub/gnu) completed successfully @ Thu Jun 23 12:16:31 PDT 1994
+Got vmstar.README.~1~ 614
+Got MailingListArchives/ChangeLog.~4~ 568
+Got MailingListArchives/README.~3~ 494
+Got MailingListArchives/tilde.gnulists/ARCHIVE.LONG.bu-it/bug-gnu-utils.arch.~2~ 315316
+Got MailingListArchives/tilde.gnulists/ARCHIVE.LONG.bu-it/bug-lib-g++.arch.~1~ 131072
+Got MailingListArchives/tilde.gnulists/ARCHIVE.LONG.bu-it/bug-gnu-utils.arch.~1~ 450560
+Got MailingListArchives/alb-ListArchive-hobbes/README.~1~ 398
+Got MailingListArchives/albert-usr/gnu/comp.emacs.gz 1991390
+Got MailingListArchives/albert-usr/gnu/bug-gnu-emacs.gz 953983
+Got MailingListArchives/albert-usr/gnu/bug-gnu-utils.gz 778066
+Got MailingListArchives/albert-usr/gnu/bug-g++.gz 562480
+Got MailingListArchives/albert-usr/gnu/bug-groff.gz 12608
+Got MailingListArchives/albert-usr/gnu/info-g++.gz 401912
+Got MailingListArchives/albert-usr/gnu/info-gcc.gz 545852
+Got MailingListArchives/albert-usr/gnu/bug-bash.gz 824789
+Got MailingListArchives/albert-usr/gnu/bug-lib-g++.gz 186868
+Got MailingListArchives/albert-usr/gnu/bug-gdb.gz 158128
+Got MailingListArchives/albert-usr/gnu/bug-ghostscript.gz 68562
+Got MailingListArchives/albert-usr/gnu/info-gnu.gz 75803
+Got MailingListArchives/albert-usr/gnu/lisp-manual-bugs.gz 4226
+Got MailingListArchives/albert-usr/gnu/bug-gnu-smalltalk.gz 20339
+Got MailingListArchives/albert-usr/gnu/help-gnu-emacs.gz 396
+Got MailingListArchives/albert-usr/gnu/Do-NOT-DELETE-These-Files--READ-ME-Instead 392
+Got MailingListArchives/albert-usr/gnu/gnu-emacs-sources 0
+Got MailingListArchives/albert-usr/gnu/help-gcc 0
+Got MailingListArchives/albert-usr/gnu/help-g++ 0
+Got GNUinfo/SERVICE 24212
+Got GNUinfo/MACHINES.emacs.v19 44068
+Got GNUinfo/FTP 10139
+Got GNUinfo/ORDERS.JAPAN 8281
+Got GNUinfo/ORDERS 113409
+Got GNUinfo/MAILINGLISTS 40568
+Got GNUinfo/GNU 26338
+Got GNUinfo/ORDERS.EUROPE 244
+Got GNUinfo/FAQ.emacs.README 238
+Got GNUinfo/.message 487
+Got GNUinfo/,ReadMe 449
+Got GNUinfo/APPLE 3409
+Got GNUinfo/SUN-SUPPORT 8600
+Got GNUinfo/DISTRIB 5547
+Got GNUinfo/MACHINES.emacs.v18 31568
+Got GNUinfo/INTERVIEW 24529
+Got GNUinfo/MOTIVATION 8791
+Got jacal/test.scm 26869
+Got jacal/slib-psd1-3.tar.gz 62408
+Got jacal/README 6882
+Got jacal/jacal1a4.tar.gz 92302
+Got jacal/scm4e1.tar.gz 190191
+Got jacal/slib2a1.tar.gz 191330
+Got jacal/slib.info.tar.gz 53429
+Got jacal/macscm.tar.Z 49237
+Got jacal/scmconfig4e1.tar.gz 22932
+Got jacal/turtlegr.tar.gz 11665
+Got jacal/dld-3.2.4.src.tar.gz 43789
+Got jacal/xscm1.05.tar.Z 80005
+Got jacal/smg-scm2a1.zip 74240
+Got i486-sun-solaris2/gzip-binaries-1.2.4.tar 152064
+Got i486-sun-solaris2/gcc-binaries-2.4.5.tar.gz 4998694
+Got i486-sun-solaris2/INSTALL.gcc 3503
+Got i486-sun-solaris2/gzip-1.2.4.shar 788219
+Got i486-sun-solaris2/gcc-2.4.5.tar.gz 5558673
+Got sparc-sun-solaris2/INSTALL.gcc 2244
+Got sparc-sun-solaris2/gcc-binaries-2.5.6.tar.gz 1683539
+Got sparc-sun-solaris2/gcc-2.5.6.tar.gz 5996970
+Got sparc-sun-solaris2/gzip-binaries-1.2.2.tar 163840
+Got sparc-sun-solaris2/gzip-1.2.2.shar 768839
+Got MicrosPorts/MSDOS.gcc 19367
+Got MicrosPorts/MSDOS.emacs 29944
+Got MicrosPorts/MSDOS.texinfo 41408
+Got MicrosPorts/MSDOS.info 40258
+Got MicrosPorts/Amiga 2585
+Got lpf/README 90
+unlink /e/lite/disc/gnu/MailingListArchives/albert-usr/gnu/.in.comp.emacs.gz.
+symlink COPYING.LIB to LGPL
+symlink COPYING to GPL
+symlink Do-NOT-DELETE-These-Files--READ-ME-Instead to MailingListArchives/albert-usr/gnu/READ-ME
+symlink ,ReadMe to GNUinfo/README
+symlink GNU to GNUinfo/GnuManifesto

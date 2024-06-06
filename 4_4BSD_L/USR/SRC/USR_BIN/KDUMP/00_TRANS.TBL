@@ -1,0 +1,6 @@
+F KDUMP.1                           	kdump.1
+F KDUMP.C                           	kdump.c
+F MAKEFILE                          	Makefile
+F MKIOCTLS                          	mkioctls
+L OBJ                               	obj	/usr/obj/usr.bin/kdump
+F TAGS                              	tags

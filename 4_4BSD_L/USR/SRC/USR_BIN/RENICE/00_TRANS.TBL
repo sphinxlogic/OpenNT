@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/renice
+F RENICE.8                          	renice.8
+F RENICE.C                          	renice.c
+F TAGS                              	tags

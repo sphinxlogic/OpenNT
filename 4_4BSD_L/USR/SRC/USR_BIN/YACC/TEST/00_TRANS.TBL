@@ -1,0 +1,8 @@
+F ERROR.OUT                         	error.output
+F ERROR.Y                           	error.y
+F ERROR_TA.C                        	error.tab.c
+F ERROR_TA.H                        	error.tab.h
+F FTP.Y                             	ftp.y
+F FTP_OUTP                          	ftp.output
+F FTP_TAB.C                         	ftp.tab.c
+F FTP_TAB.H                         	ftp.tab.h

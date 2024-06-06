@@ -1,0 +1,9 @@
+F CMP.1                             	cmp.1
+F CMP.C                             	cmp.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/usr.bin/cmp
+F REGULAR.C                         	regular.c
+F SPECIAL.C                         	special.c
+F TAGS                              	tags

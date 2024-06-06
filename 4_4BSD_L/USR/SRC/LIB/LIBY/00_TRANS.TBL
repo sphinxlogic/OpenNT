@@ -1,0 +1,5 @@
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/lib/liby
+F TAGS                              	tags
+F YYERROR.C                         	yyerror.c

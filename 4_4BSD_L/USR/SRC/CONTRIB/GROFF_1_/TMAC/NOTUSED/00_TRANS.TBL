@@ -1,0 +1,7 @@
+F DOC_COMM                          	doc-common
+F DOC_DITR                          	doc-ditroff
+F DOC_NROF                          	doc-nroff
+F DOC_SYMS                          	doc-syms
+F TMAC.AND                          	tmac.andoc
+F TMAC.DOC                          	tmac.doc
+F TMAC_DOC.OLD                      	tmac.doc.old

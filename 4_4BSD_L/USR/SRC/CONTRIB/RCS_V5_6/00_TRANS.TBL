@@ -1,0 +1,9 @@
+F COPYING                           	COPYING
+F MAKEFILE                          	Makefile
+D MAN                               	man
+D PSD_DOC                           	PSD.doc
+F RCS.MS                            	rcs.ms
+F RCS.PS                            	rcs.ps
+F RCS_FUNC.MS                       	rcs_func.ms
+F README                            	README
+D SRC                               	src

@@ -1,0 +1,7 @@
+es is an extensible shell based on `rc' but with more features
+including first class functions, lexical scope, an exception system,
+and rich return values (i.e. functions can return values other than
+just numbers).  
+
+es is available via anonymous FTP from ftp.white.toronto.edu
+in /pub/es.

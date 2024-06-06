@@ -1,0 +1,9 @@
+F BCMP.S                            	bcmp.s
+F BCOPY.S                           	bcopy.s
+F BZERO.S                           	bzero.s
+F FFS.S                             	ffs.s
+F INDEX.S                           	index.s
+F MAKEFILE.INC                      	Makefile.inc
+F RINDEX.S                          	rindex.s
+F STRCMP.S                          	strcmp.s
+F STRLEN.S                          	strlen.s

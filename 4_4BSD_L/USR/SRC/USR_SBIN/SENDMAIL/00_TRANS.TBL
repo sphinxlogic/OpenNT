@@ -1,0 +1,14 @@
+D CF                                	cf
+D CONTRIB                           	contrib
+D DOC                               	doc
+F FAQ                               	FAQ
+F KNOWNBUG                          	KNOWNBUGS
+L MAIL.LOC                          	mail.local	../../libexec/mail.local
+D MAILSTAT                          	mailstats
+F MAKEFILE                          	Makefile
+D MAKEMAP                           	makemap
+D PRALIASE                          	praliases
+F READ_ME                           	READ_ME
+F RELEASE_                          	RELEASE_NOTES
+L RMAIL                             	rmail	../../bin/rmail
+D SRC                               	src

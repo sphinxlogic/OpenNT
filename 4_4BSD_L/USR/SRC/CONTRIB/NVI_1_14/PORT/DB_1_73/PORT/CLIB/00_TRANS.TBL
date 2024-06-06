@@ -1,0 +1,4 @@
+F MEMMOVE.C                         	memmove.c
+F MKTEMP.C                          	mktemp.c
+F REALLOC.C                         	realloc.c
+F SNPRINTF.C                        	snprintf.c

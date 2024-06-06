@@ -1,0 +1,8 @@
+F CALLVEC.C                         	callvec.c
+F DEVOPEN.C                         	devopen.c
+F GETENV.C                          	getenv.c
+F GETS.C                            	gets.c
+F MAKEFILE                          	Makefile
+F STRCAT.C                          	strcat.c
+F STRCMP.C                          	strcmp.c
+F STRCPY.C                          	strcpy.c

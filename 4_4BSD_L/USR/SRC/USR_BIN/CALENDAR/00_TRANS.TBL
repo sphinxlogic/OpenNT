@@ -1,0 +1,7 @@
+D CALENDAR                          	calendars
+F CALENDAR.1                        	calendar.1
+F CALENDAR.C                        	calendar.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/calendar
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

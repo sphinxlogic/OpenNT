@@ -1,0 +1,4 @@
+F LPF.C                             	lpf.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/lpr/filters
+F TAGS                              	tags

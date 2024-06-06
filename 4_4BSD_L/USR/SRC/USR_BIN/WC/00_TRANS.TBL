@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/wc
+F TAGS                              	tags
+F WC.1                              	wc.1
+F WC.C                              	wc.c

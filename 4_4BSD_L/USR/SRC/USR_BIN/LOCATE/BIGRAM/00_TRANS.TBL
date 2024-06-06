@@ -1,0 +1,4 @@
+F LOCATE_B.C                        	locate.bigram.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/locate/bigram
+F TAGS                              	tags

@@ -1,0 +1,8 @@
+F ASSERT.3                          	assert.3
+F BITSTRIN.3                        	bitstring.3
+F END.3                             	end.3
+F INTRO.3                           	intro.3
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/share/man/man3
+F QUEUE.3                           	queue.3
+F STDARG.3                          	stdarg.3

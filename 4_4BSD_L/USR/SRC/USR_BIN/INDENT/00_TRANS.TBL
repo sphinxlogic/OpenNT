@@ -1,0 +1,13 @@
+F ARGS.C                            	args.c
+F INDENT.1                          	indent.1
+F INDENT.C                          	indent.c
+F INDENT_C.H                        	indent_codes.h
+F INDENT_G.H                        	indent_globs.h
+F IO.C                              	io.c
+F LEXI.C                            	lexi.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/indent
+F PARSE.C                           	parse.c
+F PR_COMME.C                        	pr_comment.c
+F README                            	README
+F TAGS                              	tags

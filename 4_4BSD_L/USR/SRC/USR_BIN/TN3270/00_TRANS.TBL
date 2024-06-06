@@ -1,0 +1,12 @@
+D API                               	api
+D ASCII                             	ascii
+D CTLR                              	ctlr
+D DISTRIBU                          	distribution
+D GENERAL                           	general
+F MAKEFILE                          	Makefile
+F MAKEFILE.INC                      	Makefile.inc
+D MSET                              	mset
+D SYS_CURS                          	sys_curses
+D TELNET                            	telnet
+D TN3270                            	tn3270
+D TOOLS                             	tools

@@ -1,0 +1,12 @@
+D ADT_EXAM                          	ADT-examples
+D BENCHMAR                          	benchmarks
+F CHANGELO                          	ChangeLog
+F CONFIG.STA                        	config.status
+D FIB                               	fib
+D GRAPH                             	graph
+F HINTS                             	HINTS
+D LF                                	lf
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+D PLOTFILE                          	PlotFile3D
+D TRIE_GEN                          	trie-gen

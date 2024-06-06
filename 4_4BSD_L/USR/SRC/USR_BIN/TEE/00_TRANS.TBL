@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/tee
+F TAGS                              	tags
+F TEE.1                             	tee.1
+F TEE.C                             	tee.c

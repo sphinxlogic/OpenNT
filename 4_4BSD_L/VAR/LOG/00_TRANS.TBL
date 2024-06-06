@@ -1,0 +1,5 @@
+F LASTLOG                           	lastlog
+F LPD_ERRS                          	lpd-errs
+F MAILLOG                           	maillog
+F MESSAGES                          	messages
+D RDIST                             	rdist

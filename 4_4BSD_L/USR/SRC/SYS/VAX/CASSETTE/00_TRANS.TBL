@@ -1,0 +1,23 @@
+F ANYBOO.CMD                        	anyboo.cmd
+F CASSETT0.OUT                      	cassette.out
+F CASSETT1.OUT                      	cassette.out1
+F DEFBOO.HK                         	defboo.hk
+F DEFBOO.RA                         	defboo.ra
+F DEFBOO.RB                         	defboo.rb
+F DEFBOO.RL                         	defboo.rl
+F DEFBOO.UP                         	defboo.up
+D FROMDEC                           	fromdec
+F HKMBOO.CMD                        	hkmboo.cmd
+F HKSBOO.CMD                        	hksboo.cmd
+F MAKEFILE                          	Makefile
+F RABADS                            	rabads
+F RAMBOO.CMD                        	ramboo.cmd
+F RASBOO.CMD                        	rasboo.cmd
+F RBMBOO.CMD                        	rbmboo.cmd
+F RBSBOO.CMD                        	rbsboo.cmd
+F RESTAR.CMD                        	restar.cmd
+F RLSBOO.CMD                        	rlsboo.cmd
+L TAGS                              	tags	/var/db/sys_tags
+F UPDATE.OUT                        	update.out
+F UPMBOO.CMD                        	upmboo.cmd
+F UPSBOO.CMD                        	upsboo.cmd

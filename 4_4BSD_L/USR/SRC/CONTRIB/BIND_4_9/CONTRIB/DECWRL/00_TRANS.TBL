@@ -1,0 +1,14 @@
+F DECPA.DAT                         	decpa.data
+F DECPA_DA.BAK                      	decpa.data.BAK
+F DISTFILE.DAT                      	Distfile.datadir
+F HOST.C                            	host.c
+F HUP_NAME.C                        	hup-named.c
+F MAKEFILE                          	Makefile
+F MAKEFILE.DAT                      	Makefile.datadir
+F MKDB.PL                           	mkdb.pl
+F MKDB.PL_                          	mkdb.pl,v
+F MKSERVER.PL                       	mkservers.pl
+F MX_DATA                           	mx_data
+F PASERVER                          	paservers
+F README                            	README
+F VERSION                           	version

@@ -1,0 +1,8 @@
+F DLMPCC.8                          	dlmpcc.8
+F DLMPCC.C                          	dlmpcc.c
+D FIRMWARE                          	firmware
+F MAKEFILE                          	Makefile
+F MPCC.4                            	mpcc.4
+F MPCCTAB.4                         	mpcctab.4
+F PATHNAME.H                        	pathnames.h
+F SCNHDR.H                          	scnhdr.h

@@ -1,0 +1,9 @@
+F FABS.S                            	fabs.s
+F FREXP.C                           	frexp.c
+F ISINF.S                           	isinf.s
+F LDEXP.S                           	ldexp.s
+F MAKEFILE.INC                      	Makefile.inc
+F MODF.S                            	modf.s
+F NLIST.C                           	nlist.c
+F SETJMP.S                          	setjmp.s
+F _SETJMP.S                         	_setjmp.s

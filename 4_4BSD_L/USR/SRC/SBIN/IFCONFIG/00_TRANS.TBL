@@ -1,0 +1,5 @@
+F IFCONFIG.8                        	ifconfig.8
+F IFCONFIG.C                        	ifconfig.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/ifconfig
+F TAGS                              	tags

@@ -1,0 +1,17 @@
+F LFS.H                             	lfs.h
+F LFS_ALLO.C                        	lfs_alloc.c
+F LFS_BALL.C                        	lfs_balloc.c
+F LFS_BIO.C                         	lfs_bio.c
+F LFS_CKSU.C                        	lfs_cksum.c
+F LFS_DEBU.C                        	lfs_debug.c
+F LFS_EXTE.H                        	lfs_extern.h
+F LFS_INOD.C                        	lfs_inode.c
+F LFS_SEGM.C                        	lfs_segment.c
+F LFS_SUBR.C                        	lfs_subr.c
+F LFS_SYSC.C                        	lfs_syscalls.c
+F LFS_VFSO.C                        	lfs_vfsops.c
+F LFS_VNOP.C                        	lfs_vnops.c
+F README                            	README
+L TAGS                              	tags	/var/db/sys_tags
+F TODO                              	TODO
+F USENIX_1.Z                        	USENIX.1.93.ps.Z

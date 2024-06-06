@@ -1,0 +1,38 @@
+L FASTBLT.H                         	fastblt.h	../../mfb/fastblt.h
+F IMAKEFIL                          	Imakefile
+F MAKEFILE                          	Makefile
+L MASKBITS.C                        	maskbits.c	../../mfb/maskbits.c
+L MASKBITS.H                        	maskbits.h	../../mfb/maskbits.h
+L MERGEROP.H                        	mergerop.h	../../mfb/mergerop.h
+F MFB.H                             	mfb.h
+L MFBBITBL.C                        	mfbbitblt.c	../../mfb/mfbbitblt.c
+F MFBBLT.C                          	mfbblt.c
+L MFBBRES.C                         	mfbbres.c	../../mfb/mfbbres.c
+L MFBBRESD.C                        	mfbbresd.c	../../mfb/mfbbresd.c
+F MFBBSTOR.C                        	mfbbstore.c
+F MFBCLIP.C                         	mfbclip.c
+L MFBCMAP.C                         	mfbcmap.c	../../mfb/mfbcmap.c
+F MFBFILLA.C                        	mfbfillarc.c
+L MFBFILLR.C                        	mfbfillrct.c	../../mfb/mfbfillrct.c
+F MFBFILLS.C                        	mfbfillsp.c
+L MFBFONT.C                         	mfbfont.c	../../mfb/mfbfont.c
+F MFBGC.C                           	mfbgc.c
+F MFBGETSP.C                        	mfbgetsp.c
+L MFBHRZVE.C                        	mfbhrzvert.c	../../mfb/mfbhrzvert.c
+F MFBIMAGE.C                        	mfbimage.c
+F MFBIMGGB.C                        	mfbimggblt.c
+F MFBLINE.C                         	mfbline.c
+L MFBMISC.C                         	mfbmisc.c	../../mfb/mfbmisc.c
+F MFBPIXMA.C                        	mfbpixmap.c
+F MFBPLYGB.C                        	mfbplygblt.c
+F MFBPNTAR.C                        	mfbpntarea.c
+L MFBPNTWI.C                        	mfbpntwin.c	../../mfb/mfbpntwin.c
+F MFBPOLYP.C                        	mfbpolypnt.c
+F MFBPUSHP.C                        	mfbpushpxl.c
+L MFBSCRCL.C                        	mfbscrclse.c	../../mfb/mfbscrclse.c
+F MFBSCRIN.C                        	mfbscrinit.c
+F MFBSETSP.C                        	mfbsetsp.c
+F MFBTEGBL.C                        	mfbtegblt.c
+F MFBTILE.C                         	mfbtile.c
+L MFBWINDO.C                        	mfbwindow.c	../../mfb/mfbwindow.c
+F MFBZERAR.C                        	mfbzerarc.c

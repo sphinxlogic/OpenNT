@@ -1,0 +1,7 @@
+F DEFS.H                            	DEFS.h
+D GEN                               	gen
+D NET                               	net
+D STDLIB                            	stdlib
+D STRING                            	string
+D SYS                               	sys
+F SYS.H                             	SYS.h

@@ -1,0 +1,8 @@
+F EGETOPT.C                         	egetopt.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pr
+F PR.1                              	pr.1
+F PR.C                              	pr.c
+F PR.H                              	pr.h
+F TAGS                              	tags

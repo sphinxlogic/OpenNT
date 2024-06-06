@@ -1,0 +1,31 @@
+F APPLE                             	APPLE
+L DESCRIPT                          	DESCRIPTIONS	../DESCRIPTIONS
+F DISTRIB                           	DISTRIB
+F FAQ_EMAC.REA                      	FAQ.emacs.README
+L FREELYAV                          	FreelyAvailableTexts	../FreelyAvailableTexts
+F FTP                               	FTP
+L GETTING_.SOF                      	GETTING.GNU.SOFTWARE	../GETTING.GNU.SOFTWARE
+F GNU                               	GNU
+L GNUMANIF                          	GnuManifesto	GNU
+L GPL                               	GPL	../COPYING
+L GPLEDSOF                          	GPLedSoftware	../GPLedSoftware
+F INTERVIE                          	INTERVIEW
+L LGPL                              	LGPL	../COPYING.LIB
+F MACHINES.V18                      	MACHINES.emacs.v18
+F MACHINES.V19                      	MACHINES.emacs.v19
+F MAILINGL                          	MAILINGLISTS
+L MICROSPO                          	MicrosPorts	../MicrosPorts
+F MOTIVATI                          	MOTIVATION
+F ORDERS                            	ORDERS
+F ORDERS.EUR                        	ORDERS.EUROPE
+F ORDERS.JAP                        	ORDERS.JAPAN
+L PROGRAMI                          	ProgramIndex	../ProgramIndex
+L README                            	README	,ReadMe
+F SERVICE                           	SERVICE
+L STANDAR0.TEX                      	standards.texi	../standards.texi
+L STANDAR1.TEX                      	standards.text	../standards.text
+L STANDARD.INF                      	standards.info	../standards.info
+F SUN_SUPP                          	SUN-SUPPORT
+L TASKS                             	tasks	../tasks
+F _MESSAGE                          	.message
+F _README                           	,ReadMe

@@ -1,0 +1,12 @@
+F ARGS.C                            	args.c
+F CONV.C                            	conv.c
+F CONV_TAB.C                        	conv_tab.c
+F DD.1                              	dd.1
+F DD.C                              	dd.c
+F DD.H                              	dd.h
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/bin/dd
+F POSITION.C                        	position.c
+F TAGS                              	tags

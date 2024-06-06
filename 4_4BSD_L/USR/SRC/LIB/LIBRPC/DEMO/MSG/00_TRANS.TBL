@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MSG.X                             	msg.x
+F MSG_PROC.C                        	msg_proc.c
+F PRINTMSG.C                        	printmsg.c
+F RPRINTMS.C                        	rprintmsg.c

@@ -1,0 +1,14 @@
+F DIRS.C                            	dirs.c
+F EXTERN.H                          	extern.h
+F INTERACT.C                        	interactive.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/restore
+F PATHNAME.H                        	pathnames.h
+F RESTORE.8                         	restore.8
+F RESTORE.C                         	restore.c
+F RESTORE.H                         	restore.h
+F SYMTAB.C                          	symtab.c
+F TAGS                              	tags
+F TAPE.C                            	tape.c
+F UTILITIE.C                        	utilities.c

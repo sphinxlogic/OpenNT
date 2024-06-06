@@ -1,0 +1,5 @@
+F DEVICES.PMA                       	devices.pmax
+F FILES.PMA                         	files.pmax
+F GENERIC.PMA                       	GENERIC.pmax
+F MAKEFILE.PMA                      	Makefile.pmax
+L TAGS                              	tags	/var/db/sys_tags

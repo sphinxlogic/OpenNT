@@ -1,0 +1,6 @@
+F DIG.C                             	dig.c
+F HOST.C                            	host.c
+F MAKEFILE                          	Makefile
+D NSLOOKUP                          	nslookup
+F NSQUERY.C                         	nsquery.c
+F NSTEST.C                          	nstest.c

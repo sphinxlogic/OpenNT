@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MOUNT_KE.8                        	mount_kernfs.8
+F MOUNT_KE.C                        	mount_kernfs.c
+L OBJ                               	obj	/usr/obj/sbin/mount_kernfs
+F TAGS                              	tags

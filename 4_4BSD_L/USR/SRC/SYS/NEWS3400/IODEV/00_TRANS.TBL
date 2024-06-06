@@ -1,0 +1,11 @@
+F DKIO.H                            	dkio.h
+F IOPTOHB.H                         	ioptohb.h
+F PSD.C                             	psd.c
+F SCSI.C                            	scsi.c
+F SCSIREG.H                         	scsireg.h
+F SCU.H                             	scu.h
+F SD.C                              	sd.c
+F SDDEFS.C                          	sddefs.c
+F SDREG.H                           	sdreg.h
+F SD_VAR.C                          	sd_var.c
+L TAGS                              	tags	/var/db/sys_tags

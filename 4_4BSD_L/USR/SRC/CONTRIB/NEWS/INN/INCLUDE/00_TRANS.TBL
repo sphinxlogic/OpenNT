@@ -1,0 +1,16 @@
+F CLIBRARY.H                        	clibrary.h
+F CONFIGDA.H                        	configdata.h
+F DBZ.H                             	dbz.h
+F INNDCOMM.H                        	inndcomm.h
+F LIBINN.H                          	libinn.h
+F LOGGING.H                         	logging.h
+F MACROS.H                          	macros.h
+F MYDIR.H                           	mydir.h
+F MYMEMORY.H                        	mymemory.h
+F MYSERVER.H                        	myserver.h
+F MYSTRING.H                        	mystring.h
+F NNTP.H                            	nntp.h
+F PATCHLEV.H                        	patchlevel.h
+F PATHS.H                           	paths.h
+F QIO.H                             	qio.h
+F UIO.H                             	uio.h

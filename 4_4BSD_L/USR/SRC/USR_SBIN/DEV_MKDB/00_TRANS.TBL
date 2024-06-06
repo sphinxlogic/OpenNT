@@ -1,0 +1,5 @@
+F DEV_MKDB.8                        	dev_mkdb.8
+F DEV_MKDB.C                        	dev_mkdb.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/dev_mkdb
+F TAGS                              	tags

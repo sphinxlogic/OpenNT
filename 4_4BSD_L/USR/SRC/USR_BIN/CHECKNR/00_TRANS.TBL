@@ -1,0 +1,5 @@
+F CHECKNR.1                         	checknr.1
+F CHECKNR.C                         	checknr.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/checknr
+F TAGS                              	tags

@@ -1,0 +1,16 @@
+F 4_4BSD_P                          	4.4BSD-PATCHES
+F AWK.1                             	awk.1
+F AWK.H                             	awk.h
+F AWK_G.Y                           	awk.g.y
+F AWK_LX.L                          	awk.lx.l
+F B.C                               	b.c
+F FIXES                             	FIXES
+F LIB.C                             	lib.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	makefile
+F MAKETAB.C                         	maketab.c
+F PARSE.C                           	parse.c
+F PROTO.H                           	proto.h
+F README                            	README
+F RUN.C                             	run.c
+F TRAN.C                            	tran.c

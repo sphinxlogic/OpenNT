@@ -1,0 +1,16 @@
+F AP_DEBUG                          	ap.debug
+F ATHOMECO                          	athomecomps
+F BOMBCOMP                          	bombcomps
+F COMPONEN                          	components
+F DISTCOMP                          	distcomps
+F DP_DEBUG                          	dp.debug
+F FIXCOMPS                          	fixcomps
+F FORWCOMP                          	forwcomps
+F MHL_FORM                          	mhl.format
+F MHL_FORW                          	mhl.forward
+F MHL_MSGI                          	mhl.msgid
+F MHL_RCVT                          	mhl.rcvtty
+F MHL_REPL                          	mhl.repl
+F OKCOMPS                           	okcomps
+F THXCOMPS                          	thxcomps
+F WORKCOMP                          	workcomps

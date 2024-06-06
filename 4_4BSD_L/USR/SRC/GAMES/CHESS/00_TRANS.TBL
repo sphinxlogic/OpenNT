@@ -1,0 +1,14 @@
+F CHESS.6                           	chess.6
+D DOCUMENT                          	DOCUMENTATION
+F GNUCHESS.BOO                      	gnuchess.book
+F GNUCHESS.C                        	gnuchess.c
+F GNUCHESS.H                        	gnuchess.h
+F MAKEFILE                          	Makefile
+F MOVE.C                            	move.c
+F MOVE.H                            	move.h
+F NONDSP.C                          	nondsp.c
+L OBJ                               	obj	/usr/obj/games/chess
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F UXDSP.C                           	uxdsp.c
+D XCHESS                            	Xchess

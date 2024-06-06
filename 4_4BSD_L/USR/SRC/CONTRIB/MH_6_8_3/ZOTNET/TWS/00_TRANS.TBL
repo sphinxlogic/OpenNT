@@ -1,0 +1,10 @@
+F DATE.C                            	date.c
+F DTIME.C                           	dtime.c
+F DTIMEP.C_L                        	dtimep.c-lexed
+F DTIMEP.LEX                        	dtimep.lex
+F LEXEDIT.SED                       	lexedit.sed
+F LEXSTRIN.C                        	lexstring.c
+F LLIB_LTW                          	llib-ltws
+F MAKEFILE                          	Makefile
+D PHOON                             	phoon
+F TWS.H                             	tws.h

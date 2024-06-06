@@ -1,0 +1,8 @@
+F EXTERN.H                          	extern.h
+F KVM_MKDB.8                        	kvm_mkdb.8
+F KVM_MKDB.C                        	kvm_mkdb.c
+F MAKEFILE                          	Makefile
+F NLIST.C                           	nlist.c
+L OBJ                               	obj	/usr/obj/usr.sbin/kvm_mkdb
+F TAGS                              	tags
+F TESTDB.C                          	testdb.c

@@ -1,0 +1,15 @@
+F FILE_TY0.H                        	file_types.includes.h
+F FILE_TY1.H                        	file_types.operation.h
+F FILE_TY2.H                        	file_types.type.h
+F FILE_TYP.HIE                      	file_types.hierarchy
+F GENCLASS.EXT                      	genclass.extnsn
+F HIERARCH                          	hierarchy
+F MAKEFILE                          	Makefile
+F MAKEFILE.NEW                      	Makefile.new
+F MAKE_DEF                          	make-defs-file
+F MAKE_SOU                          	make-source-dependencies
+F MAKE_TYP                          	make-types
+F PREPEND                           	prepend
+F PREPEND_                          	prepend-header
+F PROTOTYP                          	prototype
+F PROTOTYP.DEP                      	prototype.dependencies

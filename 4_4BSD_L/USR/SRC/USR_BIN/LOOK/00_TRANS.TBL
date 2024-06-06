@@ -1,0 +1,6 @@
+F LOOK.1                            	look.1
+F LOOK.C                            	look.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/look
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

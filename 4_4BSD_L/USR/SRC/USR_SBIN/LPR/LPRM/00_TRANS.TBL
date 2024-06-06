@@ -1,0 +1,5 @@
+F LPRM.1                            	lprm.1
+F LPRM.C                            	lprm.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/lpr/lprm
+F TAGS                              	tags

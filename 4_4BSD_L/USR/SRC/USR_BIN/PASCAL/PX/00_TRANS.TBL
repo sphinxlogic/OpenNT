@@ -1,0 +1,11 @@
+F INT.C                             	int.c
+F INTERP.C                          	interp.c
+F MACHDEP.H                         	machdep.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pascal/px
+F PX.1                              	px.1
+F READ_ME                           	READ_ME
+F UTILITIE.C                        	utilities.c
+F VARS.H                            	vars.h
+F VERSION.C                         	version.c
+L WHOAMI.H                          	whoami.h	../src/piwhoami.h

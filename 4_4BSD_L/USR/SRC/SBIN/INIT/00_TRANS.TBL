@@ -1,0 +1,7 @@
+F INIT.8                            	init.8
+F INIT.C                            	init.c
+F MAKEFILE                          	Makefile
+F NOTES                             	NOTES
+L OBJ                               	obj	/usr/obj/sbin/init
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

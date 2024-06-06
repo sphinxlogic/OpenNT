@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/startslip
+F STARTSLI.1                        	startslip.1
+F STARTSLI.C                        	startslip.c
+F TAGS                              	tags

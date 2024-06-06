@@ -1,0 +1,4 @@
+F PORTAL.H                          	portal.h
+F PORTAL_0.C                        	portal_vfsops.c
+F PORTAL_1.C                        	portal_vnops.c
+L TAGS                              	tags	/var/db/sys_tags

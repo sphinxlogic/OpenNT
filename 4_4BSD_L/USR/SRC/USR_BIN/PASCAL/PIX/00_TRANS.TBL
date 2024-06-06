@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pascal/pix
+F PIX.1                             	pix.1
+F PIX.C                             	pix.c
+L WHOAMI.H                          	whoami.h	../src/piwhoami.h

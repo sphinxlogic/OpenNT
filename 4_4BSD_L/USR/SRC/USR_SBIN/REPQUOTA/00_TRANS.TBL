@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/repquota
+F REPQUOTA.8                        	repquota.8
+F REPQUOTA.C                        	repquota.c
+F TAGS                              	tags

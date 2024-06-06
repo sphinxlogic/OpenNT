@@ -1,0 +1,8 @@
+F DIRNAMEM.C                        	dirnamemax.c
+F EIGN                              	eign
+L INDXBIB.1                         	indxbib.1	indxbib.man
+F INDXBIB.CC                        	indxbib.cc
+F INDXBIB.MAN                       	indxbib.man
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+F SIGNAL.C                          	signal.c

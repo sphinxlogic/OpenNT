@@ -1,0 +1,18 @@
+F DINODE.H                          	dinode.h
+F DIR.H                             	dir.h
+F INODE.H                           	inode.h
+F LOCKF.H                           	lockf.h
+F QUOTA.H                           	quota.h
+L TAGS                              	tags	/var/db/sys_tags
+F UFSMOUNT.H                        	ufsmount.h
+F UFS_BMAP.C                        	ufs_bmap.c
+F UFS_DISK.C                        	ufs_disksubr.c
+F UFS_EXTE.H                        	ufs_extern.h
+F UFS_IHAS.C                        	ufs_ihash.c
+F UFS_INOD.C                        	ufs_inode.c
+F UFS_LOCK.C                        	ufs_lockf.c
+F UFS_LOOK.C                        	ufs_lookup.c
+F UFS_QUOT.C                        	ufs_quota.c
+F UFS_READ.C                        	ufs_readwrite.c
+F UFS_VFSO.C                        	ufs_vfsops.c
+F UFS_VNOP.C                        	ufs_vnops.c

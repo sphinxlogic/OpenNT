@@ -1,0 +1,11 @@
+D COMMON                            	common
+D COMMON_S                          	common_source
+D IEEE                              	ieee
+F MAKEFILE                          	Makefile
+D MC68881                           	mc68881
+D NATIONAL                          	national
+L OBJ                               	obj	/usr/obj/lib/libm
+F README                            	README
+F TAGS                              	tags
+D TAHOE                             	tahoe
+D VAX                               	vax

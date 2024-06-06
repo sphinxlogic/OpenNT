@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MOUNT_NF.8                        	mount_nfs.8
+F MOUNT_NF.C                        	mount_nfs.c
+L OBJ                               	obj	/usr/obj/sbin/mount_nfs
+F TAGS                              	tags

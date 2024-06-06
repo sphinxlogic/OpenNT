@@ -1,0 +1,5 @@
+F HOSTNAME.1                        	hostname.1
+F HOSTNAME.C                        	hostname.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/hostname
+F TAGS                              	tags

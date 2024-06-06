@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/showmount
+F SHOWMOUN.8                        	showmount.8
+F SHOWMOUN.C                        	showmount.c
+F TAGS                              	tags

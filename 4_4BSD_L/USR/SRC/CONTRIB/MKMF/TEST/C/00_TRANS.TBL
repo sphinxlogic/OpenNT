@@ -1,0 +1,11 @@
+F C.P                               	C.p
+F CONS.H                            	cons.h
+F CONVERT.L                         	convert.l
+F ERROR.H                           	error.h
+F GLOBS.H                           	globs.h
+F OC                                	OC
+F PARSER.Y                          	parser.y
+F PROG.C                            	prog.c
+F SCANNER.L                         	scanner.l
+F TAB.H                             	tab.h
+F TC.SH                             	TC.sh

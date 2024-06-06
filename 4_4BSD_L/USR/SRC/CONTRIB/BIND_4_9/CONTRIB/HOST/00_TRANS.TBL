@@ -1,0 +1,9 @@
+F EXIT.H                            	exit.h
+F HOST.1                            	host.1
+F HOST.C                            	host.c
+F MAKEFILE                          	Makefile
+F PORT.H                            	port.h
+F RELEASE_                          	RELEASE_NOTES
+F SEND.C                            	send.c
+F TYPE.H                            	type.h
+F VERS.C                            	vers.c

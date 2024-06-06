@@ -1,0 +1,16 @@
+F ENDGAME.C                         	endgame.c
+F EXTERN.C                          	extern.c
+F GETGUESS.C                        	getguess.c
+F GETWORD.C                         	getword.c
+F HANGMAN.6                         	hangman.6
+F HANGMAN.H                         	hangman.h
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/hangman
+F PATHNAME.H                        	pathnames.h
+F PLAYGAME.C                        	playgame.c
+F PRDATA.C                          	prdata.c
+F PRMAN.C                           	prman.c
+F PRWORD.C                          	prword.c
+F SETUP.C                           	setup.c
+F TAGS                              	tags

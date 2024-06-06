@@ -1,0 +1,5 @@
+F APROPOS.1                         	apropos.1
+F APROPOS.C                         	apropos.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/apropos
+F TAGS                              	tags

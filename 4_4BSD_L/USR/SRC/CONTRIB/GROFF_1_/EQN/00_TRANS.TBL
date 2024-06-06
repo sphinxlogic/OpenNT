@@ -1,0 +1,26 @@
+F BOX.CC                            	box.cc
+F BOX.H                             	box.h
+F DELIM.CC                          	delim.cc
+L EQN.1                             	eqn.1	eqn.man
+F EQN.CC                            	eqn.cc
+F EQN.H                             	eqn.h
+F EQN.MAN                           	eqn.man
+F EQN.Y                             	eqn.y
+F EQN_TAB.H                         	eqn.tab.h
+F LEX.CC                            	lex.cc
+F LIMIT.CC                          	limit.cc
+F LIST.CC                           	list.cc
+F MAIN.CC                           	main.cc
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+F MARK.CC                           	mark.cc
+F NEQN.SH                           	neqn.sh
+F OTHER.CC                          	other.cc
+F OVER.CC                           	over.cc
+F PBOX.H                            	pbox.h
+F PILE.CC                           	pile.cc
+F SCRIPT.CC                         	script.cc
+F SPECIAL.CC                        	special.cc
+F SQRT.CC                           	sqrt.cc
+F TEXT.CC                           	text.cc
+F TODO                              	TODO

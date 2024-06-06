@@ -1,0 +1,10 @@
+L CLIB                              	clib	../clib
+L CURSES                            	curses	../curses
+L DB                                	db	../db
+D INCLUDE                           	include
+L LOCAL                             	local	../bsdi.1.0/local
+L MAKEFILE                          	Makefile	../bsdi.1.0/Makefile
+L OTHER_PA                          	OTHER_PATCHES	../bsdi.1.0/OTHER_PATCHES
+L OWNER                             	OWNER	../bsdi.1.0/OWNER
+L REGEX                             	regex	../regex
+L SYS                               	sys	include

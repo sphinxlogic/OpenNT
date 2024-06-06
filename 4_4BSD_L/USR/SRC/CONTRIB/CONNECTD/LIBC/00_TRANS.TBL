@@ -1,0 +1,3 @@
+F EXTERNAL.C                        	externalconnect.c
+F GETTTYEN.C                        	getttyent.c
+F MAKEFILE                          	Makefile

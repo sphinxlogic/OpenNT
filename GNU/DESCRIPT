@@ -1,0 +1,1409 @@
+-*- text -*-  Last modified Fri Jun 10 19:03:34 1994
+
+This is an incomplete and probably out-of-date list of all the packages
+distributed on prep.ai.mit.edu with a brief description explaining what
+each one is.
+
+More information about these programs can typically be found in the GNU
+Bulletin.  To receive a copy, write to gnu@prep.ai.mit.edu.
+
+Problems with the contents of this file (or problems pertaining to the
+packaging of these programs, e.g. if a file is corrupted) should be sent to
+friedman@prep.ai.mit.edu.  Bug reports for the programs themselves should
+go to the appropriate address indicated in the instructions to that
+program.
+
+Because the unix `compress' utility is patented (by two separate patents,
+in fact), we cannot use it; it's not free software.  Therefore, the GNU
+Project has chosen a new compression utility, `gzip', which is free of any
+known software patents and which tends to compress better anyway.  Files
+compressed with this new compression program end in `.gz' (as opposed to
+`compress'-compressed files, which end in `.Z').  Gzip can uncompress
+`compress'-compressed files and SVR4 `pack' files (which end in `.z').
+This is possible because the various decompression algorithms are not
+patented---only compression is.
+
+The gzip program is available from any GNU mirror site in shar, tar, or
+gzipped tar format (for those who already have a prior version of gzip and
+want faster data transmission).  It works on virtually every unix system,
+MSDOS, OS/2, and VMS.
+
+Filenames below ending with "/" are directories.  Other entries are plain
+files. 
+
+
+COPYING-1.0
+   Version 1 of the GNU General Public License.
+
+
+COPYING-2.0
+   Version 2 of the GNU General Public License.
+
+
+COPYING.LIB-2.0
+   Version 2 of the GNU General Public Library License (there is no
+   version 1).
+
+
+GNUinfo/
+   General files of interest about the GNU Project, most of them included in
+   the GNU Emacs distribution.
+
+
+MailingListArchives/
+   Archives of the GNU mailing lists (most of which are also gatewayed to
+   the various gnu.* newsgroups).
+
+
+MicrosPorts/
+   The GNU Project is not directly interested in integrating or
+   maintaining ports of GNU software to many micro-computer systems, like
+   Amiga's or MSDOS, because of limited resources.  However, a few files
+   with pointers to people who do maintain GNU software for these other
+   systems are available in this directory.
+
+The rest of this file is the articles ``Forthcoming GNUs'' and ``GNU
+Software'' from the June, 1994 GNU's Bulletin which contains
+descriptions of our software.  For more infomation on FSF's tapes,
+diskettes and CD-ROMs see the file
+	prep.ai.mit.edu:/pub/gnu/GNUinfo/ORDERS
+
+---------------------------------------------------------------------
+
+GNU Software
+************
+
+All our software is available via anonymous FTP; see ``How to Get GNU
+Software''.  In addition we offer software on various media and printed
+documentation:
+
+   * see ``CD-ROMs''.
+
+   * see ``Tapes''.
+
+   * see ``MS-DOS Diskettes''.
+
+   * see ``GNU Documentation'', which include manuals and reference cards.
+
+We welcome all bug reports sent to the appropriate electronic mailing list
+(see ``Free Software Support'').
+
+In the articles describing the contents of each medium, the version number
+listed after each program name was current when we published this Bulletin.
+When you order a distribution tape or diskette, some of the programs may be
+newer, and therefore the version number higher.
+
+Key to cross reference:
+
+
+    BinCD
+	  Binaries CD-ROM
+
+    DjgppD
+	  Djgpp Diskettes
+
+    EmcsD
+	  Emacs Diskettes
+
+    EmcsT
+	  Emacs Tape
+
+    LangT
+	  Language Tape
+
+    LiteT
+	  4.4BSD-Lite Tape
+
+    SchmT
+	  Scheme Tape
+
+    SrcCD
+	  Source CD-ROM
+
+    UtilD
+	  Selected Utilities Diskettes
+
+    UtilT
+	  Utilities Tape
+
+    VMSCompT
+	  VMS Compiler Tape
+
+    VMSEmcsT
+	  VMS Emacs Tape
+
+    WdwsD
+	  Windows Diskette
+
+    X11OptT
+	  X11 Optional Tape
+
+    X11ReqT
+	  X11 Required Tape
+
+Configuring GNU Software:
+
+We are using a uniform scheme for configuring GNU software packages in order
+to compile them, which uses the `autoconf' program.  All GNU software
+supports the same alternatives for naming machine and system types.  This
+makes it possible to configure any and all GNU software in the same manner.
+
+The configuration scheme also supports configuring a directory containing
+several GNU packages with one command.	When the GNU system is complete it
+will be possible to configure and build the entire system at once,
+eliminating the need to separately configure each individual package.
+
+The configuration scheme can also specify both the host and target system, so
+you can easily configure and build cross-compilation tools.
+
+GNU software currently available:
+
+(For new features and coming programs, see ``Forthcoming GNUs''.)
+
+   * `acm'	   (SrcCD, UtilT)
+
+     `acm' is a LAN-oriented, multiplayer aerial combat simulation that runs
+     under the MIT X Window System.  Players engage in air to air combat
+     against one another using heat seeking missiles and cannons.  Eventually
+     we hope to turn this into a more general purpose flight simulator.
+
+   * Autoconf	      (SrcCD, UtilT)
+
+     Autoconf produces shell scripts which automatically configure source code
+     packages.	These scripts adapt the packages to many kinds of Unix-like
+     systems without manual user intervention.	Autoconf creates a script for
+     a package from a template file which lists the operating system features
+     which the package can use, in the form of `m4' macro calls.  Autoconf
+     requires GNU `m4' to operate, but the resulting configure scripts it
+     generates do not.
+
+     Most GNU programs now use Autoconf-generated configure scripts.
+
+   * BASH	  (SrcCD, UtilT)
+
+     The GNU shell, BASH (Bourne Again SHell), is compatible with the Unix
+     `sh' and offers many extensions found in `csh' and `ksh'.	BASH has job
+     control, `csh'-style command history, and command-line editing (with
+     Emacs and `vi' modes built-in, and the ability to rebind keys) via the
+     readline library.	BASH conforms to the POSIX 1003.2 shell specification.
+
+   * `bc'	  (SrcCD, UtilT)
+
+     `bc' is an interactive algebraic language with arbitrary precision.  GNU
+     `bc' follows the POSIX 1003.2 draft standard, with several extensions
+     including multi-character variable names, an `else' statement and full
+     Boolean expressions.  GNU `bc' does not require the separate `dc'
+     program.
+
+   * BFD	 (BinCD, LangT, SrcCD)
+
+     The Binary File Descriptor library allows a program which operates on
+     object files (e.g. `ld' or GDB) to support many different formats in a
+     clean way.	 BFD provides a portable interface, so that only BFD needs to
+     know the details of a particular format.  One result is that all
+     programs using BFD will support formats such as a.out, COFF, ELF &
+     OSF-Rose.	BFD comes with source for Texinfo documentation (not yet
+     published on paper).
+
+     Presently BFD is not distributed separately because it is not yet
+     completely stable; however, it is included with packages that use it.
+
+   * Binutils	      (BinCD, LangT, SrcCD)
+
+     Binutils includes the programs: `ar', `c++filt', `demangle', `gprof',
+     `ld', `nlmconv', `nm', `objcopy', `objdump', `ranlib', `size', `strings',
+     & `strip'.
+
+     Binutils Version 2 is completely rewritten to use the BFD library.	 The
+     GNU linker `ld' emits source-line numbered error messages for
+     multiply-defined symbols and undefined references.	 It interprets a
+     superset of the AT&T Linker Command Language, which gives general control
+     over where segments are placed in memory.	`nlmconv' converts object
+     files into Novell NetWare Loadable Modules.  The `objdump' program can
+     disassemble code for a29k, ALPHA, H8/300, H8/500, HP-PA, i386, i960,
+     m68k, m88k, MIPS, SH, SPARC, & Z8000 processors, and can display other
+     data such as symbols and relocations from any file format understood by
+     BFD.
+
+   * Bison	   (BinCD, LangT, SrcCD, VMSCompT)
+
+     Bison is an upwardly compatible replacement for the parser generator
+     `yacc'.  Texinfo source for the `Bison Manual' and reference card are
+     included.	See ``GNU Documentation''.
+
+   * GNU C Library	   (LangT, SrcCD)
+
+     The GNU C library supports ANSI C-1989 and POSIX 1003.1-1990 and has most
+     of the functions specified in POSIX 1003.2-1992.  It is upwardly
+     compatible with 4.4BSD and includes many System V functions, plus GNU
+     extensions.
+
+     The C Library will perform many functions of the Unix system calls in
+     the Hurd.	Mike Haertel has written a fast `malloc' which wastes less
+     memory than the old GNU version.  The GNU regular-expression functions
+     (regex) now nearly conform to the POSIX 1003.2 standard.
+
+     GNU `stdio' lets you define new kinds of streams, just by writing a few
+     C functions.  The `fmemopen' function uses this to open a stream on a
+     string, which can grow as necessary.  You can define your own `printf'
+     formats to use a C function you have written.  For example, you can
+     safely use format strings from user input to implement a `printf'-like
+     function for another programming language.	 Extended `getopt' functions
+     are already used to parse options, including long options, in many GNU
+     utilities.
+
+     Version 1.08 has just been released, adding support for Sun RPC, `mmap'
+     and friends, and compatibility with several more traditional Unix
+     functions.	 It runs on Sun-3 (SunOS 4.1), Sun-4 (SunOS 4.1 or Solaris 2),
+     HP 9000/300 (4.3BSD), SONY News 800 (NewsOS 3 or 4), MIPS DECstation
+     (Ultrix 4), DEC Alpha (OSF/1), i386/i486 (System V, SVR4, BSD, SCO 3.2 &
+     SCO ODT 2.0), Sequent Symmetry i386 (Dynix 3) & SGI (Irix 4).  Texinfo
+     source for the `GNU C Library Reference Manual' is included (see
+     ``GNU Documentation''.); the manual still needs updating.
+
+   * GNU C++ Library	     (BinCD, LangT, SrcCD)
+
+     The GNU C++ library (libg++) is an extensive collection of C++ `forest'
+     classes, a new IOStream library for input/output routines, and support
+     tools for use with G++.  Among the classes supported are Obstacks,
+     multiple-precision Integers and Rationals, Complex numbers, arbitrary
+     length Strings, BitSets and BitStrings.  There is also a set of
+     pseudo-generic prototype files for generating common container classes.
+     Texinfo source for partial documentation is included (not yet published
+     on paper).
+
+   * Calc	  (EmcsT, SrcCD)
+
+     Calc (written by Dave Gillespie in Emacs Lisp) is an extensible, advanced
+     desk calculator and mathematical tool that runs as part of GNU Emacs.  If
+     you wish, you can use Calc just as a simple four-function calculator, but
+     it provides additional features including choice of algebraic or RPN
+     (stack-based) entry, logarithmic functions, trigonometric and financial
+     functions, arbitrary precision, complex numbers, vectors, matrices,
+     dates, times, infinities, sets, algebraic simplification,
+     differentiation, and integration.	It also outputs to `gnuplot'.  Calc
+     comes with Texinfo source for a reference card and the `Calc Manual',
+     which serves as a tutorial and reference.	See ``GNU Documentation''.
+
+   * GNU Chess	       (SrcCD, UtilT)
+
+     GNU Chess lets the computer play a full game of chess with you.  It runs
+     on most platforms and has dumb terminal, "curses", and X terminal
+     interfaces.
+
+     GNU Chess implements many specialized features including the null move
+     heuristic, a hash table with aging, the history heuristic (another form
+     of the earlier killer heuristic), caching of static evaluations, and a
+     database which lets it play the first several moves in the game quickly.
+
+     Recent improvements include better heuristics, faster evaluation,
+     thinking on opponent's time, Swedish and German language support, support
+     for more book formats, a rudimentary Bobby Fischer clock, and bug fixes.
+
+     GNU Chess is primarily supported by Stuart Cracraft, Mike McGann, Chua
+     Kong Sian, and Tim Mann on behalf of the FSF.
+
+	Stuart Cracraft
+	25682 Cresta Loma
+	Laguna Niguel, CA	 92677
+	USA
+
+	Telephone: +1-714-347-8107
+	Electronic-Mail: `cracraft@ai.mit.edu'
+
+   * CLISP	   (EmcsT, SrcCD)
+
+     CLISP is a Common Lisp implementation (CLtL1 + parts of CLtL2) by Bruno
+     Haible and Michael Stoll.	It mostly supports the Lisp described by
+     `Common LISP: The Language (1st edition)'.	 CLISP includes an
+     interpreter, a byte-compiler, a subset of CLOS and, for some machines, a
+     screen editor.  It has user interfaces in English & German (& French
+     soon), chooseable at compile time.	 Major packages that run in CLISP
+     include PCL and, on Unix machines, CLX & Garnet.  CLISP needs only 1.5
+     MB of memory and runs on many microcomputers (including the Atari ST,
+     Amiga 500-4000, most MS-DOS systems & OS/2) & some Unix workstations
+     (Linux, Sun4, Sun386, HP9000/800, SGI, Sun3 and others).
+
+   * GNU Common Lisp	     (EmcsT, SrcCD)
+
+     GNU Common Lisp (GCL) has a compiler and interpreter for Common Lisp.
+     It is very portable and extremely efficient on a wide class of
+     applications.  It compares favorably in performance with commercial Lisps
+     on several large theorem prover and symbolic algebra systems.  It
+     supports the CLtL1 specification but is moving towards the proposed ANSI
+     definition.  It is based on AKCL and KCL.	KCL was written by Taiichi
+     Yuasa and Masami Hagiya in 1984, and AKCL has been developed by William
+     Schelter since 1987.
+
+     GCL compiles to C and then uses the native optimizing C compilers (e.g.
+     GCC).  A function with a fixed number of args and one value turns into a
+     C function of the same number of args and returning 1 value, so it cannot
+     really be any more efficient on such calls.  It has a conservative GC
+     which allows great freedom for the C compiler to put Lisp values in
+     arbitrary registers.  It has a source level Lisp debugger for
+     interpreted code, with display of source code in the other Emacs window.
+     It has profiling tools based on the C profiling tools, which count
+     function calls and percentage of time.  CLX works with GCL.  There is an
+     Xlib interface via C.  PCL worked with earlier versions.  See
+     ``Forthcoming GNUs'', for plans for about GCL.
+
+     GCL version 1.0 is being released under the GNU Library General Public
+     License.  (FTP `/pub/gnu/gcl.README' on `prep.ai.mit.edu'.)  Get source
+     from `ftp.cli.com'.  For details ask `schelter@math.utexas.edu'.
+
+   * `cpio'	    (SrcCD, UtilD, UtilT)
+
+     `cpio' is an alternative archive program with all the features of SVR4
+     `cpio', including support for the final POSIX 1003.1 `ustar' standard.
+     `mt', a program to position magnetic tapes, is included with `cpio'.
+
+   * CVS	 (SrcCD, UtilT)
+
+     CVS, the Concurrent Version System, manages software revision and release
+     control in a multi-developer, multi-directory, multi-group environment.
+     It works best in conjunction with RCS versions 4 and above, but will
+     parse older RCS formats with the loss of CVS's fancier features.  See
+     Berliner, Brian, "CVS-II: Parallelizing Software Development,"
+     `Proceedings of the Winter 1990 USENIX Association Conference'.  To find
+     out how to get a copy of this report, ask `office@usenix.org'.
+
+   * `dc'	  (SrcCD, UtilT)
+
+     `dc' is an RPN calculator.	 GNU `bc' does not require a separate `dc'
+     program to run.  This version of `dc' will eventually be merged with GNU
+     `bc'.
+
+   * DejaGnu	     (LangT, SrcCD)
+
+     DejaGnu is a framework for testing other programs that provides a single
+     front end for all tests.  The framework's flexibility and consistency
+     make it easy to write tests for any program.  DejaGnu comes with
+     `expect', which runs scripts to conduct dialogs with programs; and Tcl,
+     which is an embeddable scripting language.	 The FSF hopes to replace Tcl
+     with a cleaner programming language someday.
+
+   * Demacs, GNU Emacs for MS-DOS	  (EmcsD)
+
+     Manabu Higashida and Hirano Satoshi have released Demacs, a GNU Emacs
+     port for 386/486 based MS-DOS machines.  It is compatible with XMS
+     memory managers and VCPI, but not yet with Microsoft Windows extended
+     mode or other DPMI managers.  Anonymous FTP it from `oak.oakland.edu' in
+     `/pub/msdos/demacs' (USA) & `utsun.s.u-tokyo.ac.jp' in `/GNU/demacs'
+     (Japan).  For an FTP site list and the current status of Demacs, email to
+     `demacs@sigmath.osaka-u.ac.jp'.  For details, FTP the `README' file.
+
+     The FSF is offering Demacs on diskette.  We will replace it with GNU
+     Emacs 19, as soon as the MS-DOS port is ready.  See ``Emacs Diskettes''.
+
+   * Diffutils	       (SrcCD, UtilD, UtilT)
+
+     GNU `diff' compares files showing line-by-line changes in several
+     flexible formats.	It is much faster than traditional Unix versions.  The
+     Diffutils package contains `diff', `diff3', `sdiff', and `cmp'.
+
+     These improvements have recently been made to Diffutils: A new heuristic
+     for `diff' greatly reduces the time needed to compare large input files
+     that contain many differences, and produces output that is usually
+     smaller rather than larger.  New `diff' options give detailed control
+     over output format, e.g. to provide if-then-else output for programming
+     languages other than C. Message wordings and the definition of "white
+     space" have been revised for compatibility with the POSIX.2 standard
+     (ISO/IEC 9945-2:1993).
+
+   * DJGPP	   (BinCD, DjgppD)
+
+     DJ Delorie has ported GCC/G++ 2.5.7 (see the GCC item in this section) to
+     the i386 MS-DOS platform.	The DJGPP package also contains a 32-bit 80386
+     DOS extender with symbolic debugger; development libraries; and ports of
+     Bison, `flex', GAS, and the GNU Binutils.	Full source code is provided.
+     It requires at least 5MB of hard disk space to install and 512K of RAM to
+     use.  It supports SVGA (up to 1024x768), XMS & VDISK memory allocation,
+     `himem.sys', VCPI (e.g. QEMM, DESQview, & 386MAX), and DPMI (e.g. Windows
+     3.x, OS/2, QEMM, & QDPMI).	 The FSF offers it on the ``DJGPP Diskettes'',
+     and on the ``Compiler Tools Binaries CD-ROM''.  Or FTP file
+     `/pub/msdos/djgpp' from `oak.oakland.edu' (or another SimTel mirror
+     site).  Ask `djgpp-request@sun.soe.clarkson.edu' to join a mailing list
+     for DJGPP users.
+
+   * `dld'	   (LangT, SrcCD)
+
+     `dld' is a dynamic linker written by W. Wilson Ho.	 Linking your program
+     with the `dld' library allows you to dynamically load object files into
+     the running binary.  Currently supported are VAX (Ultrix), Sun 3 (SunOS
+     3.4 & 4.0), SPARC (SunOS 4.0), Sequent Symmetry (Dynix), & Atari ST.
+
+   * `doschk'	      (SrcCD, UtilT)
+
+     This program is intended as a utility to help software developers ensure
+     that their source file names are distinguishable on System V platforms
+     with 14-character filenames and on MS-DOS with 8+3 character filenames.
+
+   * `ecc'	   (SrcCD, UtilT)
+
+     `ecc' is a Reed-Solomon error correction checking program, which can
+     correct three byte errors in a block of 255 bytes and detect more severe
+     errors.  Contact `paulf@Stanford.EDU' for more information.
+
+   * `ed'	  (SrcCD, UtilT)
+
+     Ed is the standard text editor.
+
+   * Elib	  (EmcsT, SrcCD)
+
+     This is a small library of Emacs Lisp functions, including routines for
+     using AVL trees and doubly-linked lists.
+
+   * GNU Emacs
+
+     In 1975, Richard Stallman developed the first Emacs, an extensible,
+     customizable real-time display editor.  GNU Emacs is his second
+     implementation.  It offers true Lisp--smoothly integrated into the
+     editor--for writing extensions, and provides an interface to the MIT X
+     Window System.  In addition to its powerful native command set,
+     extensions which emulate other popular editors are distributed: vi, EDT
+     (DEC's VMS editor) and Gosling (aka Unipress) Emacs.  It has many other
+     features which make it a full computing support environment.  Source for
+     the `GNU Emacs Manual', the `GNU Emacs Lisp Reference Manual', and a
+     reference card come with the software.  See ``GNU Documentation''.
+
+   * GNU Emacs 18	  (EmcsD, EmcsT, SrcCD, VMSEmcsT)
+
+     GNU Emacs 18.59 runs on many Unix systems.	 In hardware order: Alliant
+     FX/80 & FX/2800, Altos 3068, Amdahl (UTS), Apollo, AT&T (3Bs & 7300 PC),
+     DG Aviion, Bull DPX/2 (2nn & 3nn) CCI 5/32 & 6/32, Celerity, Convex,
+     Digital (DECstation 3100 & 5000 (PMAXes), Mips, VAX (BSD, SysV & VMS)),
+     Motorola Delta 147 & 187 Dual, Elxsi 6400, Encore (DPC, APC & XPC),
+     Gould, HP (9000 series 200, 300, 700 & 800, but not 500), HLH Orion
+     (original & 1/05), IBM (RS/6000 (AIX), RT/PC (4.2 & AIX) & PS/2 (AIX (386
+     only))), ISI (Optimum V, 80386), Intel 860 & 80386 (BSD, Esix, SVR3,
+     SVR4, SCO, ISC, IX, AIX & others (see ``MS-DOS Diskettes''. & ``Free
+     Software for Microcomputers'')), Iris (2500, 2500 Turbo & 4D), Masscomp,
+     MIPS, National Semiconductor 32000, NeXT (Mach), NCR Tower 32 (SVR2 &
+     SVR3), Nixdorf Targon 31, Nu (TI & LMI), pfa50, Plexus, Prime EXL,
+     Pyramid (original & MIPS), Sequent (Balance & Symmetry), SONY News (m68k
+     & MIPS), Stride (system release 2), all Suns including 386i (all SunOS &
+     some Solaris vers.), Tadpole, Tahoe, Tandem Integrity S2, Tektronix
+     (16000 & 4300), Triton 88, Ustation E30 (SS5E), Whitechapel (MG1) &
+     Wicat.
+
+     In operating system order: AIX (RS/6000, RT/PC, 386-PS/2), BSD (vers.
+     4.1, 4.2, 4.3), DomainOS, Esix (386), HP-UX (HP 9000 series 200, 300,
+     700, 800 but not 500), ISC (386), IX (386), Mach, Microport, NewsOS
+     (Sony m68k & MIPS) SCO (386), SVR0 (Vax, AT&T 3Bs), SVR2, SVR3, SVR4,
+     Solaris 2.0, SunOS, UTS (Amdahl), Ultrix (vers. 3.0, 4,1), Uniplus 5.2
+     (Dual machines), VMS (vers. 4.0, 4.2, 4.4, 5.5) & Xenix (386).
+
+   * GNU Emacs 19	  (EmcsT, SrcCD)
+
+     New features in Emacs 19 include: multiple X windows ("frames" to
+     Emacs), with either a separate X window for the minibuffer or a
+     minibuffer attached to each X window; property lists associated with
+     regions of text in a buffer; multiple fonts and colors defined by those
+     properties; simplified and improved processing of function keys, mouse
+     clicks and mouse movement; X selection processing, including clipboard
+     selections; hooks to be run if point or mouse moves outside a certain
+     range; menu bars and popup menus defined by keymaps; scrollbars; before
+     and after change hooks; source-level debugging of Emacs Lisp programs;
+     European character sets support; floating point numbers; improved buffer
+     allocation, using a new mechanism capable of returning storage to the
+     system when a buffer is killed; interfacing with the X resource manager;
+     GNU configuration scheme support; good RCS support; & many updated
+     libraries.
+
+     New features in Emacs 19.23 include X toolkit support, dialog boxes,
+     operation on MS-DOS, much faster text properties, keyboard equivalents
+     shown automatically in menus, and text that highlights when you move the
+     mouse over it.
+
+     Unlike some other recent derivations of Emacs, Emacs 19 from the Free
+     Software Foundation continues to work on character-only terminals as
+     well as under the MIT X Window System.
+
+     Emacs 19.23 is known to work on, in hardware order: Bull DPX/2 2nn & 3nn
+     (SVR3) & sps7 (SVR2); Clipper; Cubix QBx (SysV); Data General Aviion
+     (DGUX); DEC MIPS (Ultrix 4.2 & OSF/1, not VMS); Elxsi 6400 (SysV); Gould
+     Power Node & NP1 (4.2 & 4.3BSD); Harris Night Hawk 1200 and 3000, 4000
+     and 5000 (cxux); Honeywell XPS100 (SysV); HP 9000 series 200, 300, 700,
+     800 (4.3BSD or HP-UX 7, 8, 9); Intel i386 & i486 (386BSD, AIX, BSDI/386,
+     FreeBSD, Esix, ISC, Linux, MS-DOS, NetBSD, SCO3.2v4 with ODT, SysV,
+     Xenix); IBM RS6000 (AIX 3.2); IBM RT/PC (AIX or BSD); Motorola Delta 147
+     & 187 (SVR3, SVR4, & m88kbcs); National Semiconductor 32K (Genix); NeXT
+     (BSD or Mach 2 w/ NeXTStep 3.0); Prime EXL (SysV); Pyramid (BSD);
+     Sequent Symmetry (BSD); SGI Iris 4D (Irix 4.x & 5.x); Sony News/RISC
+     (NewsOS); Sun 3 & 4, SPARC 1, 1+, 2, 10 & Classic (SunOS 4.0, 4.1,
+     Solaris 2.0-2.3); Tadpole 68k (SysV); Tektronix XD88 (SVR3) & 4300
+     (BSD); & Titan P2 & P3 (SysV).
+
+     In operating system order: AIX (i386, RS6000, RT/PC); 4.1, 4.2, 4.3BSD
+     (i386, Gould Power Node & NP1, HP9000 series 300, NeXT, Pyramid,
+     Symmetry, Tektronix 4300, RT/PC); DG/UX (Aviion); Esix (i386); FreeBSD
+     (i386); Genix (ns32k); HP-UX 7, 8, 9 (HP 9000 series 200, 300, 700, 800,
+     but not 500); Irix 4 & 5 (Iris 4D); ISC (i386); Linux (i386); NetBSD
+     (i386, HP9000 series 300); Mach 2 & 3 (i386, NeXT); SCO 3.2v4 (i386);
+     SVR2 (Bull sps7); SVR3 (Bull DPX/2 2nn & 3nn, Motorola Delta 147 & 187,
+     Tektronix XD88); SVR4 (Motorola Delta 147 & 187); Solaris 2 (SPARC 1,
+     1+, 2, 10, Classic); SunOS 4.0, 4.1 (Sun 3 & 4, SPARC 1, 1+, 2, 10 &
+     Classic); Ultrix 4.2 (DEC MIPS); & Xenix (i386).
+
+     Other configurations supported by Emacs 18 should work with few changes
+     in Emacs 19; as users tell us more about their experiences with different
+     systems, we will augment the list.	 Also see ``Forthcoming GNUs''.
+
+   * `es'	  (SrcCD, UtilT)
+
+     `es' is an extensible shell based on `rc' that has first class functions,
+     lexical scope, an exception system, and rich return values (i.e.
+     functions can return values other than just numbers).  Like `rc', it is
+     great for both interactive use and for scripting, particularly because
+     its quoting rules are much less baroque than the C or Bourne shells.
+
+   * `f2c'	   (LangT, SrcCD)
+
+     `f2c' converts Fortran-77 source files into C or C++, which can be
+     compiled with GCC.	 You can get bug fixes via FTP from `netlib.att.com'
+     in the file `/netlib/f2c/changes.Z' or by email from
+     `netlib@research.att.com'.	 See ``Forthcoming GNUs'', for information
+     about GNU Fortran.
+
+   * NetFax	    (SrcCD, UtilT)
+
+     NetFax is a freely-available fax spooling system originally developed in
+     the MIT AI Lab.  It provides Group 3 fax transmission and reception
+     services for a networked Unix system.  It requires a faxmodem which
+     accepts Class 2 fax commands.  Contact `bug-fax@prep.ai.mit.edu' for
+     more information.
+
+   * Fileutils	       (SrcCD, UtilD, UtilT)
+
+     The fileutils work on files: `chgrp', `chmod', `chown', `cp', `dd', `df',
+     `dir', `du', `install', `ln', `ls', `mkdir', `mkfifo', `mknod', `mv',
+     `mvdir', `rm', `rmdir', `touch', & `vdir'.	 Only some of these are on the
+     ``Selected Utilities Diskettes''.
+
+   * `find'	    (SrcCD, UtilD, UtilT)
+
+     `find' is frequently used both interactively and in shell scripts to
+     find files which match certain criteria and perform arbitrary operations
+     on them.  Also included are `xargs', which applies a command to a list
+     of files, and `locate', which scans a database for file names that match
+     a pattern.
+
+   * Finger	    (SrcCD, UtilT)
+
+     GNU Finger has more features than other finger programs.  For sites with
+     many hosts, a single host may be designated as the finger "server" host.
+     This host collects information about who is logged in to other hosts at
+     that site.	 If a user at site A wants to know about users logged on at
+     site B, a single query to any machine at the site will return complete
+     information.
+
+   * `flex'	    (LangT, SrcCD, UtilD)
+
+     `flex' is a replacement for the `lex' scanner generator.  `flex' was
+     written by Vern Paxson of the Lawrence Berkeley Laboratory and generates
+     far more efficient scanners than `lex' does.  Texinfo source for the
+     `Flex Manual' and reference card are included.  See ``GNU Documentation''.
+
+   * Fontutils	       (SrcCD, UtilT)
+
+     The fontutils create fonts for use with Ghostscript or TeX, starting
+     with a scanned type image and converting the bitmaps to outlines.	They
+     also contain general conversion programs and other utilities.
+
+     Fontutils programs include: `bpltobzr', `bzrto', `charspace',
+     `fontconvert', `gsrenderfont', `imageto', `imgrotate', `limn', and
+     `xbfe'.
+
+   * GAS	 (BinCD, LangT, SrcCD)
+
+     GAS is the GNU assembler.	Native assembly works for many systems,
+     including: Sun 3, 4, & SPARC (SunOS 4.1 or Solaris 2); i386 (AIX,
+     386BSD, BSDI/386, Linux, SCO, Unixware); m68k (BSD, HP-UX, Convergent
+     Technologies SysV); MIPS (Ultrix, Irix); Hitachi H8/300 and H8/500; &
+     VAX (BSD, Ultrix, VMS).  Cross assembling can be done for most of the
+     above systems, plus: i386 (SCO, go32 MS-DOS/DJGPP); ebmon29k; Hitachi
+     H8/300; i960 (b.out, COFF); MIPS ECOFF (Ultrix, Iris, MIPS Magnum);
+     Nindy 960; vxworks (68k or 960); & Zilog Z8000.  See ``Forthcoming
+     GNUs'', for plans for future releases of GAS.
+
+   * GAWK	  (LangT, SrcCD)
+
+     GAWK is upwardly compatible with the System V Release 4 and POSIX
+     versions of `awk'.	 It also provides several useful extensions not found
+     in other `awk' implementations.  Texinfo source for the `GAWK Manual'
+     comes with the software.  See ``GNU Documentation''.
+
+   * GCC	 (BinCD, DjgppD, LangT, SrcCD, VMSCompT)
+
+     Version 2 of the GNU C Compiler supports three languages: C, C++ and
+     Objective-C; the source file name suffix or a compiler option selects the
+     language.	The front end support for Objective-C was donated by NeXT.
+     The runtime support needed to run Objective-C programs is now
+     distributed with GCC (this does not include any Objective-C classes
+     aside from `object').  As much as possible, G++ is kept compatible with
+     the evolving draft ANSI standard, but not with `cfront' (AT&T's
+     compiler), which has been diverging from ANSI.
+
+     The GNU C Compiler is a fairly portable optimizing compiler which
+     performs automatic register allocation, common sub-expression
+     elimination, invariant code motion from loops, induction variable
+     optimizations, constant propagation and copy propagation, delayed
+     popping of function call arguments, tail recursion elimination,
+     integration of inline functions and frame pointer elimination,
+     instruction scheduling, loop unrolling, filling of delay slots, leaf
+     function optimization, optimized multiplication by constants, a certain
+     amount of common subexpression elimination (CSE) between basic blocks
+     (though not all of the supported machine descriptions provide for
+     scheduling or delay slots), a feature for assigning attributes to
+     instructions, and many local optimizations that are automatically
+     deduced from the machine description.  Function-wide CSE has been
+     written, but needs to be cleaned up before it can be installed.
+     Position-independent code is supported on the 68k, i386, Hitachi Slt,
+     Hitachi H8/300, Clipper, 88k, SPARC & SPARClite.
+
+     GCC can open-code most arithmetic on 64-bit values (type `long long
+     int').  It supports extended floating point (type `long double') on the
+     68k; other machines will follow.
+
+     GCC supports full ANSI C, traditional C and GNU C extensions.  GNU C has
+     been extended to support nested functions, nonlocal gotos, and taking the
+     address of a label.
+
+     GCC can generate a.out, COFF, ELF & OSF-Rose files when used with a
+     suitable assembler.  It can produce debugging information in these
+     formats: BSD stabs, COFF, ECOFF, ECOFF with stabs & DWARF.
+
+     GCC generates code for many CPUs, including: a29k, Alpha, ARM, Convex cN,
+     Clipper, Elxsi, H8300, HP-PA (1.0 and 1.1) i370, i386, i486, i860, i960,
+     m68k, m68020, m88k, MIPS, ns32k, Pyramid, ROMP, RS6000, SH, SPARC,
+     SPARClite, VAX, and we32k.
+
+     Operating systems supported include: AIX, ACIS, AOS, BSD, Clix, Ctix,
+     DG/UX, Dynix, Genix, HP-UX, ISC, Irix, Linux, Luna, LynxOS, Mach, Minix,
+     NewsOS, OSF, OSF-Rose, RISCOS, SCO, Solaris 2, SunOS 4, SysV, Ultrix,
+     Unos, & VMS.
+
+     The old (version 1) machine descriptions for the Alliant, Tahoe and Spur
+     (as well as a new port for the Tron) do not work, but are still included
+     in the distribution in case someone wants to work on them.
+
+     Using the configuration scheme for GCC, building a cross-compiler is as
+     easy as building a compiler for the same target machine.  Version 2
+     supports more general calling conventions: it can pass arguments "by
+     reference" and can preallocate the space for stack arguments.  GCC 2 on
+     the SPARC uses the SPARC conventions for structure arguments and return
+     values.
+
+     We no longer distribute or maintain version 1 of GCC, G++, or libg++.
+
+     Texinfo source for the GCC manual, `Using and Porting GNU CC', is
+     included with the compiler.
+
+     See ``Forthcoming GNUs'', for plans for later releases of GCC.
+
+   * GDB	 (BinCD, LangT, SrcCD)
+
+     In GDB, object files and symbol tables are now read via the BFD library,
+     which allows a single copy of GDB to debug programs of multiple object
+     file formats such as a.out and COFF.  Other new features include command
+     language improvements, remote debugging over serial lines or TCP/IP, and
+     watchpoints (breakpoints triggered when the value of an expression
+     changes).	Exception handling, SunOS shared libraries and C++ multiple
+     inheritance are only supported when used with GCC version 2.
+
+     GDB comes with a command line user interface; GNU Emacs is distributed
+     with a GDB mode, and `xxgdb' provides an X interface (but it is not
+     distributed or maintained by the FSF; it is available for anonymous FTP
+     from `ftp.x.org' in the `/contrib' directory).
+
+     GDB uses a standard remote interface to a simulator library which (so
+     far) has simulators for the Zilog Z8001/2, Hitachi H8/300, H8/500 &
+     Super-H.
+
+     GDB can perform cross-debugging.  To say that GDB *targets* a platform
+     means that it can perform native or cross-debugging for it.  To say that
+     GDB can *host* a given platform means that it can be built on it, but
+     cannot necessarily debug native programs.	GDB can:
+
+	* *target* & *host*: DEC Alpha (OSF/1), Amiga 3000 (Amix), DECstation
+	  3100 & 5000 (Ultrix), HP 9000/300 (BSD), IBM RS/6000 (AIX), i386
+	  (BSD, SCO, Linux, LynxOS), Motorola Delta m88k (System V), NCR 3000
+	  (SVR4), SGI Iris (MIPS running Irix V3 & V4), SONY News (NewsOS
+	  3.x), Sun-3 & SPARC (SunOS 4.1, Solaris 2.0) & Ultracomputer (29K
+	  running Sym1).
+
+	* *target*, but not *host*: i960 Nindy, AMD 29000 (COFF & a.out),
+	  Fujitsu SPARClite, Hitachi H8/300, m68k & m68332.
+
+	* *host*, but not *target*: Intel 386 (Mach), IBM RT/PC (AIX) &
+	  HP/Apollo 68k (BSD).
+
+     GDB can use the symbol tables emitted by the compilers supplied by most
+     vendors of MIPS-based machines, including DEC.  (These tables are in a
+     format which almost nobody else uses.)  Texinfo source for the manual
+     `Debugging with GDB' and a reference card are included.  See
+     ``GNU Documentation''.
+
+   * `gdbm'	    (LangT, SrcCD, UtilD)
+
+     The `gdbm' library is the GNU replacement for the traditional `dbm' and
+     `ndbm' libraries.	It implements a database using quick lookup by
+     hashing.  `gdbm' does not need sparse file formats (unlike its Unix
+     counterparts).
+
+   * Ghostscript	 (SrcCD, UtilT)
+
+     Ghostscript is GNU's graphics language which is almost fully compatible
+     with Postscript (see ``Forthcoming GNUs'').
+
+     The current version of Ghostscript is 2.6.1.  Features include the
+     ability to use the fonts provided by the platform on which Ghostscript
+     runs (MIT X Window System and Microsoft Windows), resulting in much
+     better-looking screen displays; improved text file printing (like
+     `enscript'); a utility to extract the text from a Postscript document; a
+     much more reliable (and faster) Microsoft Windows implementation;
+     support for Microsoft C/C++ 7.0; drivers for many new printers,
+     including the SPARCprinter, and for TIFF/F (fax) file format; many more
+     Postscript Level 2 facilities, including most of the color space
+     facilities (but not patterns), and the ability to switch between Level 1
+     and Level 2 dynamically.
+
+     Ghostscript accepts commands in Postscript and executes them by writing
+     directly to a printer, drawing on an X window, or writing to a file that
+     you can print later (or to a bitmap file that you can manipulate with
+     other graphics programs).
+
+     Ghostscript includes a C-callable graphics library (for client programs
+     that do not want to deal with the Postscript language).  It also supports
+     IBM PCs and compatibles with EGA, VGA, or SuperVGA graphics (but please
+     do *not* ask the FSF staff any questions about this; we do not use PCs).
+
+     See ``Forthcoming GNUs'', for plans for later releases of Ghostscript.
+
+   * Ghostview	       (SrcCD, UtilT)
+
+     Tim Theisen, `ghostview@cs.wisc.edu', has created Ghostview, a previewer
+     for multi-page files that runs on top of Ghostscript.  Ghostview provides
+     an X11 user interface for the Ghostscript interpreter.  Ghostview and
+     Ghostscript function as two cooperating programs; Ghostview creates a
+     viewing window and Ghostscript draws in it.  There is a port for
+     Ghostview to MS-Windows called "GSview for Windows".  For information
+     about future releases of this program, see ``Forthcoming GNUs''.
+
+   * `gmp'	   (LangT, SrcCD)
+
+     GNU mp is a library for arbitrary precision arithmetic on signed integers
+     and rational numbers.  It has a rich set of functions with a regular
+     interface.
+
+     See ``Forthcoming GNUs'', for the plans for later releases of `gmp'.
+
+   * GNATS	   (SrcCD, UtilT)
+
+     GNATS (GNats: A Tracking System, not to be confused with GNAT, The GNU
+     Ada Translator) is a bug-tracking system.	It is based upon the paradigm
+     of a central site or organization which receives problem reports and
+     negotiates their resolution by electronic mail.  Although it has been
+     used primarily as a software bug-tracking system so far, it is
+     sufficiently generalized so that it could be used for handling system
+     administration issues, project management or any number of other
+     applications.
+
+   * `gnuplot'	       (SrcCD, UtilT)
+
+     `gnuplot' is an interactive program for plotting mathematical
+     expressions and data.  It handles both curves (2 dimensions) and surfaces
+     (3 dimensions).  Curiously, the program was neither written nor named for
+     the GNU Project; the name is a coincidence.
+
+   * GnuGo	   (SrcCD, UtilT)
+
+     GnuGo plays the game of Go (Wei-Chi); it is not yet very sophisticated.
+
+   * `gperf'	     (LangT, SrcCD)
+
+     `gperf' is a "perfect" hash-table generation utility.  There are
+     actually two implementations of `gperf', one written in C and one in
+     C++.  Both will produce hash functions in either C or C++.
+
+   * GNU Graphics	  (SrcCD, UtilT)
+
+     GNU Graphics is a set of programs which produce plots from ASCII or
+     binary data.  It supports output to Tektronix 4010, Postscript & the MIT
+     X Window System or compatible devices.  Features include support for
+     output in ln03 and TekniCAD TDA file formats; a replacement for the
+     `spline' program; examples of shell scripts using `graph' and `plot'; & a
+     statistics toolkit.
+
+     Existing ports need retesting.  Contact Rich Murphey, `Rich@rice.edu',
+     if you can help test/port it to anything beyond a SPARCstation.
+
+   * grep	  (SrcCD, UtilD, UtilT)
+
+     This package contains GNU `grep', `egrep', and `fgrep'.  They are much
+     faster than the traditional Unix versions.
+
+   * Groff	   (SrcCD, UtilT)
+
+     Groff is a document formatting system, which includes drivers for
+     Postscript, TeX `dvi' format, and typewriter-like devices, as well as
+     implementations of `eqn', `nroff', `pic', `refer', `tbl', `troff', and
+     the `man', `ms', and `mm' macros.	Groff's `mm' macro package is almost
+     compatible with the DWB `mm' macros and has several extensions.  Also
+     included is a modified version of the Berkeley `me' macros and an
+     enhanced version of the X11 `xditview' previewer.	Written in C++, these
+     programs can be compiled with GNU C++ Version 2.5 or later.
+
+     Groff users are encouraged to contribute enhancements.  Most needed are
+     complete Texinfo documentation, a `grap' emulation (a `pic' preprocessor
+     for typesetting graphs), a page-makeup postprocessor similar to `pm'
+     (see `Computing Systems', Vol. 2, No. 2; ask `office@usenix.org' for
+     information on obtaining a copy) and an ASCII output class for `pic' so
+     that `pic' can be integrated with Texinfo.	 Questions and bug reports
+     from users who have read the documentation that is provided with the
+     distribution can be sent to `bug-groff@prep.ai.mit.edu'.
+
+   * `gzip'	    (DjgppD, EmcsT, LangT, SrcCD, UtilT)
+
+     Some of the contents of our tape and FTP distributions are compressed.
+     We have software on our tapes and FTP sites to uncompress these files.
+     Due to patent troubles with `compress', we have switched to another
+     compression program, `gzip'.  `gzip' can expand LZW-compressed files but
+     uses a different algorithm for compression which generally produces
+     better results.  It also uncompresses files compressed with System V's
+     `pack' program.
+
+   * `hello'	     (SrcCD, UtilT)
+
+     The GNU `hello' program produces a familiar, friendly greeting.  It
+     allows non-programmers to use a classic computer science tool which would
+     otherwise be unavailable to them.	Because it is protected by the GNU
+     General Public License, users are free to share and change it.
+
+     Like any truly useful program, `hello' provides a built-in mail reader.
+
+   * `hp2xx'	     (SrcCD, UtilT)
+
+     GNU `hp2xx' reads HP-GL files, decomposes all drawing commands into
+     elementary vectors, and converts them into a variety of vector and raster
+     output formats.  It is also an HP-GL previewer.  Currently supported
+     vector formats include encapsulated Postscript, Uniplex RGIP, Metafont
+     and various special TeX-related formats, and simplified HP-GL (line
+     drawing only) for imports.	 Raster formats supported include IMG, PBM,
+     PCX, & HP-PCL (including Deskjet & DJ5xxC support).  Previewers work
+     under X11 (Unix), OS/2 (PM & full screen), MS-DOS (SVGA, VGA, & HGC).
+
+   * `indent'	      (SrcCD, UtilD, UtilT)
+
+     GNU `indent' is a revision of the BSD version.  By default, it formats C
+     source according to the GNU coding standards.  The BSD default, K&R and
+     other formats are available as options.  It is also possible to define
+     your own format.  GNU `indent' is more robust and provides more
+     functionality than other versions, e.g., it handles C++ comments.
+
+   * Ispell	    (SrcCD, UtilT)
+
+     Ispell is an interactive spell checker that suggests "near misses" as
+     replacements for unrecognized words.  System and user-maintained
+     dictionaries can be used.	Standalone and GNU Emacs interfaces are
+     available.
+
+   * JACAL	   *Not available from the FSF*
+
+     JACAL is a symbolic mathematics system for the manipulation and
+     simplification of equations and single and multiple-valued algebraic
+     expressions constructed of numbers, variables, radicals, and algebraic
+     functions, differential operators and holonomic functions.	 In addition,
+     vectors, matrices, and tensors of the above objects are included.
+
+     JACAL was written in Scheme by Aubrey Jaffer.  It comes with SCM, an IEEE
+     P1178 and R4RS compliant version of Scheme written in C.  SCM runs on
+     Amiga, Atari-ST, MS-DOS, OS/2, NOS/VE, Unicos, VMS, Unix, and similar
+     systems.  SLIB is a portable Scheme library used by JACAL.	 Get JACAL,
+     SLIB and SCM sources via anonymous FTP from either `ftp.maths.tcd.ie' in
+     `/pub/bosullvn/jacal', `altdorf.ai.mit.edu' in `/archive/scm', or
+     `prep.ai.mit.edu' in `/pub/gnu/jacal'.
+
+     The FSF is not distributing JACAL on any media.  To receive an IBM PC
+     floppy disk with the source and executable files, send $99.00 to:
+
+	Aubrey Jaffer
+	84 Pleasant Street
+	Wakefield, MA	01880
+	USA
+
+   * `m4'	  (SrcCD, UtilD, UtilT)
+
+     GNU `m4' is an implementation of the traditional Unix macro processor.
+     It is mostly SVR4 compatible, although it has some extensions (for
+     example, handling more than 9 positional parameters to macros).  `m4'
+     also has built-in functions for including files, running shell commands,
+     doing arithmetic, etc.
+
+   * `make'	    (BinCD, EmcsT, LangT, SrcCD, UtilD, UtilT)
+
+     GNU `make' supports POSIX 1003.2 and has all but a few obscure features
+     of the BSD and System V versions of `make', as well as many of our own
+     extensions.  GNU extensions include long options, parallel compilation,
+     flexible implicit pattern rules, conditional execution and powerful text
+     manipulation functions.  Recent versions have improved error reporting
+     and added support for the popular `+=' syntax to append more text to a
+     variable's definition.  Texinfo source for the `Make Manual' comes with
+     the program.  See ``GNU Documentation''.
+
+     GNU `make' is on several of our tapes because some system vendors supply
+     no `make' utility at all, and some native `make' programs lack the
+     `VPATH' feature essential for using the GNU configure system to its full
+     extent.  The GNU `make' sources have a shell script to build `make'
+     itself on such systems.
+
+   * MandelSpawn	 (SrcCD, UtilT)
+
+     A parallel Mandelbrot generation program for the MIT X Window System.
+
+   * mtools	    (SrcCD, UtilT)
+
+     mtools is a set of public domain programs to allow Unix systems to read,
+     write and manipulate files on an MS-DOS file system (usually a diskette).
+
+   * MULE	  (SrcCD)
+
+     MULE is a MULtilingual Enhancement to GNU Emacs 18.  It can handle many
+     character sets at once including Japanese, Chinese, Korean, Vietnamese,
+     Thai, Greek, the ISO Latin-1 through Latin-5 character sets, Ukrainian,
+     Russian, and other Cyrillic alphabets.  A text buffer in MULE can
+     contain a mixture of characters from these languages.  To input any of
+     these characters, you can use various input methods provided by MULE
+     itself.  In addition, if you use MULE under some terminal emulators
+     (kterm, cxterm, or exterm), you can use its input methods.	 See ``GNU
+     and Other Free Software in Japan'', for more information about MULE.
+
+   * NetHack	     (SrcCD, UtilT)
+
+     NetHack is a display-oriented adventure game similar to Rogue.  Both
+     ASCII and X displays are supported.
+
+   * NIH Class Library	       (LangT, SrcCD)
+
+     The NIH Class Library (formerly known as "OOPS", Object-Oriented Program
+     Support) is a portable collection of C++ classes, similar to those in
+     Smalltalk-80, which has been developed by Keith Gorlen of the National
+     Institutes of Health (NIH), using the C++ programming language.
+
+   * `nvi'	   (SrcCD, UtilT)
+
+     `nvi' is a free implementation of the `vi'/`ex' Unix editor.  It has
+     most of the functionality of the original `vi'/`ex', except "open" mode
+     & the `lisp' option, which will be added.	Enhancements over `vi'/`ex'
+     include split screens with multiple buffers, ability to handle 8-bit
+     data, infinite file & line lengths, tag stacks, infinite undo & extended
+     regular expressions.  It runs under BSD, Linux, NetBSD, FreeBSD, BSDI,
+     AIX, HP-UX, DGUX, IRIX, PSF, PTX, Solaris, SunOS, Ultrix, Unixware &
+     should port easily to many other systems.
+
+   * Octave	    (LangT, SrcCD)
+
+     Octave is a high-level language that is primarily intended for numerical
+     computations.  It provides a convenient command line interface for
+     solving linear and nonlinear problems numerically.
+
+     Octave does arithmetic for real and complex scalars and matrices, solve
+     sets of nonlinear algebraic equations, integrate functions over finite
+     and infinite intervals, and integrate systems of ordinary differential
+     and differential-algebraic equations.  Send queries and bug reports to:
+     `bug-octave@che.utexas.edu'.
+
+     Octave is available via anonymous ftp from `ftp.che.utexas.edu' in the
+     directory `/pub/octave'.  The files are in gzipped `tar' format (see the
+     file `/pub/gnu/README' on `prep.ai.mit.edu').  Source is included for a
+     150+ page Texinfo manual, which is not yet published by the FSF.
+
+   * Oleo	  (SrcCD, UtilT)
+
+     Oleo is a spreadsheet program (better for you than the more expensive
+     spreadsheets).  It supports the MIT X Window System and character-based
+     terminals, and can output Embedded Postscript renditions of spreadsheets.
+     Keybindings should be familiar to Emacs users and are configurable.
+     Under X and in Postscript output, Oleo supports multiple, variable width
+     fonts.  See ``Forthcoming GNUs'', for the plans for later releases of
+     Oleo.
+
+   * `p2c'	   (LangT, SrcCD)
+
+     `p2c' is a Pascal-to-C translator written by Dave Gillespie.  It
+     recognizes many Pascal dialects including Turbo, HP, VAX, and ISO, and
+     produces readable, maintainable, portable C.
+
+   * `patch'	     (SrcCD, UtilT)
+
+     `patch' is our version of Larry Wall's program to take `diff''s output
+     and apply those differences to an original file to generate the modified
+     version.
+
+   * PCL	 (EmcsT, SrcCD)
+
+     PCL is a free implementation of a large subset of CLOS, the Common Lisp
+     Object System.  It runs under CLISP, mentioned above.
+
+   * `perl'	    (LangT, SrcCD)
+
+     Larry Wall's `perl' combines the features and capabilities of `sed',
+     `awk', `sh' and C, as well as interfaces to all the system calls and
+     many C library routines.  A perl mode for editing `perl' code comes with
+     GNU Emacs 19.
+
+   * `ptx'	   (SrcCD, UtilD, UtilT)
+
+     GNU `ptx' is the GNU version of the traditional permuted index
+     generator.	 It can handle multiple input files at once, produce TeX
+     compatible output, and produce readable "KWIC" (KeyWords In Context)
+     indexes without needing to use `nroff'.  This version does not handle
+     input files that do not fit in memory all at once.
+
+   * `rc'	  (SrcCD, UtilT)
+
+     `rc' is a shell that features a C-like syntax (much more so than `csh')
+     and far cleaner quoting rules than the C or Bourne shells.	 It's
+     intended to be used interactively, but is also great for writing
+     scripts.  It inspired the shell `es'.
+
+   * RCS	 (SrcCD, UtilD, UtilT)
+
+     The Revision Control System, RCS, is used for version control and
+     management of software projects.  When used with GNU `diff', RCS can
+     handle binary files (executables, object files, 8-bit data, etc).	Also
+     see the item about CVS in this article.
+
+   * `recode'	      (SrcCD, UtilT)
+
+     GNU `recode' converts files between character sets and usages.  When
+     exact transliterations are not possible, it may get rid of the offending
+     characters or fall back on approximations.	 This program recognizes or
+     produces nearly 150 different character sets and is able to
+     transliterate files between almost any pair.  Most RFC 1345 character
+     sets are supported.
+
+   * regex	   (LangT, SrcCD)
+
+     The GNU regular expression library supports POSIX.2, except for
+     internationalization features.  In the past, it has been included in many
+     GNU programs which use regex routines.  Now it is finally available
+     separately.  A faster version of this library comes with `sed'.
+
+   * Scheme	    (SchmT)
+
+     For information about Scheme, see ``Scheme Tape''.
+
+   * `screen'	      (SrcCD, UtilT)
+
+     `screen' is a terminal multiplexer that runs several separate "screens"
+     (ttys) on a single physical character-based terminal.  Each virtual
+     terminal emulates a DEC VT100 plus several ANSI X3.64 and ISO 2022
+     functions.	 `screen' sessions can be detached and resumed later on a
+     different terminal type.
+
+   * `sed'	   (SrcCD, UtilD, UtilT)
+
+     `sed' is a stream-oriented version of `ed'.  It is used copiously in
+     shell scripts.  GNU `sed' comes with the rx library, which is a faster
+     version of regex (see ``Forthcoming GNUs'').
+
+   * Shellutils		(SrcCD, UtilT)
+
+     Use shellutils interactively or in shell scripts: `basename', `date',
+     `dirname', `echo', `env', `expr', `false', `groups', `id', `nice',
+     `nohup', `printenv', `printf', `sleep', `stty', `su', `tee', `test',
+     `true', `tty', `uname', `who', `whoami', and `yes'.
+
+   * GNU Shogi	       (SrcCD, UtilT)
+
+     Shogi is a Japanese game similar to Chess; a major difference is that
+     captured pieces can be returned into play.
+
+     GNU Shogi has been created by modifying GNU Chess; GNU Shogi implements
+     the same features as GNU Chess and uses similar heuristics.  As a new
+     feature, sequences of partial board patterns can be introduced in order
+     to help the program play a good order of moves towards specific opening
+     patterns.	There are both character and X display interfaces.
+
+     GNU Shogi is primarily supported by Matthias Mutz on behalf of the FSF.
+
+	Matthias Mutz
+	Universitaet Passau, FMI
+	94030 Passau
+	Germany
+
+	Electronic-mail: `mutz@fmi.uni-passau.de'
+
+   * Smalltalk	       (LangT, SrcCD)
+
+     GNU Smalltalk is an interpreted object-oriented programming language
+     system written in highly portable C.  It has been successfully ported to
+     many Unix and some other platforms, including DOS (but these non-Unix
+     ports are not available from the FSF).  Current features include a
+     binary image save capability, the ability to invoke user-written C code
+     and pass parameters to it, a GNU Emacs editing mode, a version of the X
+     protocol invocable from Smalltalk, optional byte-code compilation
+     tracing and byte-code execution tracing, and automatically loaded
+     per-user initialization files.  It implements all of the classes and
+     protocol in the Smalltalk-80 book "Smalltalk-80: The Language", except
+     for the graphic user interface (`GUI') related classes.
+
+     See ``Forthcoming GNUs'', for plans for later releases of Smalltalk.
+
+   * Superopt	      (LangT, SrcCD)
+
+     Superopt is a function sequence generator that uses an exhaustive
+     generate-and-test approach to find the shortest instruction sequence for
+     a given function.	You provide the GNU superoptimizer, `gso', a
+     function, a CPU to generate code for, and how many instructions you can
+     accept.  Its application in GCC is described in the `ACM SIGPLAN
+     PLDI'92' proceedings.  Superopt supports: SPARC, m68k, m68020, m88k, IBM
+     RS/6000, AMD 29000, Intel 80x86, Pyramid, DEC Alpha, & HP-PA.
+
+   * `tar'	   (SrcCD, UtilT)
+
+     GNU `tar' includes multivolume support, the ability to archive sparse
+     files, automatic archive compression/decompression, remote archives and
+     special features that allow `tar' to be used for incremental and full
+     backups.  Unfortunately, GNU `tar' implements an early draft of the
+     POSIX 1003.1 `ustar' standard which is different from the final
+     standard.	Adding support for the new changes in a backward-compatible
+     fashion is not trivial.
+
+   * Termcap Library	     (SrcCD, UtilT)
+
+     The GNU Termcap library is a drop-in replacement for `libtermcap.a' on
+     any system.  It does not place an arbitrary limit on the size of Termcap
+     entries, unlike most other Termcap libraries.  Included is source for the
+     `Termcap Manual' in Texinfo format.  See ``GNU Documentation''.
+
+   * TeX	 (SrcCD)
+
+     TeX is a document formatting system that handles complicated
+     typesetting, including mathematics.  It is GNU's standard text formatter.
+
+     You can obtain TeX from the University of Washington, which maintains and
+     supports a tape distribution of TeX for Unix systems.  The core material
+     consists of Karl Berry's `web2c' TeX package, the sources for which are
+     available via anonymous ftp; retrieval instructions are in
+     `pub/tex/FTP.nwc' on `ftp.cs.umb.edu'.  If you receive any installation
+     support from the University of Washington, please consider sending them
+     a donation.
+
+     To order a full distribution written in `tar' on either a 1/4inch
+     4-track QIC-24 cartridge or a 4mm DAT cartridge, send $210.00 to:
+
+	Northwest Computing Support Center
+	DR-10, Thomson Hall 35
+	University of Washington
+	Seattle, WA   98195
+	USA
+
+	Electronic-Mail: `unixtex@u.washington.edu'
+	Telephone: +1-206-543-6259
+
+     Please make checks payable to the University of Washington.  Checks must
+     be in U.S. dollars, drawn on a U.S. bank.	Prepaid orders are preferred
+     but purchase orders are acceptable; however, they carry an extra charge
+     of $10.00 to pay for invoice processing.  Overseas sites: please add to
+     the base cost $20.00 for shipment via air parcel post, or $30.00 for
+     shipment via courier.  Please check with the above for current prices
+     and formats.
+
+   * Texinfo	     (EmcsT, LangT, SrcCD, UtilD, UtilT)
+
+     Texinfo is a set of utilities which generate both printed manuals and
+     online hypertext-style documentation (called "Info").  There are also
+     programs for reading online Info documents.  Version 3 has both GNU Emacs
+     Lisp and standalone programs written in C or shell script.	 Texinfo mode
+     for GNU Emacs enables easy editing and updating of Texinfo files.
+     Programs provided include `makeinfo', `info', `texi2dvi', `texindex',
+     `tex2patch', and `fixfonts'.  Source for the `Texinfo Manual' is
+     included.	See ``GNU Documentation''.
+
+   * Textutils	       (SrcCD, UtilT)
+
+     The Textutils programs manipulate textual data.  They include: `cat',
+     `cksum', `comm', `csplit', `cut', `expand', `fold', `head', `join', `nl',
+     `od', `paste', `pr', `sort', `split', `sum', `tac', `tail', `tr',
+     `unexpand', `uniq', and `wc'.
+
+   * Tile Forth		(LangT, SrcCD)
+
+     Tile Forth is a 32-bit implementation of the Forth-83 standard written in
+     C, allowing it to be easily moved between different computers.
+     (Traditionally, Forth implementations are written in assembler to use
+     the underlying hardware as optimally as possible, but this also makes
+     them less portable.)
+
+   * `time'	    (SrcCD, UtilT)
+
+     `time' is used to report statistics (usually from a shell) about the
+     amount of user, system and real time used by a process.  On some systems
+     it also reports memory usage, page faults, and other statistics.
+
+   * `tput'	    (SrcCD, UtilT)
+
+     `tput' is a portable way for shell scripts to use special terminal
+     capabilities.  Our `tput' uses the Termcap database, instead of Terminfo
+     as most others do.
+
+   * UUCP	  (SrcCD, UtilT)
+
+     This version of UUCP was written by Ian Lance Taylor, and is GNU's
+     standard UUCP system.  It supports the `f', `g' and `v' (in all window
+     and packet sizes), `G', `t', `e', Zmodem and two new bidirectional (`i'
+     and `j') protocols.  If you have a Berkeley sockets library, it can make
+     TCP connections.  If you have TLI libraries, it can make TLI
+     connections.  Source is included for a Texinfo manual, which is not yet
+     published by the FSF.
+
+   * `uuencode' and `uudecode'	       (SrcCD, UtilT)
+
+     `uuencode' and `uudecode' are used to transmit binary files over
+     transmission mediums that support only simple ASCII data.
+
+   * `wdiff'	     (SrcCD, UtilT)
+
+     `wdiff' is a front-end to GNU `diff'.  It compares two files, finding
+     which words have been deleted or added to the first in order to create
+     the second.  It has many output formats and interacts well with
+     terminals and pagers.  `wdiff' is particularly useful when two texts
+     differ only by a few words and paragraphs have been refilled.
+
+----------------------------------------------------------------------
+
+Forthcoming GNUs
+****************
+
+Information about the current status of released GNU programs can be found in
+``GNU Software''.  Here is some news of future plans.
+
+   * `makeinfo' and the World Wide Web	       (Also see ``GNU Software''.)
+
+     `makeinfo' is being modified to translate Texinfo source files into HTML
+     documents that can be displayed from the Internet's World Wide Web.
+
+   * GNU Common Lisp	     (For current status, see ``GNU Software''.)
+
+     Planned development for GNU Common Lisp (GCL) includes moving to the ANSI
+     standard, adding a byte compiler with source level debugging, and adding
+     a windowing interface.  A new compiler is being tested; it will make all
+     functions pass arguments on the C stack and return values in a standard
+     register with additional locations when necessary.	 This will speed up
+     other function calls and funcalling (critical for object oriented work).
+     Contributors to any of these areas would be helpful; contact
+     `schelter@math.utexas.edu'.
+
+   * GNU Emacs	       (For current status, see ``GNU Software''.)
+
+     Emacs is the extensible, customizable, self-documenting real-time
+     display editor.  Features planned for future releases of Emacs include:
+     different visibility conditions for regions and for multiple windows
+     showing the same buffer; incrementally saving the undo history in a
+     file, so that you can undo older changes in the history; support for
+     variable-width fonts; and support for wide character sets including all
+     the world's major languages.
+
+   * C Interpreter
+
+     The FSF is adding interpreter facilities to the GNU compiler and
+     debugger.	This task is partly finished.  GCC now generates byte code
+     (for all supported languages: C, C++ and Objective-C) and another package
+     interprets it.
+
+     To make this work usable, we need to add features to GDB to load the byte
+     code dynamically.	We also would like C compiler support for compiling
+     just a specified few functions in a file.	Due to limited resources, the
+     FSF cannot fund this.  Interested volunteers should contact
+     `gnu@prep.ai.mit.edu'.
+
+   * GAS	 (For current status, see ``GNU Software''.)
+
+     The GNU assembler is in the process of being rewritten to fully use the
+     BFD library.  Currently BFD is used only on some platforms.  When this
+     work is finished, porting the entire compiler support suite (GAS and
+     Binutils) to new platforms should be easier.  Forthcoming versions will
+     include support for the HP-PA, DEC Alpha (running OSF/1), RS/6000 and
+     PowerPC processors.
+
+   * GCC	 (For current status, see ``GNU Software''.)
+
+     New front ends for GCC are being developed, but they are not yet part of
+     GCC.  A front end for Fortran is now in alpha test and is approaching
+     completion, and a front end for Ada (GNAT: The GNU Ada Translator) is
+     available via anonymous FTP from `cs.nyu.edu' in `/pub/gnat', though it
+     is not yet stable.	 News about GNAT is posted to the USENET newsgroup
+     `comp.lang.ada'.  Volunteers are also developing a Pascal front end.
+
+   * GNU Fortran	 (For info on `f2c' & GCC, see ``GNU Software''.)
+
+     GNU Fortran (`g77') is in "private" alpha test (testing by a small group
+     of experts) and is not yet publicly released.  Until `g77' is fully
+     released to the public, we ask people to use `f2c' (a Fortran-to-C
+     translator) with GCC.  As `g77' uses a lot of these tools (the `f2c'
+     libraries and the GCC back end), using them and reporting any problems
+     you find will help speed the release of `g77'.
+
+     The primary focus of the alpha test is to test the `g77' front end,
+     since that has most of the new code.  The secondary focus of the alpha
+     test is to test the integration between the front end and the back end.
+     Currently, this is where most of the bugs seem to be.  The tertiary focus
+     is the quality of code generated by the GNU back end for Fortran.
+
+     We hope to have a `g77' beta release in summer 1994, as part of the
+     regular compiler distribution.  A mailing list exists for announcements
+     about `g77'.  To subscribe, ask
+     `info-gnu-fortran-request@prep.ai.mit.edu'.  To contact the author and
+     maintainer of `g77', write to `fortran@prep.ai.mit.edu'.
+
+   * Ghostscript	 (For current status, see ``GNU Software''.)
+
+     Ghostscript 2.6.2, consisting of version 2.6.1 with bug fixes, will be
+     released and distributed by FSF sometime in late 1994.  Ghostscript 3.0
+     will be released and distributed by FSF in the second quarter of 1995; a
+     future GNU's Bulletin will have a more definite date.  It will implement
+     the full PostScript Level 2 language except for LZW compression, which
+     can't be freely implemented because of software patents.  (Prohibitions
+     like this on programming are what the League for Programming Freedom is
+     fighting.	See ``What Is the LPF?'', for details.)
+
+   * GSview for Windows and OS/2	 (Also see ``GNU Software''.)
+
+     A new version of Russell Lang's Ghostview for Windows will be released
+     during the second quarter of 1994.	 The name has been changed to "GSview
+     for Windows" in order to avoid confusion with Tim Theisen's Ghostview.
+     An OS/2 port called "PM GSview" will be released at the same time.	 For
+     more information, contact Russell at `rjl@monu1.cc.monash.edu.au'.
+
+   * `gmp'	   (For current status, see ``GNU Software''.)
+
+     The GNU mp library, version 2.0, (due out soon) has arbitrary precision
+     floating point arithmetic, is more portable, and is up to 4 times faster
+     than previous versions.
+
+   * Oleo	  (For current status, see ``GNU Software''.)
+
+     Volunteers are writing an Oleo manual and extensions to the Oleo
+     interface.
+
+   * rx, a faster regular expression library
+
+     Tom Lord has written a new regular expression library which is faster
+     than the current library we use.  Currently it is only being distributed
+     with `sed'; eventually we will distribute it as a separate package as
+     well.  This new library is nearly a drop-in replacement for the current
+     regex library used by the GNU Project, but it needs a few more features
+     before it can be used in Emacs.
+
+   * Smalltalk	       (For current status, see ``GNU Software''.)
+
+     Future versions will contain significant performance improvements,
+     ability to use the Smalltalk interpreter as a subroutine, better
+     interfaces to the MIT X Window System, ability to represent and
+     manipulate C data structures in Smalltalk, conditional compilation
+     facilities, large integer support, exceptions, and weak references &
+     finalization support.
+
+----------------------------------------------------------------------

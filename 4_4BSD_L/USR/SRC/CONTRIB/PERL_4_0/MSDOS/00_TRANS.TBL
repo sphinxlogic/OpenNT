@@ -1,0 +1,13 @@
+F CHANGES.DDS                       	Changes.dds
+F CHDIR.C                           	chdir.c
+F CONFIG.H                          	config.h
+F DIR.H                             	dir.h
+F DIRECTOR.C                        	directory.c
+D EG                                	eg
+F GLOB.C                            	glob.c
+F MAKEFILE                          	Makefile
+F MSDOS.C                           	msdos.c
+F POPEN.C                           	popen.c
+F README.MSD                        	README.msdos
+F USAGE.C                           	usage.c
+F WISHLIST.DDS                      	Wishlist.dds

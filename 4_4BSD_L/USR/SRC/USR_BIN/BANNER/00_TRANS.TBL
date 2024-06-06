@@ -1,0 +1,5 @@
+F BANNER.6                          	banner.6
+F BANNER.C                          	banner.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/banner
+F TAGS                              	tags

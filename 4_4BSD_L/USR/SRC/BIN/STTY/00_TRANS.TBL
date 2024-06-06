@@ -1,0 +1,13 @@
+F CCHAR.C                           	cchar.c
+F EXTERN.H                          	extern.h
+F GFMT.C                            	gfmt.c
+F KEY.C                             	key.c
+F MAKEFILE                          	Makefile
+F MODES.C                           	modes.c
+L OBJ                               	obj	/usr/obj/bin/stty
+F PRINT.C                           	print.c
+F STTY.1                            	stty.1
+F STTY.C                            	stty.c
+F STTY.H                            	stty.h
+F TAGS                              	tags
+F UTIL.C                            	util.c

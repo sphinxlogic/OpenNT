@@ -1,0 +1,10 @@
+F FFS_ALLO.C                        	ffs_alloc.c
+F FFS_BALL.C                        	ffs_balloc.c
+F FFS_EXTE.H                        	ffs_extern.h
+F FFS_INOD.C                        	ffs_inode.c
+F FFS_SUBR.C                        	ffs_subr.c
+F FFS_TABL.C                        	ffs_tables.c
+F FFS_VFSO.C                        	ffs_vfsops.c
+F FFS_VNOP.C                        	ffs_vnops.c
+F FS.H                              	fs.h
+L TAGS                              	tags	/var/db/sys_tags

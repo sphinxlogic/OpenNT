@@ -1,0 +1,26 @@
+F ASIC.H                            	asic.h
+F AUTOCONF.C                        	autoconf.c
+F CLOCK.C                           	clock.c
+F CLOCKREG.H                        	clockreg.h
+F CONF.C                            	conf.c
+F CONS.C                            	cons.c
+F CONS.H                            	cons.h
+F FP.S                              	fp.s
+F GENASSYM.C                        	genassym.c
+F KADB.C                            	kadb.c
+F KMIN.H                            	kmin.h
+F KN01.H                            	kn01.h
+F KN02.H                            	kn02.h
+F KN03.H                            	kn03.h
+F LOCORE.S                          	locore.s
+F MACHDEP.C                         	machdep.c
+F MAXINE.H                          	maxine.h
+F MEM.C                             	mem.c
+F PMAP.C                            	pmap.c
+F PMAXTYPE.H                        	pmaxtype.h
+F SWAPGENE.C                        	swapgeneric.c
+F SYS_MACH.C                        	sys_machdep.c
+L TAGS                              	tags	/var/db/sys_tags
+F TRAP.C                            	trap.c
+F TURBOCHA.H                        	turbochannel.h
+F VM_MACHD.C                        	vm_machdep.c

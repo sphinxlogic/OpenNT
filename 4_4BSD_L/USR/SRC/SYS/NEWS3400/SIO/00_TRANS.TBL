@@ -1,0 +1,6 @@
+F SCC.C                             	scc.c
+F SCC.H                             	scc.h
+F SCCPARAM.H                        	sccparam.h
+F SCCREG.H                          	sccreg.h
+F SCC_CONF                          	scc.conf
+L TAGS                              	tags	/var/db/sys_tags

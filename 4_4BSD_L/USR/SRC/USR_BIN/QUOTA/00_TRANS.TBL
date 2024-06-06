@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/quota
+F QUOTA.1                           	quota.1
+F QUOTA.C                           	quota.c
+F TAGS                              	tags

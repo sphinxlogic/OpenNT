@@ -1,0 +1,16 @@
+F EVAL.C                            	eval.c
+F EXPR.C                            	expr.c
+F EXTERN.H                          	extern.h
+F LOOK.C                            	look.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MDEF.H                            	mdef.h
+F MISC.C                            	misc.c
+F NOTES                             	NOTES
+L OBJ                               	obj	/usr/obj/usr.bin/m4
+F PATHNAME.H                        	pathnames.h
+D PSD_DOC                           	PSD.doc
+F SERV.C                            	serv.c
+F STDD.H                            	stdd.h
+F TAGS                              	tags
+D TEST                              	TEST

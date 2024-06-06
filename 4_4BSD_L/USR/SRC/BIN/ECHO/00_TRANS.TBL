@@ -1,0 +1,5 @@
+F ECHO.1                            	echo.1
+F ECHO.C                            	echo.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/echo
+F TAGS                              	tags

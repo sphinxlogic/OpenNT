@@ -1,0 +1,16 @@
+F ADDRSBR.H                         	addrsbr.h
+F ALIASBR.H                         	aliasbr.h
+F DROPSBR.H                         	dropsbr.h
+F FMTCOMPI.H                        	fmtcompile.h
+F FORMATSB.H                        	formatsbr.h
+F LOCAL.H                           	local.h
+F MD5.H                             	md5.h
+F MH.H                              	mh.h
+F MHN.H                             	mhn.h
+F MSHSBR.H                          	mshsbr.h
+F NETDB.H                           	netdb.h
+F NNTP.H                            	nntp.h
+F RCVMAIL.H                         	rcvmail.h
+F SCANSBR.H                         	scansbr.h
+F STRINGS.H                         	strings.h
+F VMHSBR.H                          	vmhsbr.h

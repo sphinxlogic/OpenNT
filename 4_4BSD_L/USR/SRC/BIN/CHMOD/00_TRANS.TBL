@@ -1,0 +1,5 @@
+F CHMOD.1                           	chmod.1
+F CHMOD.C                           	chmod.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/chmod
+F TAGS                              	tags

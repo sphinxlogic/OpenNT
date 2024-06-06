@@ -1,0 +1,5 @@
+F LEAVE.1                           	leave.1
+F LEAVE.C                           	leave.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/leave
+F TAGS                              	tags

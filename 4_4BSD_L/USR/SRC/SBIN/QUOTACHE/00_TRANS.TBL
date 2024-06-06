@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/quotacheck
+F QUOTACHE.8                        	quotacheck.8
+F QUOTACHE.C                        	quotacheck.c
+F TAGS                              	tags

@@ -1,0 +1,14 @@
+F DESCRIP.MMS                       	descrip.mms
+F FCNTL.H                           	fcntl.h
+F GAWK.CLD                          	gawk.cld
+F GAWK.HLP                          	gawk.hlp
+F UNIXLIB.H                         	unixlib.h
+F VARARGS.H                         	varargs.h
+F VMS.H                             	vms.h
+F VMSBUILD.COM                      	vmsbuild.com
+F VMS_ARGS.C                        	vms_args.c
+F VMS_CLI.C                         	vms_cli.c
+F VMS_FWRI.C                        	vms_fwrite.c
+F VMS_GAWK.C                        	vms_gawk.c
+F VMS_MISC.C                        	vms_misc.c
+F VMS_POPE.C                        	vms_popen.c

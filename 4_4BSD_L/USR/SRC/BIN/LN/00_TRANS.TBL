@@ -1,0 +1,6 @@
+F LN.1                              	ln.1
+F LN.C                              	ln.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/ln
+F SYMLINK.7                         	symlink.7
+F TAGS                              	tags

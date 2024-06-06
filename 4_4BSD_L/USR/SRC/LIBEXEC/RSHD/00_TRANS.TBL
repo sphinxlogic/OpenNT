@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/rshd
+F RSHD.8                            	rshd.8
+F RSHD.C                            	rshd.c
+F TAGS                              	tags

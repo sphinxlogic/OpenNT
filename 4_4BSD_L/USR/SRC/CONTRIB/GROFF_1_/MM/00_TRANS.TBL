@@ -1,0 +1,10 @@
+F CHANGELO                          	ChangeLog
+F GROFF_M0.MAN                      	groff_mm.man
+F GROFF_M1.MAN                      	groff_mmse.man
+F MAKEFILE.SUB                      	Makefile.sub
+D MM                                	mm
+L MM.7                              	mm.7	groff_mm.man
+F NOTES                             	NOTES
+F README                            	README
+F TMAC.M                            	tmac.m
+F TMAC.MSE                          	tmac.mse

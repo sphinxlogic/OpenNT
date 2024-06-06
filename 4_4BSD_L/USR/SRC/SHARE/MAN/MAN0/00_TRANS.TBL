@@ -1,0 +1,17 @@
+F BREAK                             	break
+F COVER                             	cover
+F CSHCMD                            	cshcmd
+F GROFF.SED                         	groff.sed
+F IGNORE                            	ignore
+F MAKEFILE                          	Makefile
+F MAN1                              	man1
+F MAN2                              	man2
+F MAN3                              	man3
+F MAN4                              	man4
+F MAN5                              	man5
+F MAN6                              	man6
+F MAN7                              	man7
+F MAN8                              	man8
+F TITLE.PRM                         	title.prm
+F TITLE.URM                         	title.urm
+F TOCRC                             	tocrc

@@ -1,0 +1,19 @@
+F COMP.C                            	comp.c
+F END.C                             	end.c
+F EXTERN.C                          	extern.c
+F INIT.C                            	init.c
+F MAKEFILE                          	Makefile
+F MILLE.6                           	mille.6
+F MILLE.C                           	mille.c
+F MILLE.H                           	mille.h
+F MISC.C                            	misc.c
+F MOVE.C                            	move.c
+L OBJ                               	obj	/usr/obj/games/mille
+F PRINT.C                           	print.c
+F ROLL.C                            	roll.c
+F SAVE.C                            	save.c
+F TABLE.C                           	table.c
+F TAGS                              	tags
+F TYPES.C                           	types.c
+F UNCTRL.H                          	unctrl.h
+F VARPUSH.C                         	varpush.c

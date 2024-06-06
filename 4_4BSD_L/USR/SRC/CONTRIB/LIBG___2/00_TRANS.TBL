@@ -1,0 +1,16 @@
+D CONFIG                            	config
+F CONFIG.STA                        	config.status
+F CONFIG.SUB                        	config.sub
+F CONFIGUR                          	configure
+F CONFIGUR.IN                       	configure.in
+D ETC                               	etc
+D INCLUDE                           	include
+D LIBG__                            	libg++
+D LIBIBERT                          	libiberty
+L MAKEFILE                          	Makefile	Makefile.BSD
+F MAKEFILE.BSD                      	Makefile.BSD
+F MAKEFILE.GNU                      	Makefile.GNU
+F MAKEFILE.IN                       	Makefile.in
+F MOVE_IF_                          	move-if-change
+F README                            	README
+F README.BSD                        	README.BSD

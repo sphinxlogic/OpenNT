@@ -1,0 +1,10 @@
+F BOOT_HP3.8                        	boot_hp300.8
+F BOOT_I38.8                        	boot_i386.8
+F BOOT_SPA.8                        	boot_sparc.8
+F BOOT_TAH.8                        	boot_tahoe.8
+F BOOT_VAX.8                        	boot_vax.8
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/reboot
+F REBOOT.8                          	reboot.8
+F REBOOT.C                          	reboot.c
+F TAGS                              	tags

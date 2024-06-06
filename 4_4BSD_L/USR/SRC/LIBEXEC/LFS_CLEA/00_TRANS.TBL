@@ -1,0 +1,9 @@
+F CLEAN.H                           	clean.h
+F CLEANERD.C                        	cleanerd.c
+F LFS_CLEA.8                        	lfs_cleanerd.8
+F LIBRARY.C                         	library.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/libexec/lfs_cleanerd
+F PRINT.C                           	print.c
+F TAGS                              	tags

@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pascal/px_header
+F PX_HEADE.C                        	px_header.c
+L WHOAMI.H                          	whoami.h	../src/piwhoami.h

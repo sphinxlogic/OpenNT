@@ -1,0 +1,17 @@
+F CHANGES                           	CHANGES
+D CONF                              	conf
+D CONFIG                            	config
+D DIST                              	dist
+D DOC                               	doc
+F FAQ                               	FAQ
+D H                                 	h
+F MAKEFILE                          	Makefile
+D MISCELLA                          	miscellany
+D MTS                               	mts
+D PAPERS                            	papers
+F PATCHLEV                          	Patchlevel
+F READ_ME                           	READ-ME
+D SBR                               	sbr
+D SUPPORT                           	support
+D UIP                               	uip
+D ZOTNET                            	zotnet

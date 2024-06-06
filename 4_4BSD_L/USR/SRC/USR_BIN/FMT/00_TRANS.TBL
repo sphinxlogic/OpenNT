@@ -1,0 +1,5 @@
+F FMT.1                             	fmt.1
+F FMT.C                             	fmt.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/fmt
+F TAGS                              	tags

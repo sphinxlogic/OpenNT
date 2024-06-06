@@ -1,0 +1,12 @@
+F PROCFS.H                          	procfs.h
+F PROCFS_0.C                        	procfs_ctl.c
+F PROCFS_1.C                        	procfs_fpregs.c
+F PROCFS_2.C                        	procfs_mem.c
+F PROCFS_3.C                        	procfs_note.c
+F PROCFS_4.C                        	procfs_regs.c
+F PROCFS_5.C                        	procfs_status.c
+F PROCFS_6.C                        	procfs_subr.c
+F PROCFS_7.C                        	procfs_vfsops.c
+F PROCFS_8.C                        	procfs_vnops.c
+F README                            	README
+L TAGS                              	tags	/var/db/sys_tags

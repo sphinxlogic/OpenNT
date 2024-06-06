@@ -1,0 +1,7 @@
+F BI.C                              	bi.c
+F BIREG.H                           	bireg.h
+F BIVAR.H                           	bivar.h
+F KDB.C                             	kdb.c
+F KDBREG.H                          	kdbreg.h
+F NIREG.H                           	nireg.h
+L TAGS                              	tags	/var/db/sys_tags

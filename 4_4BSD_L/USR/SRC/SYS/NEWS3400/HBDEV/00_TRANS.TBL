@@ -1,0 +1,13 @@
+F DMAC_044.H                        	dmac_0448.h
+L FB.C                              	fb.c	../iop/fb.c
+L FB_SUB.C                          	fb_sub.c	../iop/fb_sub.c
+L HB.C                              	hb.c	../iop/iop.c
+F HBVAR.H                           	hbvar.h
+L KB.C                              	kb.c	../iop/kb.c
+F MS.C                              	ms.c
+L RS.C                              	rs.c	../iop/rs.c
+L RSREG.H                           	rsreg.h	../iop/rsreg.h
+F SCREG_11.H                        	screg_1185.h
+F SCSIC.H                           	scsic.h
+F SCSI_118.C                        	scsi_1185.c
+L TAGS                              	tags	/var/db/sys_tags

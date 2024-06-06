@@ -1,0 +1,6 @@
+F CD.C                              	cd.c
+F CDVAR.H                           	cdvar.h
+D SCSI                              	scsi
+L TAGS                              	tags	/var/db/sys_tags
+F VN.C                              	vn.c
+F VNIOCTL.H                         	vnioctl.h

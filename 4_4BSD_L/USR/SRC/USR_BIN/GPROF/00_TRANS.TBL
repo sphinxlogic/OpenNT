@@ -1,0 +1,30 @@
+F ARCS.C                            	arcs.c
+F DFN.C                             	dfn.c
+F GPROF.1                           	gprof.1
+F GPROF.C                           	gprof.c
+F GPROF.CAL                         	gprof.callg
+F GPROF.FLA                         	gprof.flat
+F GPROF.H                           	gprof.h
+F HERTZ.C                           	hertz.c
+F HP300.C                           	hp300.c
+F HP300.H                           	hp300.h
+F I386.C                            	i386.c
+F I386.H                            	i386.h
+F LOOKUP.C                          	lookup.c
+L LUNA68K.C                         	luna68k.c	hp300.c
+L LUNA68K.H                         	luna68k.h	hp300.h
+F MAKEFILE                          	Makefile
+F MIPS.C                            	mips.c
+F MIPS.H                            	mips.h
+L OBJ                               	obj	/usr/obj/usr.bin/gprof
+F PATHNAME.H                        	pathnames.h
+F PRINTGPR.C                        	printgprof.c
+F PRINTLIS.C                        	printlist.c
+D PSD_DOC                           	PSD.doc
+F SPARC.C                           	sparc.c
+F SPARC.H                           	sparc.h
+F TAGS                              	tags
+F TAHOE.C                           	tahoe.c
+F TAHOE.H                           	tahoe.h
+F VAX.C                             	vax.c
+F VAX.H                             	vax.h

@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/umount
+F TAGS                              	tags
+F UMOUNT.8                          	umount.8
+F UMOUNT.C                          	umount.c

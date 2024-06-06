@@ -1,0 +1,5 @@
+F DUMPFS.8                          	dumpfs.8
+F DUMPFS.C                          	dumpfs.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/dumpfs
+F TAGS                              	tags

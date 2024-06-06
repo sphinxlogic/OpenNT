@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/test
+F OPERATOR.C                        	operators.c
+F OPERATOR.H                        	operators.h
+F TAGS                              	tags
+F TEST.1                            	test.1
+F TEST.C                            	test.c
+F TEST.CSH                          	TEST.csh

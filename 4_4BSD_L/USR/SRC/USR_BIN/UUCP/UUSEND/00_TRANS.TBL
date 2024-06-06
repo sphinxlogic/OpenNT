@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/uucp/uusend
+F TAGS                              	tags
+F UUSEND.1                          	uusend.1
+F UUSEND.C                          	uusend.c

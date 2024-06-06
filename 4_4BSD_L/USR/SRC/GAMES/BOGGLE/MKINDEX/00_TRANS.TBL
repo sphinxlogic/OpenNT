@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+F MKINDEX.C                         	mkindex.c
+L OBJ                               	obj	/usr/obj/games/boggle/mkindex
+F TAGS                              	tags

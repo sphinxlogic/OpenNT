@@ -1,0 +1,9 @@
+L GROPS.1                           	grops.1	grops.man
+F GROPS.MAN                         	grops.man
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+F PS.CC                             	ps.cc
+F PS.H                              	ps.h
+F PSFIG.DIF                         	psfig.diff
+F PSRM.CC                           	psrm.cc
+F TODO                              	TODO

@@ -1,0 +1,8 @@
+F DISKLABE.5                        	disklabel.5.5
+F DISKLABE.8                        	disklabel.8
+F DISKLABE.C                        	disklabel.c
+F DKCKSUM.C                         	dkcksum.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/disklabel
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

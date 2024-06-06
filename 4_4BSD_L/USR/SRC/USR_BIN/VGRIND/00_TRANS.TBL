@@ -1,0 +1,14 @@
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/vgrind
+F PATHNAME.H                        	pathnames.h
+F REGEXP.C                          	regexp.c
+D RETEST                            	RETEST
+F TAGS                              	tags
+F TMAC.VGR                          	tmac.vgrind
+F VFONTEDP.C                        	vfontedpr.c
+F VGRIND.1                          	vgrind.1
+F VGRIND.SH                         	vgrind.sh
+F VGRINDEF.5                        	vgrindefs.5
+F VGRINDEF.C                        	vgrindefs.c
+F VGRINDEF.SRC                      	vgrindefs.src

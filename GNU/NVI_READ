@@ -1,0 +1,15 @@
+nvi is a free implementation of the vi/ex Unix editor.  It has almost all
+the functionality of the original vi/ex, except ``open'' mode and the lisp
+option, which will be added.  Enhancements over vi/ex include split screens
+with multiple buffers, ability to handle 8-bit data, infinite file and line
+lengths, tag stacks, infinite undo, and extended regular expressions.  nvi
+runs under BSD, Linux, NetBSD, FreeBSD, BSDI, AIX, HPUX, DGUX, IRIX, PSF,
+PTX, Solaris, SunOS, Ultrix and Unixware.  It should be easy to port to
+many other systems.
+
+nvi is available via anonymous ftp from ftp.cs.berkeley.edu in the
+directory /ucb/4bsd/.
+
+nvi is also available directly from the GNU Project on the `Utilities'
+distribution tape and Source Code CDROM.  For more information, please ask
+gnu@prep.ai.mit.edu.

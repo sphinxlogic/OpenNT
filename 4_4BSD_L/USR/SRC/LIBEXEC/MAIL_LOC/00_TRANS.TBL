@@ -1,0 +1,6 @@
+F MAIL_LOC.8                        	mail.local.8
+F MAIL_LOC.C                        	mail.local.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/mail.local
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

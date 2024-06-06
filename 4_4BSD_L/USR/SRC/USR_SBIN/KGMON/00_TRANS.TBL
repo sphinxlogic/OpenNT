@@ -1,0 +1,5 @@
+F KGMON.8                           	kgmon.8
+F KGMON.C                           	kgmon.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/kgmon
+F TAGS                              	tags

@@ -1,0 +1,13 @@
+F COMPILE.C                         	compile.c
+F DEFS.H                            	defs.h
+F EXTERN.H                          	extern.h
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/usr.bin/sed
+F POSIX                             	POSIX
+F PROCESS.C                         	process.c
+F SED.1                             	sed.1
+F TAGS                              	tags
+D TEST                              	TEST
+D USD_DOC                           	USD.doc

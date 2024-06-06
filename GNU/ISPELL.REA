@@ -1,0 +1,15 @@
+Ispell is an interactive spell checker that suggests "near misses" as
+replacements for unrecognized words.  System and user-maintained
+dictionaries can be used.
+
+Ispell is available via anonymous ftp from ftp.cs.ucla.edu in the directory
+/pub/ispell.
+
+Some people may notice that ispell 4 is not at this site---ispell 3 is.
+The version numbering for this program has been screwy---it doesn't mean
+that we're using an older version of ispell.  Ispell 3 and 4 were
+maintained in parallel, but version 3 is actually much more advanced.  We
+decided to switch to it.
+
+Eventually ispell 3 will support a GNU-style configuration script to make
+it a little easier to build.

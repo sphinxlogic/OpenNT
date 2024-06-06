@@ -1,0 +1,18 @@
+F APPEND.C                          	append.c
+F AR.1                              	ar.1
+F AR.C                              	ar.c
+F ARCHIVE.C                         	archive.c
+F ARCHIVE.H                         	archive.h
+F AR_5.5                            	ar.5.5
+F CONTENTS.C                        	contents.c
+F DELETE.C                          	delete.c
+F EXTERN.H                          	extern.h
+F EXTRACT.C                         	extract.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+F MOVE.C                            	move.c
+L OBJ                               	obj	/usr/obj/usr.bin/ar
+F PATHNAME.H                        	pathnames.h
+F PRINT.C                           	print.c
+F REPLACE.C                         	replace.c
+F TAGS                              	tags

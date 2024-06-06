@@ -1,0 +1,6 @@
+F FILES.SPA                         	files.sparc
+F GENERIC.SPA                       	GENERIC.sparc
+F MAKEFILE.SPA                      	Makefile.sparc
+F SPARC                             	SPARC
+F STD_SPAR                          	std.sparc
+L TAGS                              	tags	/var/db/sys_tags

@@ -1,0 +1,5 @@
+D COMMON_S                          	common_source
+F MAKEFILE                          	Makefile
+F README                            	README
+D TALK                              	talk
+D TALKD                             	talkd

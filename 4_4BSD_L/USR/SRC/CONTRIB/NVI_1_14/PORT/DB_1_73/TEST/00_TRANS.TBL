@@ -1,0 +1,7 @@
+D BTREE_TE                          	btree.tests
+F DBTEST.C                          	dbtest.c
+D HASH_TES                          	hash.tests
+F MAKEFILE                          	Makefile
+F README                            	README
+F RUN_TEST                          	run.test
+F STRERROR.C                        	strerror.c

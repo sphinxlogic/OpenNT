@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/wall
+F TAGS                              	tags
+F TTYMSG.C                          	ttymsg.c
+F WALL.1                            	wall.1
+F WALL.C                            	wall.c

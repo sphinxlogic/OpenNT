@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/xstr
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F XSTR.1                            	xstr.1
+F XSTR.C                            	xstr.c

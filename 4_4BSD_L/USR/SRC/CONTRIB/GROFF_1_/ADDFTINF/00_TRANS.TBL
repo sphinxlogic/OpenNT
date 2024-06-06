@@ -1,0 +1,7 @@
+L ADDFTINF.1                        	addftinfo.1	addftinfo.man
+F ADDFTINF.CC                       	addftinfo.cc
+F ADDFTINF.MAN                      	addftinfo.man
+F GUESS.CC                          	guess.cc
+F GUESS.H                           	guess.h
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub

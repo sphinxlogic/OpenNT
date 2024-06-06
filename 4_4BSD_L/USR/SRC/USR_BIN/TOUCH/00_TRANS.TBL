@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/touch
+F TAGS                              	tags
+F TOUCH.1                           	touch.1
+F TOUCH.C                           	touch.c

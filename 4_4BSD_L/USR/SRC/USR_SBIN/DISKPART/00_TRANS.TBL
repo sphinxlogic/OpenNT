@@ -1,0 +1,5 @@
+F DISKPART.8                        	diskpart.8
+F DISKPART.C                        	diskpart.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/diskpart
+F TAGS                              	tags

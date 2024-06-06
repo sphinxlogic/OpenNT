@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/whereis
+F TAGS                              	tags
+F WHEREIS.1                         	whereis.1
+F WHEREIS.C                         	whereis.c

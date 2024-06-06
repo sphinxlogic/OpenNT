@@ -1,0 +1,3 @@
+F MAKEFILE                          	Makefile
+F MKDIR.C                           	mkdir.c
+L OBJ                               	obj	/usr/obj/sys/i386/floppy/mkdir

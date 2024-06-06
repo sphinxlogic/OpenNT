@@ -1,0 +1,5 @@
+F CHING_PH.C                        	ching.phx.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/ching/phx
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

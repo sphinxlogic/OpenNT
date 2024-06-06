@@ -1,0 +1,5 @@
+F DU.1                              	du.1
+F DU.C                              	du.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/du
+F TAGS                              	tags

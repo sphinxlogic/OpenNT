@@ -1,0 +1,6 @@
+F DOHITS.C                          	dohits.c
+F DOHITS.H                          	dohits.h
+F MAKEFILE                          	Makefile
+F MKHITS.C                          	mkhits.c
+L OBJ                               	obj	/usr/obj/usr.bin/tn3270/tools/mkhits
+F TAGS                              	tags

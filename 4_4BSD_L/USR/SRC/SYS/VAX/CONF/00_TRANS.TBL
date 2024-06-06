@@ -1,0 +1,9 @@
+F DEVICES.VAX                       	devices.vax
+F FILES.VAX                         	files.vax
+F GENERIC.ALL                       	GENERIC.allvax
+F GENERIC0.VAX                      	GENERIC.vax
+F GENERIC1.VAX                      	GENERIC.vaxminiroot
+F MAKEFILE.VAX                      	Makefile.vax
+F MICROVAX                          	MICROVAXII
+L TAGS                              	tags	/var/db/sys_tags
+F XTWOFIVE                          	XTWOFIVE

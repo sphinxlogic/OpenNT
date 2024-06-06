@@ -1,0 +1,7 @@
+F DM.8                              	dm.8
+F DM.C                              	dm.c
+F DM_CONF.5                         	dm.conf.5
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/dm
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

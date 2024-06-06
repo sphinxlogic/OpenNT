@@ -1,0 +1,6 @@
+F FORTUNE.6                         	fortune.6
+F FORTUNE.C                         	fortune.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/fortune/fortune
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

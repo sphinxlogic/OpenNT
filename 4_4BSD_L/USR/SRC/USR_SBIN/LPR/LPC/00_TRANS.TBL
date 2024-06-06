@@ -1,0 +1,9 @@
+F CMDS.C                            	cmds.c
+F CMDTAB.C                          	cmdtab.c
+F EXTERN.H                          	extern.h
+F LPC.8                             	lpc.8
+F LPC.C                             	lpc.c
+F LPC.H                             	lpc.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/lpr/lpc
+F TAGS                              	tags

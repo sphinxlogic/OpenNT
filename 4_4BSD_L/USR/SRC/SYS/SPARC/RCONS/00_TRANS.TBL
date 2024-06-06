@@ -1,0 +1,8 @@
+F GALLANT1.H                        	gallant19.h
+F RASTER.H                          	raster.h
+F RASTER_O.C                        	raster_op.c
+F RASTER_T.C                        	raster_text.c
+F RCONS_FO.C                        	rcons_font.c
+F RCONS_KE.C                        	rcons_kern.c
+F RCONS_SU.C                        	rcons_subr.c
+L TAGS                              	tags	/var/db/sys_tags

@@ -1,0 +1,9 @@
+D DATFILES                          	datfiles
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/quiz
+F PATHNAME.H                        	pathnames.h
+F QUIZ.6                            	quiz.6
+F QUIZ.C                            	quiz.c
+F QUIZ.H                            	quiz.h
+F RXP.C                             	rxp.c
+F TAGS                              	tags

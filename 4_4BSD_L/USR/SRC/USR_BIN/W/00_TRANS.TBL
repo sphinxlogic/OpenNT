@@ -1,0 +1,9 @@
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/w
+F PROC_COM.C                        	proc_compare.c
+F PR_TIME.C                         	pr_time.c
+F TAGS                              	tags
+F UPTIME.1                          	uptime.1
+F W.1                               	w.1
+F W.C                               	w.c

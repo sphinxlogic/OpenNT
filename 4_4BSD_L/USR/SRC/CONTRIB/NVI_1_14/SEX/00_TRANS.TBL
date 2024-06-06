@@ -1,0 +1,7 @@
+F SEX_CONF.C                        	sex_confirm.c
+F SEX_GET.C                         	sex_get.c
+F SEX_REFR.C                        	sex_refresh.c
+F SEX_SCRE.C                        	sex_screen.c
+F SEX_SCRE.H                        	sex_screen.h
+F SEX_TERM.C                        	sex_term.c
+F SEX_UTIL.C                        	sex_util.c

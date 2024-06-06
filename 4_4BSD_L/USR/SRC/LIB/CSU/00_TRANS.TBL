@@ -1,0 +1,7 @@
+D HP300                             	hp300
+D I386                              	i386
+L LUNA68K                           	luna68k	hp300
+D MIPS                              	mips
+D SPARC                             	sparc
+D TAHOE                             	tahoe
+D VAX                               	vax

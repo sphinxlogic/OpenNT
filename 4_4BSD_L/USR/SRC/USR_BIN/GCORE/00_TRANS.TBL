@@ -1,0 +1,12 @@
+F EXTERN.H                          	extern.h
+F GCORE.1                           	gcore.1
+F GCORE.C                           	gcore.c
+F MAKEFILE                          	Makefile
+L MD_HP300.C                        	md-hp300.c	md-nop.c
+L MD_I386.C                         	md-i386.c	md-nop.c
+L MD_LUNA6.C                        	md-luna68k.c	md-nop.c
+L MD_MIPS.C                         	md-mips.c	md-nop.c
+F MD_NOP.C                          	md-nop.c
+F MD_SPARC.C                        	md-sparc.c
+L OBJ                               	obj	/usr/obj/usr.bin/gcore
+F TAGS                              	tags

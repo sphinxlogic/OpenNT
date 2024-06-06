@@ -1,0 +1,19 @@
+F ACKSEND.C                         	acksend.c
+F BYTEORDE.C                        	byteorder.c
+F CANDIDAT.C                        	candidate.c
+F CHANGES                           	CHANGES
+F CKSUM.C                           	cksum.c
+F CORRECT.C                         	correct.c
+F EXTERN.H                          	extern.h
+F GLOBALS.H                         	globals.h
+F MAKEFILE                          	Makefile
+F MASTER.C                          	master.c
+F MEASURE.C                         	measure.c
+F NETWORKD.C                        	networkdelta.c
+L OBJ                               	obj	/usr/obj/usr.sbin/timed/timed
+F PATHNAME.H                        	pathnames.h
+F READMSG.C                         	readmsg.c
+F SLAVE.C                           	slave.c
+F TAGS                              	tags
+F TIMED.8                           	timed.8
+F TIMED.C                           	timed.c

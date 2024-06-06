@@ -1,0 +1,9 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/lib/libterm
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F TERMCAP.3                         	termcap.3
+F TERMCAP.C                         	termcap.c
+D TEST                              	TEST
+F TGOTO.C                           	tgoto.c
+F TPUTS.C                           	tputs.c

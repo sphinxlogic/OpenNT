@@ -1,0 +1,34 @@
+F 00_CONTE                          	00.contents
+D 01_BEGIN                          	01.begin
+L 02_LEARN                          	02.learn	../../../usr.bin/learn/USD.doc
+L 03_SHELL                          	03.shell	../../../bin/sh/USD.doc
+L 04.CSH                            	04.csh	../../../bin/csh/USD.doc
+L 05.DC                             	05.dc	../../../usr.bin/dc/USD.doc
+L 06.BC                             	06.bc	../../../usr.bin/bc/USD.doc
+L 07_MAIL                           	07.mail	../../../usr.bin/mail/USD.doc
+L 08.MH                             	08.mh	../../../contrib/mh-6.8.3a
+L 09_EDTUT                          	09.edtut	../../../bin/ed/USD.doc/tutorial
+L 10_EDADV                          	10.edadv	../../../bin/ed/USD.doc/advanced
+L 11_VITUT                          	11.vitut	../../../contrib/nvi.1.14/USD.doc/vitut
+L 12_EXREF                          	12.exref	../../../contrib/nvi.1.14/USD.doc/exref
+L 13_VIREF                          	13.viref	../../../contrib/nvi.1.14/USD.doc/vi.ref
+L 14_JOVE                           	14.jove	../../../contrib/jove-4.14.6/USD.doc
+L 15.SED                            	15.sed	../../../usr.bin/sed/USD.doc
+L 16.AWK                            	16.awk	../../../old//awk/USD.doc
+D 17_MSMAC                          	17.msmacros
+D 18_MSDIF                          	18.msdiffs
+D 19_MEMAC                          	19.memacros
+D 20_MEREF                          	20.meref
+L 21_TROFF                          	21.troff	../../../old/roff/USD.doc/troff
+L 22_TROFF                          	22.trofftut	../../../old/roff/USD.doc/troff.tutorial
+L 23.EQN                            	23.eqn	../../../old/eqn/USD.doc/eqn
+L 24_EQNGU                          	24.eqnguide	../../../old/eqn/USD.doc/eqnguide
+L 25.TBL                            	25.tbl	../../../old/tbl/USD.doc
+L 26_REFER                          	26.refer	../../../old/refer/USD.doc/refer
+L 27_INVER                          	27.invert	../../../old/refer/USD.doc/invert
+L 28.BIB                            	28.bib	../../../contrib/bib/doc/USD.doc
+L 29_DICTI                          	29.diction	../../../usr.bin/diction/USD.doc
+L 30_ROGUE                          	30.rogue	../../../games/rogue/USD.doc
+L 31_TREK                           	31.trek	../../../games/trek/USD.doc
+F MAKEFILE                          	Makefile
+F TITLE                             	Title

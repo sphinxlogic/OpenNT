@@ -1,0 +1,11 @@
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+F MAP.C                             	map.c
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/usr.bin/tset
+F SET.C                             	set.c
+F TAGS                              	tags
+F TERM.C                            	term.c
+F TSET.1                            	tset.1
+F TSET.C                            	tset.c
+F WRTERM.C                          	wrterm.c

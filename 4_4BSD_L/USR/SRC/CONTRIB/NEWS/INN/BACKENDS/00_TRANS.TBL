@@ -1,0 +1,13 @@
+F ARCHIVE.C                         	archive.c
+F BATCHER.C                         	batcher.c
+F BUFFCHAN.C                        	buffchan.c
+F CVTBATCH.C                        	cvtbatch.c
+F FILECHAN.C                        	filechan.c
+F INNXMIT.C                         	innxmit.c
+F MAKEFILE                          	Makefile
+F MAP.C                             	map.c
+F NNTPGET.C                         	nntpget.c
+F OVERCHAN.C                        	overchan.c
+F RCOMPRES.C                        	rcompress.c
+F SHLOCK.C                          	shlock.c
+F SHRINKFI.C                        	shrinkfile.c

@@ -1,0 +1,5 @@
+F BCD.6                             	bcd.6
+F BCD.C                             	bcd.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/bcd
+F TAGS                              	tags

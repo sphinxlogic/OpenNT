@@ -1,0 +1,7 @@
+F CHECKCON.SH                       	checkconf.sh
+F CONFIG.DAT                        	config.data
+F CONFIG.DIS                        	config.dist
+F FILES.LIS                         	files.list
+F MAKEFILE                          	Makefile
+F SUBST.C                           	subst.c
+F SUBST.SH                          	subst.sh

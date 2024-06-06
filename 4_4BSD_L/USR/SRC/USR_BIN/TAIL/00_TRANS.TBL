@@ -1,0 +1,10 @@
+F EXTERN.H                          	extern.h
+F FORWARD.C                         	forward.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/usr.bin/tail
+F READ.C                            	read.c
+F REVERSE.C                         	reverse.c
+F TAGS                              	tags
+F TAIL.1                            	tail.1
+F TAIL.C                            	tail.c

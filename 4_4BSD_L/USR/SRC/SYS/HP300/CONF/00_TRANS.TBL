@@ -1,0 +1,7 @@
+F DEVICES.HP3                       	devices.hp300
+F FILES0.HP3                        	files.HP300
+F FILES1.HP3                        	files.hp300
+F GENERIC.HP3                       	GENERIC.hp300
+F HP300                             	HP300
+F MAKEFILE.HP3                      	Makefile.hp300
+L TAGS                              	tags	/var/db/sys_tags

@@ -1,0 +1,22 @@
+F CONS.C                            	cons.c
+F CONS.H                            	cons.h
+F DCA.C                             	dca.c
+F DCAREG.H                          	dcareg.h
+F DEVICE.H                          	device.h
+F GRF.C                             	grf.c
+F GRFIOCTL.H                        	grfioctl.h
+F GRFREG.H                          	grfreg.h
+F GRFVAR.H                          	grfvar.h
+F HIL.C                             	hil.c
+F HILIOCTL.H                        	hilioctl.h
+F HILREG.H                          	hilreg.h
+F HILVAR.H                          	hilvar.h
+F HIL_KEYM.C                        	hil_keymaps.c
+F HIL_SUBR.C                        	hil_subr.c
+F IOTYPES.H                         	iotypes.h
+F ITE.C                             	ite.c
+F ITEREG.H                          	itereg.h
+F ITEVAR.H                          	itevar.h
+F ITE_SUBR.C                        	ite_subr.c
+F KBDMAP.H                          	kbdmap.h
+L TAGS                              	tags	/var/db/sys_tags

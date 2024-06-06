@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MKDIR.1                           	mkdir.1
+F MKDIR.C                           	mkdir.c
+L OBJ                               	obj	/usr/obj/bin/mkdir
+F TAGS                              	tags

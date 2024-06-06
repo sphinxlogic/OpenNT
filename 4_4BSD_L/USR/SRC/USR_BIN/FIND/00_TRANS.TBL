@@ -1,0 +1,13 @@
+F EXTERN.H                          	extern.h
+F FIND.1                            	find.1
+F FIND.C                            	find.c
+F FIND.H                            	find.h
+F FUNCTION.C                        	function.c
+F LS.C                              	ls.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/usr.bin/find
+F OPERATOR.C                        	operator.c
+F OPTION.C                          	option.c
+F TAGS                              	tags

@@ -1,0 +1,5 @@
+F BIFF.1                            	biff.1
+F BIFF.C                            	biff.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/biff
+F TAGS                              	tags

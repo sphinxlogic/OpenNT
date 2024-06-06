@@ -1,0 +1,5 @@
+F COLRM.1                           	colrm.1
+F COLRM.C                           	colrm.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/colrm
+F TAGS                              	tags

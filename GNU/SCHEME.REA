@@ -1,0 +1,9 @@
+Scheme is a lisp-like language developed at MIT.  
+
+MIT Scheme and SCM are available via anonymous FTP from altdorf.ai.mit.edu,
+directory /archive.  
+
+MIT Scheme is also available directly from the GNU Project on the `Scheme'
+distribution tape.  For more information, please ask gnu@prep.ai.mit.edu.
+
+Both Schemes are are written partly in C, the rest in scheme.

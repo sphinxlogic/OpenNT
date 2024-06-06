@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MT.1                              	mt.1
+F MT.C                              	mt.c
+L OBJ                               	obj	/usr/obj/usr.bin/mt
+F TAGS                              	tags

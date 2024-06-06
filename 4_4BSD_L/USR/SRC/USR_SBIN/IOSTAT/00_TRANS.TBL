@@ -1,0 +1,5 @@
+F IOSTAT.8                          	iostat.8
+F IOSTAT.C                          	iostat.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/iostat
+F TAGS                              	tags

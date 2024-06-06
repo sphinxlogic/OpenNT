@@ -1,0 +1,9 @@
+F DATA.C                            	data.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/backgammon/teachgammon
+F TAGS                              	tags
+F TEACH.C                           	teach.c
+F TTEXT1.C                          	ttext1.c
+F TTEXT2.C                          	ttext2.c
+F TUTOR.C                           	tutor.c
+F TUTOR.H                           	tutor.h

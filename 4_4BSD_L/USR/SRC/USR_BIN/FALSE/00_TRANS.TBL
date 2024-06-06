@@ -1,0 +1,5 @@
+F FALSE.1                           	false.1
+F FALSE.C                           	false.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/false
+F TAGS                              	tags

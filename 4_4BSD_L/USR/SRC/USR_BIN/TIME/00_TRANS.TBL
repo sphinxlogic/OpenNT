@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/time
+F TAGS                              	tags
+F TIME.1                            	time.1
+F TIME.C                            	time.c

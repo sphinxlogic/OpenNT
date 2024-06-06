@@ -1,0 +1,7 @@
+L GROFF.1                           	groff.1	groff.man
+F GROFF.CC                          	groff.cc
+F GROFF.MAN                         	groff.man
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+F PIPELINE.C                        	pipeline.c
+F PIPELINE.H                        	pipeline.h

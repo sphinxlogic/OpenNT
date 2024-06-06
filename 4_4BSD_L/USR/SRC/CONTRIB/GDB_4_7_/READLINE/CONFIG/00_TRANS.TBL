@@ -1,0 +1,6 @@
+F MH_APOLL                          	mh-apollo68v
+F MH_NCR30                          	mh-ncr3000
+F MH_POSIX                          	mh-posix
+F MH_SCO                            	mh-sco
+F MH_SYSV                           	mh-sysv
+F MH_SYSV4                          	mh-sysv4

@@ -1,0 +1,14 @@
+F ACTIVATE.C                        	activate.c
+F CONF.C                            	conf.c
+F MAKEFILE                          	Makefile
+F MOUNT_PO.8                        	mount_portal.8
+F MOUNT_PO.C                        	mount_portal.c
+L OBJ                               	obj	/usr/obj/sbin/mount_portal
+F PATHNAME.H                        	pathnames.h
+F PORTAL.CON                        	portal.conf
+F PORTALD.H                         	portald.h
+F PT_CONF.C                         	pt_conf.c
+F PT_EXEC.C                         	pt_exec.c
+F PT_FILE.C                         	pt_file.c
+F PT_TCP.C                          	pt_tcp.c
+F TAGS                              	tags

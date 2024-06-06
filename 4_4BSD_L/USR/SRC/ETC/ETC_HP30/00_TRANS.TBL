@@ -1,0 +1,6 @@
+F DISKTAB                           	disktab
+F FSTAB.RD                          	fstab.rd
+F FSTAB.SD                          	fstab.sd
+F MAKEDEV                           	MAKEDEV
+F MAKEDEV.HPU                       	MAKEDEV.hpux
+F RBOOTD.CON                        	rbootd.conf

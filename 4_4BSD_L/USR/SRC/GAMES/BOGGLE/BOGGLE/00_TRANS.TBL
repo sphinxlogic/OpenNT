@@ -1,0 +1,13 @@
+F BOG.C                             	bog.c
+F BOG.H                             	bog.h
+F BOGGLE.6                          	boggle.6
+F EXTERN.H                          	extern.h
+F HELP.C                            	help.c
+F HELPFILE                          	helpfile
+F MACH.C                            	mach.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/boggle/boggle
+F PRTABLE.C                         	prtable.c
+F TAGS                              	tags
+F TIMER.C                           	timer.c
+F WORD.C                            	word.c

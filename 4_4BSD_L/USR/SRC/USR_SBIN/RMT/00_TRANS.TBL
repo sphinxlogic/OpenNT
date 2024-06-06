@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/rmt
+F RMT.8                             	rmt.8
+F RMT.C                             	rmt.c
+F TAGS                              	tags

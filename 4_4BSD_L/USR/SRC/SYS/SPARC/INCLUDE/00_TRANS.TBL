@@ -1,0 +1,34 @@
+L ANSI.H                            	ansi.h	../../hp300/include/ansi.h
+F AUTOCONF.H                        	autoconf.h
+F BSD_AUDI.H                        	bsd_audioio.h
+F BSD_OPEN.H                        	bsd_openprom.h
+F CPU.H                             	cpu.h
+F CTLREG.H                          	ctlreg.h
+L ENDIAN.H                          	endian.h	../../hp300/include/endian.h
+F EXEC.H                            	exec.h
+F FBVAR.H                           	fbvar.h
+F FLOAT.H                           	float.h
+F FRAME.H                           	frame.h
+F FSR.H                             	fsr.h
+F IEEE.H                            	ieee.h
+F INSTR.H                           	instr.h
+L LIMITS.H                          	limits.h	../../hp300/include/limits.h
+F OPENPROM.H                        	openpromio.h
+F PARAM.H                           	param.h
+F PCB.H                             	pcb.h
+F PMAP.H                            	pmap.h
+F PROC.H                            	proc.h
+F PROFILE.H                         	profile.h
+F PSL.H                             	psl.h
+F PTE.H                             	pte.h
+F PTRACE.H                          	ptrace.h
+F REG.H                             	reg.h
+F RELOC.H                           	reloc.h
+F REMOTE_S.H                        	remote-sl.h
+F SIGNAL.H                          	signal.h
+F STDARG.H                          	stdarg.h
+L TAGS                              	tags	/var/db/sys_tags
+F TRAP.H                            	trap.h
+F TYPES.H                           	types.h
+F VARARGS.H                         	varargs.h
+F VMPARAM.H                         	vmparam.h

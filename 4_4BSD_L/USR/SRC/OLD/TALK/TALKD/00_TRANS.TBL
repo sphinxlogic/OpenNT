@@ -1,0 +1,6 @@
+F ANNOUNCE.C                        	announce.c
+F MAKEFILE                          	Makefile
+F PRINT.C                           	print.c
+F PROCESS.C                         	process.c
+F TABLE.C                           	table.c
+F TALKD.C                           	talkd.c

@@ -1,0 +1,5 @@
+F COLUMN.1                          	column.1
+F COLUMN.C                          	column.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/column
+F TAGS                              	tags

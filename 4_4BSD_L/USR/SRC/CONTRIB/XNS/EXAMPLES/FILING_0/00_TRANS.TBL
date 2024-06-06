@@ -1,0 +1,7 @@
+F CMDS.C                            	cmds.c
+F CMDTAB.C                          	cmdtab.c
+F FTP_VAR.H                         	ftp_var.h
+F GLOB.C                            	glob.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F XNFTP.C                           	xnftp.c

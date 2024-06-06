@@ -1,0 +1,27 @@
+F ATOF_IEE.C                        	atof-ieee.c
+F ATOF_VAX.C                        	atof-vax.c
+F A_OUT_GN.H                        	a.out.gnu.h
+F I386.C                            	i386.c
+F I386.H                            	i386.h
+F I386_OPC.H                        	i386-opcode.h
+F I860.C                            	i860.c
+F I860.H                            	i860.h
+F I860_OPC.H                        	i860-opcode.h
+F M68K.C                            	m68k.c
+F M68K.H                            	m68k.h
+F M68K_OPC.H                        	m68k-opcode.h
+F MAKEFILE.HP3                      	Makefile.hp300
+F MAKEFILE.I38                      	Makefile.i386
+L MAKEFILE.LUN                      	Makefile.luna68k	Makefile.hp300
+F MAKEFILE.SPA                      	Makefile.sparc
+F MAKEFILE.VAX                      	Makefile.vax
+F M_HPUX.H                          	m-hpux.h
+F M_SUN3.H                          	m-sun3.h
+F NS32K.C                           	ns32k.c
+F NS32K_OP.H                        	ns32k-opcode.h
+F SPARC.C                           	sparc.c
+F SPARC.H                           	sparc.h
+F SPARC_OP.H                        	sparc-opcode.h
+F VAX.C                             	vax.c
+F VAX_INST.H                        	vax-inst.h
+F VAX_OPCO.H                        	vax-opcode.h

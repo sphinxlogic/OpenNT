@@ -1,0 +1,19 @@
+F COMMON.H                          	common.h
+F CONFIG.H                          	config.h
+F EXTERN.H                          	EXTERN.h
+F INP.C                             	inp.c
+F INP.H                             	inp.h
+F INTERN.H                          	INTERN.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/patch
+F PATCH.1                           	patch.1
+F PATCH.C                           	patch.c
+F PATCHLEV.H                        	patchlevel.h
+F PCH.C                             	pch.c
+F PCH.H                             	pch.h
+F README                            	README
+F TAGS                              	tags
+F UTIL.C                            	util.c
+F UTIL.H                            	util.h
+F VERSION.C                         	version.c
+F VERSION.H                         	version.h

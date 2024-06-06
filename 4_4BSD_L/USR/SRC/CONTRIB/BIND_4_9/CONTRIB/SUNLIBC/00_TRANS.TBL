@@ -1,0 +1,5 @@
+F INFO.SUN                          	Info.sunsharedlib
+F MAKEFILE                          	Makefile
+F MAKE_LIB.SH                       	make_lib.sh
+F SUN_LORD.PAT                      	sun-lorder-sparc.patches
+F SUN_MAKE.PAT                      	sun-Makefile.patches

@@ -1,0 +1,8 @@
+F SCANNER                           	scanner
+F SCAN_DF                           	scan_df
+F SCAN_LAS                          	scan_last
+F SCAN_MES                          	scan_messages
+F SCAN_PAS                          	scan_passwd
+F SCAN_PS                           	scan_ps
+F SCAN_SUD                          	scan_sudo
+F SCAN_SUI                          	scan_suid

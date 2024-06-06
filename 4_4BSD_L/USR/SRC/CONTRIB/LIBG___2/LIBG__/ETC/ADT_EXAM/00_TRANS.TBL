@@ -1,0 +1,14 @@
+F CONFIG.STA                        	config.status
+F DEPEND                            	depend
+F GENERIC_.CC                       	generic-q.cc
+F GENPATKE.CC                       	genPatkey.cc
+F KEYHASH.CC                        	keyhash.cc
+F KMP.CC                            	kmp.cc
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F PATMAIN.CC                        	Patmain.cc
+F PATRICIA.CC                       	Patricia.cc
+F PATRICIA.H                        	Patricia.h
+F SEARCH.CC                         	search.cc
+F TSORT.CC                          	tsort.cc
+F TSORTINP.CC                       	tsortinp.cc

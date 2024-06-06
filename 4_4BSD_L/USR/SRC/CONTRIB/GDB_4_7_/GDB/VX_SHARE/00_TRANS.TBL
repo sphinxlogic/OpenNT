@@ -1,0 +1,15 @@
+F DBGRPCLI.H                        	dbgRpcLib.h
+F PTRACE.H                          	ptrace.h
+F README                            	README
+F REG.H                             	reg.h
+F VXTYPES.H                         	vxTypes.h
+F VXWORKS.H                         	vxWorks.h
+F WAIT.H                            	wait.h
+F XDR_LD.C                          	xdr_ld.c
+F XDR_LD.H                          	xdr_ld.h
+F XDR_PTRA.C                        	xdr_ptrace.c
+F XDR_PTRA.H                        	xdr_ptrace.h
+F XDR_RDB.C                         	xdr_rdb.c
+F XDR_RDB.H                         	xdr_rdb.h
+F XDR_REGS.C                        	xdr_regs.c
+F XDR_REGS.H                        	xdr_regs.h

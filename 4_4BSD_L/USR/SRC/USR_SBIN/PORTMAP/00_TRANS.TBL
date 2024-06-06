@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/portmap
+F PORTMAP.8                         	portmap.8
+F PORTMAP.C                         	portmap.c
+F TAGS                              	tags

@@ -1,0 +1,13 @@
+F CRON.ENT                          	cron.entry
+F DEFS.H                            	defs.h
+F DOCMD.C                           	docmd.c
+F EXPAND.C                          	expand.c
+F GRAM.Y                            	gram.y
+F LOOKUP.C                          	lookup.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/rdist
+F PATHNAME.H                        	pathnames.h
+F RDIST.1                           	rdist.1
+F SERVER.C                          	server.c
+F TAGS                              	tags

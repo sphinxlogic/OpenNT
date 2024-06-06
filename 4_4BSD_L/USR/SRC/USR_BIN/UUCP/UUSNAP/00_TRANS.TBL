@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/uucp/uusnap
+F TAGS                              	tags
+F UUSNAP.8                          	uusnap.8
+F UUSNAP.C                          	uusnap.c

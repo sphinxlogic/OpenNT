@@ -1,0 +1,15 @@
+D BOOTDIR                           	bootdir
+F BPF.C                             	bpf.c
+F CONF.C                            	conf.c
+F DEFS.H                            	defs.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/rbootd
+F PARSECON.C                        	parseconf.c
+F PATHNAME.H                        	pathnames.h
+F RBOOTD.8                          	rbootd.8
+F RBOOTD.C                          	rbootd.c
+F RMP.H                             	rmp.h
+F RMPPROTO.C                        	rmpproto.c
+F RMP_VAR.H                         	rmp_var.h
+F TAGS                              	tags
+F UTILS.C                           	utils.c

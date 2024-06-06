@@ -1,0 +1,12 @@
+F CONV.C                            	conv.c
+F DISPLAY.C                         	display.c
+F HEXDUMP.1                         	hexdump.1
+F HEXDUMP.C                         	hexdump.c
+F HEXDUMP.H                         	hexdump.h
+F HEXSYNTA.C                        	hexsyntax.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/hexdump
+F OD.1                              	od.1
+F ODSYNTAX.C                        	odsyntax.c
+F PARSE.C                           	parse.c
+F TAGS                              	tags

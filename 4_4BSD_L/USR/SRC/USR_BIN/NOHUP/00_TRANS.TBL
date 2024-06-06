@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F NOHUP.1                           	nohup.1
+F NOHUP.C                           	nohup.c
+L OBJ                               	obj	/usr/obj/usr.bin/nohup
+F TAGS                              	tags

@@ -1,0 +1,5 @@
+F CAP_MKDB.1                        	cap_mkdb.1
+F CAP_MKDB.C                        	cap_mkdb.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/cap_mkdb
+F TAGS                              	tags

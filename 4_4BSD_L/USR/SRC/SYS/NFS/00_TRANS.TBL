@@ -1,0 +1,22 @@
+F NFS.H                             	nfs.h
+F NFSDISKL.H                        	nfsdiskless.h
+F NFSMOUNT.H                        	nfsmount.h
+F NFSM_SUB.H                        	nfsm_subs.h
+F NFSNODE.H                         	nfsnode.h
+F NFSRTT.H                          	nfsrtt.h
+F NFSRVCAC.H                        	nfsrvcache.h
+F NFSV2.H                           	nfsv2.h
+F NFS_BIO.C                         	nfs_bio.c
+F NFS_NODE.C                        	nfs_node.c
+F NFS_NQLE.C                        	nfs_nqlease.c
+F NFS_SERV.C                        	nfs_serv.c
+F NFS_SOCK.C                        	nfs_socket.c
+F NFS_SRVC.C                        	nfs_srvcache.c
+F NFS_SUBS.C                        	nfs_subs.c
+F NFS_SYSC.C                        	nfs_syscalls.c
+F NFS_VFSO.C                        	nfs_vfsops.c
+F NFS_VNOP.C                        	nfs_vnops.c
+F NQNFS.H                           	nqnfs.h
+F RPCV2.H                           	rpcv2.h
+L TAGS                              	tags	/var/db/sys_tags
+F XDR_SUBS.H                        	xdr_subs.h

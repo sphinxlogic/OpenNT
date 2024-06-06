@@ -1,0 +1,7 @@
+F EXISTFS                           	existfs
+F NEWTSTS                           	newtsts
+F READCHK.C                         	readchk.c
+F READ_819.C                        	read_8192.c
+F REWRITE_.C                        	rewrite_8192.c
+F WRITE_40.C                        	write_4096.c
+F WRITE_81.C                        	write_8192.c

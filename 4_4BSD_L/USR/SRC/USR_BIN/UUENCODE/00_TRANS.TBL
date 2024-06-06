@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/uuencode
+F TAGS                              	tags
+F UUENCODE.1                        	uuencode.1
+F UUENCODE.5                        	uuencode.format.5
+F UUENCODE.C                        	uuencode.c

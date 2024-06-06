@@ -1,0 +1,12 @@
+D CONFIG                            	config
+F CONFIG.SED                        	config.sed
+D DOC                               	doc
+D EXAMPLES                          	examples
+F MAKEFIL0                          	Makefile
+D MAKEFIL1                          	makefiles
+F MH                                	MH
+F MHCONFIG.C                        	mhconfig.c
+F MHDOC                             	mhdoc
+F MH_BSD44                          	MH.bsd44
+F MH_GEN.8                          	mh-gen.8
+D TAILOR                            	tailor

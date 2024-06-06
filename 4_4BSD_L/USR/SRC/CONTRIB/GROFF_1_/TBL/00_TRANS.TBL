@@ -1,0 +1,7 @@
+F MAIN.CC                           	main.cc
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+F TABLE.CC                          	table.cc
+F TABLE.H                           	table.h
+L TBL.1                             	tbl.1	tbl.man
+F TBL.MAN                           	tbl.man

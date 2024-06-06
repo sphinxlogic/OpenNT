@@ -1,0 +1,15 @@
+F EXP.AWK                           	exp.awk
+F EXP.IN                            	exp.in
+F EXP_EQ.AWK                        	exp-eq.awk
+F EXP_EQ.GOO                        	exp-eq.good
+F EXP_EQ.IN                         	exp-eq.in
+F EXP_GOOD                          	exp.good
+F FUNC.AWK                          	func.awk
+F FUNC.GOO                          	func.good
+F FUNC.IN                           	func.in
+F FUNC2.AWK                         	func2.awk
+F FUNC2.GOO                         	func2.good
+F FUNC2.IN                          	func2.in
+F LOG.AWK                           	log.awk
+F LOG.IN                            	log.in
+F LOG_GOOD                          	log.good

@@ -1,0 +1,4 @@
+F MAILSTAT.C                        	mailstats.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/sendmail/mailstats
+F TAGS                              	tags

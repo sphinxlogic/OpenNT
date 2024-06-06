@@ -1,0 +1,17 @@
+D BIN                               	bin
+D CONTRIB                           	contrib
+D GAMES                             	games
+D INCLUDE                           	include
+D LIB                               	lib
+D LIBDATA                           	libdata
+D LIBEXEC                           	libexec
+D LOCAL                             	local
+D MDEC                              	mdec
+D OLD                               	old
+D PUBLIC                            	public
+D SBIN                              	sbin
+D SHARE                             	share
+D SRC                               	src
+D UCB                               	ucb
+L X11                               	X11	X11R5
+D X11R5                             	X11R5

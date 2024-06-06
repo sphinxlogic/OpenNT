@@ -1,0 +1,13 @@
+F CHPASS.1                          	chpass.1
+F CHPASS.C                          	chpass.c
+F CHPASS.H                          	chpass.h
+F EDIT.C                            	edit.c
+F FIELD.C                           	field.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/chpass
+F PATHNAME.H                        	pathnames.h
+F PW_COPY.C                         	pw_copy.c
+F PW_COPY.H                         	pw_copy.h
+F TABLE.C                           	table.c
+F TAGS                              	tags
+F UTIL.C                            	util.c

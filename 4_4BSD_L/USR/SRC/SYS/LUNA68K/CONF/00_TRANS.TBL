@@ -1,0 +1,5 @@
+F DEVICES.LUN                       	devices.luna68k
+F FILES.LUN                         	files.luna68k
+F GENERIC.LUN                       	GENERIC.luna68k
+F MAKEFILE.LUN                      	Makefile.luna68k
+L TAGS                              	tags	/var/db/sys_tags

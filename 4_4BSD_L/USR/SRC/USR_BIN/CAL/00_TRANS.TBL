@@ -1,0 +1,6 @@
+F CAL.1                             	cal.1
+F CAL.C                             	cal.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/cal
+F README                            	README
+F TAGS                              	tags

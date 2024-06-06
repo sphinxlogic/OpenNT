@@ -1,0 +1,13 @@
+D BTREE                             	btree
+D DB                                	db
+D DOC                               	doc
+D HASH                              	hash
+D INCLUDE                           	include
+F MAKEFILE.INC                      	Makefile.inc
+D MAN                               	man
+D MPOOL                             	mpool
+D PORT                              	PORT
+L README                            	README	VERSION
+D RECNO                             	recno
+D TEST                              	test
+F VERSION                           	VERSION

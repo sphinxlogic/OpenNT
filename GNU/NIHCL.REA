@@ -1,0 +1,12 @@
+NIHCL is available via anonymous FTP from alw.nih.gov in directory
+/pub/NIHCL.
+
+It is also available directly from the GNU Project on the `Languages'
+distribution tape.  For more information, please ask gnu@prep.ai.mit.edu.
+
+The NIH Class Library (formerly known as "OOPS", Object-Oriented
+Program Support) is a portable collection of G++ classes, similar to
+those in Smalltalk-80, which has been developed by Keith Gorlen of the
+National Institutes of Health (NIH), using the C++ programming
+language.
+

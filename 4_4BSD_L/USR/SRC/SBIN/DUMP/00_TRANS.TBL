@@ -1,0 +1,13 @@
+F DUMP.8                            	dump.8
+F DUMP.H                            	dump.h
+F DUMPRMT.C                         	dumprmt.c
+F ITIME.C                           	itime.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/dump
+F OPTR.C                            	optr.c
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F TAPE.C                            	tape.c
+F TRAVERSE.C                        	traverse.c
+F UNCTIME.C                         	unctime.c

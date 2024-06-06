@@ -1,0 +1,14 @@
+F EXTERN.H                          	extern.h
+F GETDEV.C                          	getdev.c
+F GETDEV.H                          	getdev.h
+F INTR.C                            	intr.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MEM.C                             	mem.c
+F NAMES.C                           	names.c
+L OBJ                               	obj	/usr/obj/usr.bin/vmstat.sparc
+F SUM.C                             	sum.c
+F TAGS                              	tags
+F UTIL.C                            	util.c
+F VMSTAT.8                          	vmstat.8
+F VMSTAT.C                          	vmstat.c

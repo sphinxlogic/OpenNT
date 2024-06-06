@@ -1,0 +1,4 @@
+MandelSpawn is a parallel Mandelbrot program for the X window
+system.  It is available via anonymous ftp from ftp.x.org in the file
+/R5contrib/mandelspawn-N.NN.tar.Z (where N.NN is some version number, at the
+time of the writing of this file, 0.07).

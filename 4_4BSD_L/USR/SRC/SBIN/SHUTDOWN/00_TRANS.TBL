@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/shutdown
+F PATHNAME.H                        	pathnames.h
+F SHUTDOWN.8                        	shutdown.8
+F SHUTDOWN.C                        	shutdown.c
+F TAGS                              	tags

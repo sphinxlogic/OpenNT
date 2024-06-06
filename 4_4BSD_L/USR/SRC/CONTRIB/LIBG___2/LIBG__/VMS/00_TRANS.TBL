@@ -1,0 +1,17 @@
+F AAAREADM.TXT                      	AAAREADME.TXT
+F CXLINK.COM                        	CXLINK.COM
+F CXSHARE.COM                       	CXSHARE.COM
+F EXPECTED.LIS                      	EXPECTED.LIST
+F EXPECTED.VMS                      	EXPECTED.VMS
+F FNDVEC.C                          	FNDVEC.C
+F GENCLASS.COM                      	GENCLASS.COM
+F GENCLASS.TPU                      	GENCLASS.TPU
+F GXX_MAIN.MAR                      	GXX_MAIN_SHR.MAR
+F OPTIONS.OPT                       	OPTIONS.OPT
+F VMS_BUIL.COM                      	VMS-BUILD-LIBGXX.COM
+F VMS_CURS.C                        	VMS-CURSES.C
+F VMS_FIXI.TPU                      	VMS_FIXINCLUDES.TPU
+F VMS_GCCL.MAR                      	VMS-GCCLIB.MAR
+F VMS_INST.COM                      	VMS-INSTALL-LIBGXX.COM
+F VMS_TEST.COM                      	VMS-TEST-LIBGXX.COM
+F _G_CONFI.H                        	_G_config.h

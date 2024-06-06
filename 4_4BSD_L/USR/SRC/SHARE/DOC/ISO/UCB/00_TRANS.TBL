@@ -1,0 +1,8 @@
+F ADDR.NR                           	addr.nr
+F DEF.NR                            	def.nr
+F INTRO.NR                          	intro.nr
+F IPC.NR                            	ipc.nr
+F MACROS.NR                         	macros.nr
+F NET_SERV.NR                       	net_serv.nr
+F PROGRAM.NR                        	program.nr
+F TRANS_SE.NR                       	trans_serv.nr

@@ -1,0 +1,24 @@
+F BMC.C                             	bmc.c
+F BMD.C                             	bmd.c
+F DBGPRF.C                          	dbgprf.c
+F DEVICE.H                          	device.h
+F FB.C                              	fb.c
+F FBIO.H                            	fbio.h
+F IF_LE.C                           	if_le.c
+F IF_LEREG.H                        	if_lereg.h
+L IOTYPES.H                         	iotypes.h	../../hp/dev/iotypes.h
+F KBD.C                             	kbd.c
+F KBIO.H                            	kbio.h
+F NVRAM.H                           	nvram.h
+F PIOREG.H                          	pioreg.h
+F SC.C                              	sc.c
+F SCREG.H                           	screg.h
+F SCSIREG.H                         	scsireg.h
+F SCSIVAR.H                         	scsivar.h
+F SCVAR.H                           	scvar.h
+F SD.C                              	sd.c
+F SIO.C                             	sio.c
+F SIOREG.H                          	sioreg.h
+F SIOVAR.H                          	siovar.h
+F ST.C                              	st.c
+L TAGS                              	tags	/var/db/sys_tags

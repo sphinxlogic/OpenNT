@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+F MAKESYSC.SH                       	makesyscalls.sh
+F NEWS_COM.C                        	news_compat.c
+F NEWS_SY0.C                        	news_syscalls.c
+F NEWS_SY1.C                        	news_sysent.c
+F NEWS_SYS.H                        	news_syscall.h
+F SYSCALLS.MAS                      	syscalls.master
+L TAGS                              	tags	/var/db/sys_tags

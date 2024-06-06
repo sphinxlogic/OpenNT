@@ -1,0 +1,14 @@
+F COMMAND.CC                        	command.cc
+F COMMAND.H                         	command.h
+F LABEL.CC                          	label.cc
+F LABEL.Y                           	label.y
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+F REF.CC                            	ref.cc
+F REF.H                             	ref.h
+L REFER.1                           	refer.1	refer.man
+F REFER.CC                          	refer.cc
+F REFER.H                           	refer.h
+F REFER.MAN                         	refer.man
+F TOKEN.CC                          	token.cc
+F TOKEN.H                           	token.h

@@ -1,0 +1,15 @@
+F BUILD_I0                          	build-install
+F BUILD_I1                          	build-install-dist
+F CHANGELO                          	ChangeLog
+D CPP                               	cpp
+D ETC                               	etc
+D INFO                              	info
+F INSTALL                           	INSTALL
+D LISP                              	lisp
+F MAKEFILE                          	Makefile
+D MAN                               	man
+D OLDXMENU                          	oldXMenu
+F PROBLEMS                          	PROBLEMS
+F README                            	README
+D SHORTNAM                          	shortnames
+D SRC                               	src

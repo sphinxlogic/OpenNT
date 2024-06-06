@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MKFIFO.1                          	mkfifo.1
+F MKFIFO.C                          	mkfifo.c
+L OBJ                               	obj	/usr/obj/usr.bin/mkfifo
+F TAGS                              	tags

@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/script
+F SCRIPT.1                          	script.1
+F SCRIPT.C                          	script.c
+F TAGS                              	tags

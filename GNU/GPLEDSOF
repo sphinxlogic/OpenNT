@@ -1,0 +1,239 @@
+This file lists freed copylefted software, that the FSF is not
+currently distributing.  Please let:
+
+	gnu@prep.ai.mit.edu
+
+or	The GNU Project
+	Free Software Foundation
+	675 Massachusetts Avenue
+	Cambridge, MA  02139-3309
+
+know of additional entries or corrections.  You can ftp a fuller list from
+`prep.ai.mit.edu' in file `/pub/gnu/GPLedSoftware'.  This file does not list
+GNU Emacs Lisp Libraries which are in
+`/pub/gnu/emacs/elisp-archive/LCD-datafile.Z' on `archive.cis.ohio-state.edu'
+
+
+   * GN, a hybrid Gopher and WWW server
+
+     GN is a hybrid Gopher and WWW (the Internet's World Wide Web) server.  It
+     is written by John Franks in C and runs under UNIX.  GN serves two
+     protocols gopher0 and HTTP/1.0 used by WWW clients.  GN recognizes the
+     protocol from the request and responds appropriately.  For further
+     information see `http://hopf.math.nwu/' or `gopher://hopf.math.nwu', or
+     contact `john@math.nwu.edu'.  You can FTP it from `ftp.acns.nwu.edu' in
+     file `/pub/gn/gn-2.07.tar.gz'
+
+     Updated: May 94
+
+   * SNePS Now Free Software
+
+     The current release, 2.1, of the Semantic Network Processing System
+     (SNePS), is publicly available under the terms of the GNU General Public
+     License.  Previously it was available for a licensing fee.
+
+     SNePS is the implementation of a fully intensional theory of
+     propositional knowledge representation and reasoning.  SNePS 2.1 runs in
+     CLISP on PCs under DOS or Unix.  Previous versions ran on AKCL (now
+     known as GNU Common Lisp (GCL)).  SNePS can be obtained by anonymous FTP
+     from `ftp.cs.buffalo.edu' in `/pub/sneps'.  For more information, get
+     the `README' file.
+
+     Updated: April 94
+
+   * GAMMA: a Magnetic Resonance Simulation Library
+
+     GAMMA is an object oriented package for magnetic resonance simulation by
+     numerical density matrix calculation.  It is written in C++.
+
+     The package contains definitions for complex data types such as
+     matrices, operators or spin systems, and appropriate mathematical
+     operations on them.  You can write a simulation program in a natural way
+     that parallels the abstract formalism used for a theoretical
+     description.  The simulation environment is fully user expandable.
+
+     The library is currently available under the GPL license on
+     `hertz.ethz.ch'.
+
+     For further information, please contact:
+
+             Tilo Levante
+             Institut fuer physikalische Chemie
+             Eidgenoessische Technische Hochschule
+             ETH-Zentrum
+             CH-8092 Zuerich
+             Electronic-Mail: tilo@nmr.lpc.ethz.ch
+             Telephone: +41-1-632-4367
+             Fax:       +41-1-632-1021
+
+   * GNU Objective-C Collection Class Library
+
+     Libcoll is a library of Objective-C objects with similar functionality
+     to Smalltalk's Collection objects.  It includes: Set, Bag, Array,
+     CircularArray, GapArray, Queue, Stack, Heap, LinkedList, BinaryTree,
+     SplayTree, RBTree, Dictionary, MappedCollector, EltNodeCollector and
+     DelegateList.  Outside of its main hierarchy libcoll also includes List,
+     HashTable, Storage and StringTable objects compatible with NeXT's
+     objects of the same name.
+
+     It is available under the GNU Library General Public License, and can be
+     obtained by anonymous FTP from `ftp.cs.rochester.edu' in `/pub/objc'.
+     It requires GCC 2.5.8 or higher.  For more information contact R. Andrew
+     McCallum at `mccallum@cs.rochester.edu'.  Updated: May 94
+
+   * GCT, a Test-Coverage Tool based on GCC
+
+     GCT 1.4 is a test-coverage tool based on GNU C.  (Coverage tools measure
+     how thoroughly a test suite exercises a program.)  GPLed ports for Sun3,
+     Sun4, RS/6000, 68k, 88k, HP-PA, IBM 3090, Ultrix, Convex and SCO are
+     available from `ftp cs.uiuc.edu' in files `/pub/testing/gct.file/ftp.*'.
+     Send discussion list subscription requests to:
+     `gct-request@cs.uiuc.edu'.  Further information from the author Brian
+     Marick, `marick@cs.uiuc.edu'.  Telephone: 217-351-7228.  Updated: May 94
+
+   * Moldy, A Molecular Dynamics Simulation Program
+
+     Moldy is a molecular dynamics simulation program written by Keith
+     Refson.  He says, "... I have a slightly unusual rationale for using the
+     GPL ..."
+
+          For the last few hundred years or so there has been a principle
+          which forms part of the ethos of scientific endeavour.  It is that
+          the fruits of one's research should be openly published so that
+          others may learn, use and build upon them.  Results may be
+          independently checked by other researchers, contributing to the
+          reliability which distinguishes science from other forms of
+          knowledge.  And the benefits are available to the general good.  Of
+          course such a high ethical principle is not always honoured,
+          scientists being human and subject to the usual commercial
+          pressures.  But it remains as an ideal to strive for.
+
+          I have placed my molecular dynamics simulation program, called Moldy
+          under the GPL because I find the copyleft conditions in close
+          agreement with this spirit of scientific freedom and co-operation.
+          It is a research tool for performing atomistic computer simulations
+          of solids and liquids, and therefore not of widespread use outside
+          the discipline.  I wish to make it available to any scientist who
+          wishes to use it, to encourage them to add to the program and to
+          ensure that any improvements are as free as the original code.
+
+     Moldy come with a manual in LaTeX or PostScript format; it runs on Unix,
+     VMS and MS-DOS systems.  The sources are available by anonymous FTP from
+     `earth.ox.ac.uk'.
+
+   * Map: the Interactive Network Map
+
+     Map, the Interactive Network Map is a part of a network management
+     system.  It presents a map of a network and allows point and click
+     interrogation of network equipment.  It can be used on TCP/IP and
+     CHAOSnet protocol stacks and implements basic host polling as well as
+     SNMP.  Map was written by Michael A. Patton and comes with some
+     documentation.  Map is available by anonymous FTP from `ftp.lcs.mit.edu'
+     in the directory `nets'.
+
+   * SIPP, the SImple Polygon Processor
+
+     SIPP is a library for creating photorealistic renderings of 3D scenes.  A
+     scene is built up of objects which can be transformed with rotation,
+     translation and scaling.  The objects form hierarchies where each object
+     can have arbitrarily many subobjects and subsurfaces.  A surface is a
+     number of connected polygons which are rendered with either Phong,
+     Gouraud or flat shading.  The library supports texture mapping with
+     textures in up to 3-dimensions and automatic interpolation of texture
+     coordinates. A scene can be illuminated by an arbitrary number of light
+     sources.  The light from some of them are capable of casting shadows of
+     objects.  You can FTP it from `isy.liu.se' (130.236.1.3) in file
+     `/pub/sipp/sipp-3.1.tar.gz'.  For more information, contact the author
+     Jonas Yngvesson, `jonas-y@isy.liu.se' Updated: May 94
+
+   * Oaklisp 1.2
+
+     Oaklisp 1.2, written by Kevin Lang and Barak Pearlmutter, is a	fast
+     portable tasty object-oriented scheme with first class types.  You can
+     FTP it from `ftp.cs.cmu.edu' from directory `/user/bap/oaklisp/' in
+     files `oaklisp.tar.gz' and `manuals.{tex,dvi,PS}.tar.gz'.  Further
+     information from `bap@learning.scr.siemens.com'.
+
+     Updated: May 94
+
+   * SD, a Square Dance Calling Program
+
+     SD is a program for writing advanced and challenge western square dance
+     choreography.  It is available via anonymous FTP from `ftp.x.org' in
+     `misc/sd/sd-30.tar.Z' (or other version later than 30) contains a
+     compressed archive of the sources and build materials.  The file
+     `sd300bn.exe' is a self-extracting DOS archive containing a pre-built PC
+     executable.  For more information. write `wba@apollo.hp.com'.  Updated:
+     May 94
+
+   * The Chipmunk VLSI Design System
+
+     The Chipmunk VLSI design system contains tools for schematic capture,
+     netlist creation, and analog and digital simulation (log), IC mask
+     layout, extraction, and DRC (wol), simple chip compilation (wolcomp),
+     MOSIS fabrication request generation (mosis), netlist comparison
+     (netcmp), data plotting (view) and postscript graphics editing (until).
+     FTP it from `hobiecat.pcmp.caltech.edu', consult file
+     `/pub/chipmunk/README' first.  For more information, write John Lazzaro,
+     `lazzaro@cs.berkeley.edu'.
+
+     Updated: May 94
+
+   * Paradise Netrek
+
+     Paradise Netrek is a multi-player graphical game using UDP and TCP.  You
+     can FTP it from `ftp.cis.ufl.edu' from directory `/pub/netrek.paradise/'
+     in files `server.2.3.tar.gz' and `client.2.3.tar.gz'.  For more
+     information, contact `paradise-workers@reed.edu'.
+
+     Updated: May 94
+
+
+   * Lisp Class Library for C++ Programmers
+
+     Lily is a C`++' class library providing Lisp-like functionality,
+     including automatic garbage collection.  Lily is available via anonymous
+     FTP from `sunsite.unc.edu' in `/pub/packages/development/libraries'.
+     Write `roger@pepe.hitc.com', for more information.
+
+     Updated: April 94
+
+   * OCEAN Integrated-Circuit Design System
+
+     Delft University of Technology, the Netherlands, has developed OCEAN, a
+     comprehensive chip design package.  It includes a full set of powerful
+     interactive tools for the synthesis and verification of semi-custom
+     sea-of-gates and gate-array chips.  OCEAN covers the back-end of the
+     design trajectory--from circuit level, down to layout and a working chip.
+
+     It is available as free software, with full source code, and is known to
+     run on Linux, HP and Sun workstations under the MIT X Window System.
+     You can obtain OCEAN by anonymous FTP from `donau.et.tudelft.nl'.  For
+     more information, contact `patrick@donau.et.tudelft.nl'.
+
+     Updated: April 94
+
+   * Free Widget Foundation Announces Widgets
+
+     The Free Widget Foundation (FWF) is a grass-roots, all volunteer effort
+     to create a set of powerful, flexible, freely-accessible X graphical
+     user-interface modules (widgets).  Since its start in 1990, the FWF
+     release has grown to over 40 widgets, now used in several popular X
+     applications.  The FWF is not related to the Free Software Foundation,
+     but it shares our goal of making high-quality software freely
+     redistributable.
+
+     For information or to volunteer, get `/pub/FWF/README' via anonymous FTP
+     to `a.cs.uiuc.edu', write `free-widgets-info@flute.cs.uiuc.edu', or
+     write:
+
+             The Free Widget Foundation
+             c/o Brian Totty
+             Department of Computer Science
+             University of Illinois -- Urbana
+             1304 W. Springfield Avenue
+             Urbana, IL   61801
+             USA
+
+     Updated: April 94
+

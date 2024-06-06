@@ -1,0 +1,5 @@
+F BUILD.CPL                         	build.cpl
+F CI_OPTS                           	ci.opts
+D INCLUDE                           	include
+F PRIMOS.C                          	primos.c
+F README                            	readme

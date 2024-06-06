@@ -1,0 +1,7 @@
+F AUTHCRED.C                        	Authcredcheck.c
+F AUTHLOOK.C                        	Authlookup.c
+F GETXNSPA.C                        	getXNSpass.c
+F GETXNSUS.C                        	getXNSuser.c
+F MAKEFILE                          	Makefile
+D PROFILED                          	profiled
+F SIMPLEAU.C                        	simpleauth.c

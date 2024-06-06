@@ -1,0 +1,7 @@
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/tr
+F STR.C                             	str.c
+F TAGS                              	tags
+F TR.1                              	tr.1
+F TR.C                              	tr.c

@@ -1,0 +1,135 @@
+.\" @(#)00_TRANS.TBL.5 1.00 91/06/07 Copyright 1990, 1991 By Young Minds, Incorporated
+.nh
+.TH 00_TRANS.TBL 5  "7 June 1991"
+.SH NAME
+00_TRANS.TBL
+.SH DESCRIPTION
+In order to conform with the ISO 9660 standard for a CD-ROM image,
+Young Minds CD-ROM Publishing Software stores filenames using the '8.3' rules
+for filenames.  Under these rules, filenames must be made up of only upper
+case letters (A-Z), digits (0-9), the underscore (_), and, exactly, one period
+(.).  Further, filenames are broken into 4 pieces, the primary name, a period, an
+extension name, and a version number, where the primary name is limited to at
+most 8 characters, the extension is limited to at most 3 characters, and the
+version number is delimited by a semicolon (;).  Finally, the ISO 9660
+standard places a restriction on the maximum number of directory levels,
+limiting a CD-ROM directory tree to at most 8 levels.
+.LP
+Since most UNIX\(dg
+filenames do not conform to this standard, any filenames that did not conform
+were translated to conform to the ISO standard before being stored on
+CD-ROM.  And, where some of the directories
+were nested 8 or more levels deep, any directories that were too deep
+were moved up, until all directories and filenames on the disc conformed
+to the standard.
+.LP
+To allow a program (or a person) to recreate the original names, a
+translation file (normally called
+.B 00_TRANS.TBL)
+is placed in each directory, giving, for every directory entry
+in that directory other than
+.B 00_TRANS.TBL,
+the type of each entry, each entry's translated name, each entry's original
+UNIX\(dg
+name, and, if needed, the entry's symbolic link (for type L entries) or
+information about device node described by the entry.  The
+current file types are :
+.LP
+.nf
+	F	for ordinary files
+	D	for ordinary directories
+	M	for moved directories
+	L	for symbolic links
+	B	for block device nodes
+	C	for character device nodes
+	P	for pipe files
+	S	for socket files
+.fi
+.SH ENTRY DEFINITION
+A C-like definition for a
+.B 00_TRANS.TBL
+entry is as follows :
+.LP
+.nf
+	char type;		/* valid values : F, D, M, L, B, C, P, or S */
+	char space;		/* a space character (0x20) */
+	char trans_name [14];	/* the translated entry name */
+	char tab1;		/* a tab character (0x09) */
+	char *orig_name;	/* the original UNIX\(dg name.  This is variable
+			   	length name is terminated by either a newline
+			   	character (0x0a) or a tab character (0x09),
+			   	which are not considered part of the field */
+
+For type F, D, P, and S entries, this is followed by a :
+
+	char newline;		/* a newline character (0x0a), ending the
+			   	entry */
+
+For type M entries, this is followed by a :
+
+	char tab2;		/* a tab character (0x09) */
+	char *moved_name;	/* the relative path to the new location
+				of the directory.  This variable length
+			   	name is terminated by a newline character
+				(0x0a), which is not considered part of
+				the field */
+	char newline;		/* a newline character (0x0a), ending the
+			   	entry */
+
+For type L entries, this is followed by a :
+
+	char tab2;		/* a tab character (0x09) */
+	char *link_moved_name;	/* the symbolic link value.  This variable
+			   	length name is terminated by a newline
+			   	character (0x0a), which is not considered
+			   	part of the field */
+	char newline;		/* a newline character (0x0a), ending the
+			   	entry */
+
+For type B and C entries, this is followed by a :
+
+	char tab2;		/* a tab character (0x09) */
+	char *major_number;	/* the major device number for the file.
+				If the entry was created on an 88Open
+				compliant machine, it is listed as a '-'.
+ 				This variable length field is terminated by
+				a space character (0x20), which is not
+				considered part of the field */
+	char space2;		/* a space character (0x20) */
+	char *minor_number;	/* the minor device number for the file.
+				If the entry was created on an 88Open
+				compliant machine, it contains the entire
+				device number.  This variable length field
+				is terminated by a newline character (0x0a),
+				which is not considered part of the field */
+	char newline;		/* a newline character (0x0a), ending the
+			   	entry */
+.fi
+.SH NOTES
+While the ISO 9660 standard forces filenames to be stored using upper
+case letters, the CD-ROM filesystem driver for the Sun workstation
+automatically translates all upper case filename characters to lower case.
+.LP
+This discussion of the restrictions of the ISO 9660 standard assumes
+the most strict level of interchange mentioned by the standard, Interchange
+Level 1.  While there are less restrictive levels of interchange (namely
+levels 2 and 3), Level 1 was chosen to allow compatibility with the CD-ROM
+drivers of other machines, such as the IBM PC.  Further, changing to a
+more lenient form of interchange would only remove the primary and extension
+filename length restrictions and replace them with a maximum filename length
+of 31 characters, while still enforcing the upper case only character set
+and the 8 level deep directory tree restrictions.  (See the ISO 9660
+document for more details).
+
+.LP
+The current version of the
+.B cd_link
+program ignores the B, C, P, and S entries, as there is not yet a
+well defined, machine independent mapping for these entries.
+.SH REFERENCES
+.RS
+ISO 9660, Information processing - Volume and file structure of
+CD-ROM for information interchange.
+.RE
+.LP
+\(dg \s-1UNIX\s0 is a trademark of Bell Laboratories.

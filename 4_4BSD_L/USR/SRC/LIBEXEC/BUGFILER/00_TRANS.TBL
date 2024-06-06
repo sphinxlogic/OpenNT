@@ -1,0 +1,16 @@
+F BUG.H                             	bug.h
+F BUGFILER.8                        	bugfiler.8
+F BUGFILER.C                        	bugfiler.c
+F BUGFORMA                          	bugformat
+F ERROR.C                           	error.c
+F EXTERN.H                          	extern.h
+F GETHEAD.C                         	gethead.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/bugfiler
+F PATHNAME.H                        	pathnames.h
+F PROCESS.C                         	process.c
+F REDIST.C                          	redist.c
+F REPLY.C                           	reply.c
+F SENDBUG.1                         	sendbug.1
+F SENDBUG.SH                        	sendbug.sh
+F TAGS                              	tags

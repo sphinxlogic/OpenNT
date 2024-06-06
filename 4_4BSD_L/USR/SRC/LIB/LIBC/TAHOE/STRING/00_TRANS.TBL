@@ -1,0 +1,14 @@
+F BCMP.S                            	bcmp.s
+F BCOPY.S                           	bcopy.s
+F BZERO.S                           	bzero.s
+F FFS.S                             	ffs.s
+F MAKEFILE.INC                      	Makefile.inc
+F MEMCMP.S                          	memcmp.s
+F MEMMOVE.S                         	memmove.s
+F STRCAT.S                          	strcat.s
+F STRCMP.S                          	strcmp.s
+F STRCPY.S                          	strcpy.s
+F STRLEN.S                          	strlen.s
+F STRNCAT.S                         	strncat.s
+F STRNCMP.S                         	strncmp.s
+F STRNCPY.S                         	strncpy.s

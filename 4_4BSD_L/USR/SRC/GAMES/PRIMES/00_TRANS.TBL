@@ -1,0 +1,7 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/primes
+F PATTERN.C                         	pattern.c
+F PRIMES.C                          	primes.c
+F PRIMES.H                          	primes.h
+F PR_TBL.C                          	pr_tbl.c
+F TAGS                              	tags

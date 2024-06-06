@@ -1,0 +1,7 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/sccs
+F PATHNAME.H                        	pathnames.h
+D PSD_DOC                           	PSD.doc
+F SCCS.1                            	sccs.1
+F SCCS.C                            	sccs.c
+F TAGS                              	tags

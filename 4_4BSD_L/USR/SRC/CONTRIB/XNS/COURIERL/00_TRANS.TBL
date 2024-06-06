@@ -1,0 +1,17 @@
+F AUTHENT0.CR                       	Authentication1.cr
+F AUTHENT1.CR                       	Authentication2.cr
+F AUTHENT2.CR                       	Authentication3.cr
+F BULKDATA.CR                       	BulkData1.cr
+F CHENTRIE.CR                       	CHEntries0.cr
+F CLEARIN0.CR                       	Clearinghouse2.cr
+F CLEARIN1.CR                       	Clearinghouse3.cr
+F FILING4.CR                        	Filing4.cr
+F FILING5.CR                        	Filing5.cr
+F FILING6.CR                        	Filing6.cr
+F FILINGSU.CR                       	FilingSubset1.cr
+F INSTALL                           	install
+F MAKEFILE                          	Makefile
+F PRINTING.CR                       	Printing3.cr
+D PROFILED                          	profiled
+F SERVICES.TXT                      	services.txt
+F TIME2.CR                          	Time2.cr

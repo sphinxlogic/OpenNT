@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+F MOVE.C                            	move.c
+L OBJ                               	obj	/usr/obj/games/snake/snake
+F PATHNAME.H                        	pathnames.h
+F SNAKE.6                           	snake.6
+F SNAKE.C                           	snake.c
+F SNAKE.H                           	snake.h
+F TAGS                              	tags

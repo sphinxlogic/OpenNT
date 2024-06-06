@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/pstat
+F PSTAT.8                           	pstat.8
+F PSTAT.C                           	pstat.c
+F TAGS                              	tags

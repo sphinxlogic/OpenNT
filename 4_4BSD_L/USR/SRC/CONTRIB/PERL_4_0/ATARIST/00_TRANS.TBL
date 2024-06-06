@@ -1,0 +1,16 @@
+F ATARIST.C                         	atarist.c
+F CONFIG.H                          	config.h
+F ECHO.C                            	echo.c
+F EXPLAIN                           	explain
+F FILES                             	FILES
+F MAKEFILE.SM                       	makefile.sm
+F MAKEFILE.ST                       	makefile.st
+F OSBIND.PL                         	osbind.pl
+F PERLDB.DIF                        	perldb.diff
+F PERLGLOB.C                        	perlglob.c
+F README.ST                         	README.ST
+F RESULTS                           	RESULTS
+D TEST                              	test
+F USERSUB.C                         	usersub.c
+D USUB                              	usub
+F WILDMAT.C                         	wildmat.c

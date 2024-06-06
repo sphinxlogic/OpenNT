@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MAKEFILE.DIS                      	Makefile.dist
+L OBJ                               	obj	/usr/obj/usr.sbin/sendmail/praliases
+F PRALIASE.C                        	praliases.c
+F TAGS                              	tags

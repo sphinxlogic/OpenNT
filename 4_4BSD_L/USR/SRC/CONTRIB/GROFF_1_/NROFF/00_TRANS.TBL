@@ -1,0 +1,5 @@
+F CONFTEST.SH                       	conftest.sh
+F MAKEFILE.SUB                      	Makefile.sub
+L NROFF.1                           	nroff.1	nroff.man
+F NROFF.MAN                         	nroff.man
+F NROFF.SH                          	nroff.sh

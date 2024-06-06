@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MAKEKEY.8                         	makekey.8
+F MAKEKEY.C                         	makekey.c
+L OBJ                               	obj	/usr/obj/libexec/makekey
+F TAGS                              	tags

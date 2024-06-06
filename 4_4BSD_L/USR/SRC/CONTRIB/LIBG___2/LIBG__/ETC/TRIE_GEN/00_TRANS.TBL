@@ -1,0 +1,15 @@
+F CHANGELO                          	ChangeLog
+F COMPACT.CC                        	compact.cc
+F COMPACT.H                         	compact.h
+F CONFIG.STA                        	config.status
+F DEPEND                            	depend
+F MAIN.CC                           	main.cc
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F OPTIONS.CC                        	options.cc
+F OPTIONS.H                         	options.h
+F TEST.CC                           	test.cc
+F TRIE.CC                           	trie.cc
+F TRIE.H                            	trie.h
+F TRIE_GEN.1                        	trie-gen.1
+F VERSION.CC                        	version.cc

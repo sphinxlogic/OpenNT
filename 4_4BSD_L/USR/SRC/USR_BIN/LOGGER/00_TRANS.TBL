@@ -1,0 +1,5 @@
+F LOGGER.1                          	logger.1
+F LOGGER.C                          	logger.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/logger
+F TAGS                              	tags

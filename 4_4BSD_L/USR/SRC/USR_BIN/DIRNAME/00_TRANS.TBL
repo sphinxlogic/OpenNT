@@ -1,0 +1,4 @@
+F DIRNAME.C                         	dirname.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/dirname
+F TAGS                              	tags

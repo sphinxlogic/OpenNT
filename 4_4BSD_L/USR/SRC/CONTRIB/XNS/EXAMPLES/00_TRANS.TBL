@@ -1,0 +1,17 @@
+D ARCHIVE                           	archive
+D AUTH                              	auth
+D AUTHCHTE                          	authchtest
+D CH                                	ch
+D FILING                            	filing
+D FILING_0                          	filing_client
+D FILING_1                          	filing_common
+D FILING_2                          	filing_servers
+D GAP                               	gap
+F MAKEFILE                          	Makefile
+D PASSWD                            	passwd
+D PRINT                             	print
+F README                            	README
+D REMOTETO                          	remotetool
+D RETRIEVE                          	retrieve
+D VPFILE                            	vpfile
+D XNSCREDS                          	xnscreds

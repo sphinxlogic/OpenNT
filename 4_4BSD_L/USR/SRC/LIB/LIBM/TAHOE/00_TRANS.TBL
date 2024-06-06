@@ -1,0 +1,6 @@
+F CABS.S                            	cabs.s
+F CBRT.S                            	cbrt.s
+F INFNAN.S                          	infnan.s
+F MCOUNT.SED                        	mcount.sed
+F SQRT.S                            	sqrt.s
+F SUPPORT.S                         	support.s

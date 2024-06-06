@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/quotaon
+F QUOTAON.8                         	quotaon.8
+F QUOTAON.C                         	quotaon.c
+F TAGS                              	tags

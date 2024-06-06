@@ -1,0 +1,4 @@
+F ANSIDECL.H                        	ansidecl.h
+F DEMANGLE.H                        	demangle.h
+F GETOPT.H                          	getopt.h
+F OBSTACK.H                         	obstack.h

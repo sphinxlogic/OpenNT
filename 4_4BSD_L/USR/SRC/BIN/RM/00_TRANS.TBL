@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/rm
+F RM.1                              	rm.1
+F RM.C                              	rm.c
+F TAGS                              	tags

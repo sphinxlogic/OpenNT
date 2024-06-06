@@ -1,0 +1,6 @@
+F CHGRP.1                           	chgrp.1
+F CHOWN.8                           	chown.8
+F CHOWN.C                           	chown.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/chown
+F TAGS                              	tags

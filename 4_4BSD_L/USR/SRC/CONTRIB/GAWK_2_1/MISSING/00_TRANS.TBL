@@ -1,0 +1,12 @@
+F MEMCMP.C                          	memcmp.c
+F MEMCPY.C                          	memcpy.c
+F MEMSET.C                          	memset.c
+F RANDOM.C                          	random.c
+F STRCHR.C                          	strchr.c
+F STRERROR.C                        	strerror.c
+F STRFTIME.3                        	strftime.3
+F STRFTIME.C                        	strftime.c
+F STRNCASE.C                        	strncasecmp.c
+F STRTOD.C                          	strtod.c
+F SYSTEM.C                          	system.c
+F TZSET.C                           	tzset.c

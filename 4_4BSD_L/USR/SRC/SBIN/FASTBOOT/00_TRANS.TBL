@@ -1,0 +1,5 @@
+F FASTBOOT.8                        	fastboot.8
+F FASTBOOT.SH                       	fastboot.sh
+F FASTHALT.SH                       	fasthalt.sh
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/fastboot

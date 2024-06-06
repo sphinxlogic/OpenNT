@@ -1,0 +1,24 @@
+F ACU.C                             	acu.c
+D ACULIB                            	aculib
+F ACUTAB.C                          	acutab.c
+F CMDS.C                            	cmds.c
+F CMDTAB.C                          	cmdtab.c
+F CU.C                              	cu.c
+F HUNT.C                            	hunt.c
+F LOG.C                             	log.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/tip
+F PARTAB.C                          	partab.c
+F PATHNAME.H                        	pathnames.h
+F README                            	README
+F REMCAP.C                          	remcap.c
+F REMOTE.C                          	remote.c
+F TAGS                              	tags
+F TIP.1                             	tip.1
+F TIP.C                             	tip.c
+F TIP.H                             	tip.h
+F TIPOUT.C                          	tipout.c
+F TODO                              	TODO
+F UUCPLOCK.C                        	uucplock.c
+F VALUE.C                           	value.c
+F VARS.C                            	vars.c

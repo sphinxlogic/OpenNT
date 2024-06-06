@@ -1,0 +1,5 @@
+F DVI.CC                            	dvi.cc
+L GRODVI.1                          	grodvi.1	grodvi.man
+F GRODVI.MAN                        	grodvi.man
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub

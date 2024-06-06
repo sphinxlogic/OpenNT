@@ -1,0 +1,5 @@
+F LOGNAME.1                         	logname.1
+F LOGNAME.C                         	logname.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/logname
+F TAGS                              	tags

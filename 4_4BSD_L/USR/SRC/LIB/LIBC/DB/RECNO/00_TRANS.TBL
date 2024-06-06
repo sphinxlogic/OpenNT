@@ -1,0 +1,11 @@
+F EXTERN.H                          	extern.h
+F MAKEFILE.INC                      	Makefile.inc
+F RECNO.H                           	recno.h
+F REC_CLOS.C                        	rec_close.c
+F REC_DELE.C                        	rec_delete.c
+F REC_GET.C                         	rec_get.c
+F REC_OPEN.C                        	rec_open.c
+F REC_PUT.C                         	rec_put.c
+F REC_SEAR.C                        	rec_search.c
+F REC_SEQ.C                         	rec_seq.c
+F REC_UTIL.C                        	rec_utils.c

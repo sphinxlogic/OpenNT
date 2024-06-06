@@ -1,0 +1,9 @@
+F IF_EN.C                           	if_en.c
+F IF_EN.H                           	if_en.h
+F IF_ENREG.H                        	if_enreg.h
+F IF_LANCE.C                        	if_lance.c
+F IF_LANCE.H                        	if_lance.h
+F IF_NEWS.C                         	if_news.c
+F IF_NEWS.H                         	if_news.h
+F LANCEREG.H                        	lancereg.h
+L TAGS                              	tags	/var/db/sys_tags

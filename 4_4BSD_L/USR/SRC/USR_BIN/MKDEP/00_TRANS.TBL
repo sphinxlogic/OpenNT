@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+F MKDEP.1                           	mkdep.1
+F MKDEP.APP                         	mkdep.append
+F MKDEP.SH                          	mkdep.sh
+F MKDEP.ULT                         	mkdep.ultrix
+F MKDEP_GC.SH                       	mkdep.gcc.sh
+F MKDEP_OL.COM                      	mkdep.old.compiler
+L OBJ                               	obj	/usr/obj/usr.bin/mkdep

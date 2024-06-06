@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/fortune/strfile
+F STRFILE.8                         	strfile.8
+F STRFILE.C                         	strfile.c
+F STRFILE.H                         	strfile.h
+F TAGS                              	tags

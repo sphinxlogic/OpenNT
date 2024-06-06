@@ -1,0 +1,8 @@
+F CMV                               	cmv
+F DIRS                              	dirs
+F KILL                              	kill
+F LOGIN                             	login
+F NEWGRP                            	newgrp
+F POPD                              	popd
+F PUSHD                             	pushd
+F SUSPEND                           	suspend

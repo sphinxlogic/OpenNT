@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MKNOD.8                           	mknod.8
+F MKNOD.C                           	mknod.c
+L OBJ                               	obj	/usr/obj/sbin/mknod
+F TAGS                              	tags

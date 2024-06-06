@@ -1,0 +1,10 @@
+F ARTICLE.C                         	article.c
+F COMMANDS.C                        	commands.c
+F GROUP.C                           	group.c
+F LOADAVE.C                         	loadave.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+F NEWNEWS.C                         	newnews.c
+F NNRPD.C                           	nnrpd.c
+F NNRPD.H                           	nnrpd.h
+F POST.C                            	post.c

@@ -1,0 +1,11 @@
+F CFREE.C                           	cfree.c
+D HP300                             	hp300
+F INSQUE.3                          	insque.3
+F INSQUE.C                          	insque.c
+F LSEARCH.3                         	lsearch.3
+F LSEARCH.C                         	lsearch.c
+L LUNA68K                           	luna68k	hp300
+F REMQUE.C                          	remque.c
+F REXEC.3                           	rexec.3
+F REXEC.C                           	rexec.c
+F RE_COMP.3                         	re_comp.3

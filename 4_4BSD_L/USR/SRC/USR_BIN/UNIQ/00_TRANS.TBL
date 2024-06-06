@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/uniq
+F TAGS                              	tags
+F UNIQ.1                            	uniq.1
+F UNIQ.C                            	uniq.c

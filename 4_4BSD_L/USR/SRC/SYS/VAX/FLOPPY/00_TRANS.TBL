@@ -1,0 +1,19 @@
+F ANYBOO.CMD                        	anyboo.cmd
+F DEFBOO.HK                         	defboo.hk
+F DEFBOO.HP                         	defboo.hp
+F DEFBOO.KRA                        	defboo.kra
+F DEFBOO.MS7                        	defboo.MS780C-interleaved
+F DEFBOO.RA                         	defboo.ra
+F DEFBOO.UP                         	defboo.up
+F HKMBOO.CMD                        	hkmboo.cmd
+F HKSBOO.CMD                        	hksboo.cmd
+F HPMBOO.CMD                        	hpmboo.cmd
+F HPSBOO.CMD                        	hpsboo.cmd
+F MAKEFILE                          	Makefile
+F RAMBOO.CMD                        	ramboo.cmd
+F RASBOO.CMD                        	rasboo.cmd
+F RESTAR.CMD                        	restar.cmd
+L TAGS                              	tags	/var/db/sys_tags
+F UPMBOO.CMD                        	upmboo.cmd
+F UPSBOO.CMD                        	upsboo.cmd
+F UTBOOT.CMD                        	utboot.cmd

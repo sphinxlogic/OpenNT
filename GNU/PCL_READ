@@ -1,0 +1,8 @@
+PCL is available via anonymous FTP from ma2s2.mathematik.uni-karlsruhe.de
+[129.13.115.2], directory /pub/lisp/clisp/.
+
+It is also available directly from the GNU Project on the `Emacs'
+distribution tape.  For more information, please ask gnu@prep.ai.mit.edu. 
+
+PCL is a freely available implementation of a large subset of CLOS,
+the Common Lisp Object System, done at Xerox Corporation.

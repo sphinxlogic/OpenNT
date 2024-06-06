@@ -1,0 +1,5 @@
+F FOLD.1                            	fold.1
+F FOLD.C                            	fold.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/fold
+F TAGS                              	tags

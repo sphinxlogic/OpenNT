@@ -1,0 +1,7 @@
+F HOSTS.C                           	hosts.c
+F LLIB_LMH                          	llib-lmhmts
+F MAKEFILE                          	Makefile
+F NETMAIL.C                         	netmail.c
+F RMAIL.OKD                         	RMail.OkDests
+F RMAIL.OKH                         	RMail.OkHosts
+F UUCP.C                            	uucp.c

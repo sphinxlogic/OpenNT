@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/su
+F SU.1                              	su.1
+F SU.C                              	su.c
+F TAGS                              	tags

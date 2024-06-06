@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/trpt
+F TAGS                              	tags
+F TRPT.8                            	trpt.8
+F TRPT.C                            	trpt.c

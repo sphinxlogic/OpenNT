@@ -1,0 +1,6 @@
+F CLEAR.SH                          	clear.sh
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/tput
+F TAGS                              	tags
+F TPUT.1                            	tput.1
+F TPUT.C                            	tput.c

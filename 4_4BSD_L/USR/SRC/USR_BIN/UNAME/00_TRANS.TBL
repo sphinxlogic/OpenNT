@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/uname
+F TAGS                              	tags
+F UNAME.1                           	uname.1
+F UNAME.C                           	uname.c

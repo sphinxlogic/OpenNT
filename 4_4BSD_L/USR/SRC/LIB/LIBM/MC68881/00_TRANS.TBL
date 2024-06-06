@@ -1,0 +1,17 @@
+F ASINCOS.S                         	asincos.s
+F ATAN.S                            	atan.s
+F ATAN2.C                           	atan2.c
+F ATANH.S                           	atanh.s
+F COSH.S                            	cosh.s
+F EXPM1.S                           	expm1.s
+F FLOOR.S                           	floor.s
+F LOG10.S                           	log10.s
+F LOG1P.S                           	log1p.s
+F MCOUNT.SED                        	mcount.sed
+F README                            	README
+F SINCOS.S                          	sincos.s
+F SINH.S                            	sinh.s
+F SQRT.S                            	sqrt.s
+F SUPPORT.S                         	support.s
+F TAN.S                             	tan.s
+F TANH.S                            	tanh.s

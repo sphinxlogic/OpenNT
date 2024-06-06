@@ -1,0 +1,14 @@
+F DIG.1                             	dig.1
+F GETHOSTB.3                        	gethostbyname.3
+F GETNETEN.3                        	getnetent.3
+F HOST.1                            	host.1
+F HOSTNAME.7                        	hostname.7
+F MAILADDR.7                        	mailaddr.7
+F MAKEFILE                          	Makefile
+F NAMED.8                           	named.8
+F NAMED_R0.8                        	named.reload.8
+F NAMED_R1.8                        	named.restart.8
+F NAMED_XF.8                        	named-xfer.8
+F NSLOOKUP.8                        	nslookup.8
+F RESOLVER.3                        	resolver.3
+F RESOLVER.5                        	resolver.5

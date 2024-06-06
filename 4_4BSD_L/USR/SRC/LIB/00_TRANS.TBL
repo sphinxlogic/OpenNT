@@ -1,0 +1,14 @@
+D CSU                               	csu
+D LIBC                              	libc
+D LIBCOMPA                          	libcompat
+D LIBCURSE                          	libcurses
+D LIBEDIT                           	libedit
+D LIBKVM                            	libkvm
+D LIBM                              	libm
+D LIBRESOL                          	libresolv
+D LIBRPC                            	librpc
+D LIBTELNE                          	libtelnet
+D LIBTERM                           	libterm
+D LIBUTIL                           	libutil
+D LIBY                              	liby
+F MAKEFILE                          	Makefile

@@ -1,0 +1,15 @@
+F DISKTAB                           	disktab
+F FPEVENT                           	fpevent
+F FPPOC                             	fppoc
+F FPPWCS                            	fppwcs
+F FPPWCS_D                          	fppwcs_dual
+L FSTAB.EXA                         	fstab.example	../etc.tahoe/fstab.example
+F HDCWCS                            	hdcwcs
+F LOAD_DIA                          	load_diags
+F MAKEDEV                           	MAKEDEV
+F POC                               	poc
+F POC1                              	poc1
+F POC2                              	poc2
+F START_FP                          	start_fpp
+F WCS                               	wcs
+F WCS_DUAL                          	wcs_dual

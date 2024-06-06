@@ -1,0 +1,8 @@
+F BSD_DOC.MK                        	bsd.doc.mk
+F BSD_LIB.MK                        	bsd.lib.mk
+F BSD_MAN.MK                        	bsd.man.mk
+F BSD_PROG.MK                       	bsd.prog.mk
+F BSD_READ                          	bsd.README
+F BSD_SUBD.MK                       	bsd.subdir.mk
+F MAKEFILE                          	Makefile
+F SYS.MK                            	sys.mk

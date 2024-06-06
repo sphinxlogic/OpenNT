@@ -1,0 +1,18 @@
+F DIR.C                             	dir.c
+F FSCK.8                            	fsck.8
+F FSCK.H                            	fsck.h
+F INODE.C                           	inode.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/fsck
+F PASS1.C                           	pass1.c
+F PASS1B.C                          	pass1b.c
+F PASS2.C                           	pass2.c
+F PASS3.C                           	pass3.c
+F PASS4.C                           	pass4.c
+F PASS5.C                           	pass5.c
+F PREEN.C                           	preen.c
+F SETUP.C                           	setup.c
+D SMM_DOC                           	SMM.doc
+F TAGS                              	tags
+F UTILITIE.C                        	utilities.c

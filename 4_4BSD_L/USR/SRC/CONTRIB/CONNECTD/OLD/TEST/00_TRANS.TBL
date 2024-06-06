@@ -1,0 +1,5 @@
+F FDCLIENT.C                        	fdclient.c
+F FDS.C                             	fds.c
+F FDSERVER.C                        	fdserver.c
+F FDSTRCLI.C                        	fdstrclient.c
+F FDSTRSER.C                        	fdstrserver.c

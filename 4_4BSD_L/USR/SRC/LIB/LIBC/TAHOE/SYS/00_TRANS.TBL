@@ -1,0 +1,15 @@
+F BRK.S                             	brk.s
+F CERROR.S                          	cerror.s
+F EXECT.S                           	exect.s
+F FORK.S                            	fork.s
+F OVFORK.S                          	Ovfork.s
+F PIPE.S                            	pipe.s
+F PTRACE.S                          	ptrace.s
+F REBOOT.S                          	reboot.s
+F SBRK.S                            	sbrk.s
+F SETLOGIN.S                        	setlogin.s
+F SIGPENDI.S                        	sigpending.s
+F SIGPROCM.S                        	sigprocmask.s
+F SIGRETUR.S                        	sigreturn.s
+F SIGSUSPE.S                        	sigsuspend.s
+F SYSCALL.S                         	syscall.s

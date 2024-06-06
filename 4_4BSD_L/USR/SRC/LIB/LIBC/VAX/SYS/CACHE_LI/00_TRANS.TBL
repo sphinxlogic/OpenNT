@@ -1,0 +1,9 @@
+F FORK.C                            	fork.c
+F GETDTABL.C                        	getdtablesize.c
+F GETGID.C                          	getgid.c
+F GETHOSTI.C                        	gethostid.c
+F GETPID.C                          	getpid.c
+F GETPPID.C                         	getppid.c
+F GETUID.C                          	getuid.c
+F OVFORK.C                          	Ovfork.c
+F X.C                               	x.c

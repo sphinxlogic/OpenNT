@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/split
+F SPLIT.1                           	split.1
+F SPLIT.C                           	split.c
+F TAGS                              	tags

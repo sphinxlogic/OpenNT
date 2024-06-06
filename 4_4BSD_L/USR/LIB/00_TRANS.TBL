@@ -1,0 +1,5 @@
+L GRMD                              	grmd	/usr/hpux/lib/grmd
+L TMAC                              	tmac	/usr/share/tmac
+D UUCP                              	uucp
+L X                                 	X	/usr/hpux/lib/X
+L X11                               	X11	/usr/X11/lib

@@ -1,0 +1,5 @@
+F LAM.1                             	lam.1
+F LAM.C                             	lam.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/lam
+F TAGS                              	tags

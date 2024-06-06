@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MOUNT_FD.8                        	mount_fdesc.8
+F MOUNT_FD.C                        	mount_fdesc.c
+L OBJ                               	obj	/usr/obj/sbin/mount_fdesc
+F TAGS                              	tags

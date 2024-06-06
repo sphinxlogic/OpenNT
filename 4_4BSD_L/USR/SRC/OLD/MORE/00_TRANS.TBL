@@ -1,0 +1,7 @@
+F MAKEFILE                          	Makefile
+F MORE.1                            	more.1
+F MORE.C                            	more.c
+F MORE.HEL                          	more.help
+L OBJ                               	obj	/usr/obj/old/more
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

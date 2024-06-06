@@ -1,0 +1,17 @@
+F EXTERN.C                          	extern.c
+F FLUSH_IN.C                        	flush_in.c
+F INIT_FIE.C                        	init_field.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MAKE_LEV.C                        	make_level.c
+F MOVE.C                            	move.c
+F MOVE_ROB.C                        	move_robs.c
+L OBJ                               	obj	/usr/obj/games/robots
+F PATHNAME.H                        	pathnames.h
+F PLAY_LEV.C                        	play_level.c
+F QUERY.C                           	query.c
+F RND_POS.C                         	rnd_pos.c
+F ROBOTS.6                          	robots.6
+F ROBOTS.H                          	robots.h
+F SCORE.C                           	score.c
+F TAGS                              	tags

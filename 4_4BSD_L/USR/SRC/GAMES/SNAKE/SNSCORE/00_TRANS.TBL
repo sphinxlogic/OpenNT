@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/snake/snscore
+F SNSCORE.C                         	snscore.c
+F TAGS                              	tags

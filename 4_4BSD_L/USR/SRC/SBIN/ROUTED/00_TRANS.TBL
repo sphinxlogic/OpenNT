@@ -1,0 +1,22 @@
+F AF.C                              	af.c
+F AF.H                              	af.h
+F DEFS.H                            	defs.h
+F IF.C                              	if.c
+F INET.C                            	inet.c
+F INPUT.C                           	input.c
+F INTERFAC.H                        	interface.h
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/routed
+F OUTPUT.C                          	output.c
+F PATHNAME.H                        	pathnames.h
+D QUERY                             	query
+F ROUTED.8                          	routed.8
+F STARTUP.C                         	startup.c
+F TABLE.H                           	table.h
+F TABLES.C                          	tables.c
+F TAGS                              	tags
+F TIMER.C                           	timer.c
+D TRACE                             	trace
+F TRACE.C                           	trace.c
+F TRACE.H                           	trace.h

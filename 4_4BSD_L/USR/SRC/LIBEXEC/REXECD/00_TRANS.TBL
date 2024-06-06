@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/rexecd
+F REXECD.8                          	rexecd.8
+F REXECD.C                          	rexecd.c
+F TAGS                              	tags

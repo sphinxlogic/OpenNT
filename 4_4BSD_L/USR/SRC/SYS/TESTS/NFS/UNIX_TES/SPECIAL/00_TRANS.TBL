@@ -1,0 +1,15 @@
+F DUPREQ.C                          	dupreq.c
+F EXCLTEST.C                        	excltest.c
+F FSTAT.C                           	fstat.c
+F HOLEY.C                           	holey.c
+F MAKEFILE                          	Makefile
+F NEGSEEK.C                         	negseek.c
+F NSTAT.C                           	nstat.c
+F OPEN_CHM.C                        	open-chmod.c
+F OPEN_UNL.C                        	open-unlk.c
+F RENAME.C                          	rename.c
+F RUNTESTS                          	runtests
+F RUNTESTS.WRK                      	runtests.wrk
+F STAT.C                            	stat.c
+F STAT2.C                           	stat2.c
+F TOUCHN.C                          	touchn.c

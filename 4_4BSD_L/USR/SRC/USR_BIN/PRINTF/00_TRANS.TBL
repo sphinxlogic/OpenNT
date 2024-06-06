@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/printf
+F PRINTF.1                          	printf.1
+F PRINTF.C                          	printf.c
+F TAGS                              	tags

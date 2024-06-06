@@ -1,0 +1,11 @@
+F SVI_CONF.C                        	svi_confirm.c
+F SVI_EX.C                          	svi_ex.c
+F SVI_GET.C                         	svi_get.c
+F SVI_LINE.C                        	svi_line.c
+F SVI_REFR.C                        	svi_refresh.c
+F SVI_RELA.C                        	svi_relative.c
+F SVI_SCRE.C                        	svi_screen.c
+F SVI_SCRE.H                        	svi_screen.h
+F SVI_SMAP.C                        	svi_smap.c
+F SVI_SPLI.C                        	svi_split.c
+F SVI_UTIL.C                        	svi_util.c

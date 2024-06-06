@@ -1,0 +1,15 @@
+F A29K.H                            	a29k.h
+F CHANGELO                          	ChangeLog
+F ECOFF_EX.H                        	ecoff-ext.h
+F H8300.H                           	h8300.h
+F I386.H                            	i386.h
+F I960.H                            	i960.h
+F INTERNAL.H                        	internal.h
+F M68K.H                            	m68k.h
+F M88K.H                            	m88k.h
+F MIPS.H                            	mips.h
+F RS6000.H                          	rs6000.h
+F SYM.H                             	sym.h
+F SYMCONST.H                        	symconst.h
+F WE32K.H                           	we32k.h
+F Z8K.H                             	z8k.h

@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/whatis
+F TAGS                              	tags
+F WHATIS.1                          	whatis.1
+F WHATIS.C                          	whatis.c

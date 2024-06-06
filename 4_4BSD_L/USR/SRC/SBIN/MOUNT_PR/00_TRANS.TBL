@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MOUNT_PR.8                        	mount_procfs.8
+F MOUNT_PR.C                        	mount_procfs.c
+L OBJ                               	obj	/usr/obj/sbin/mount_procfs
+F TAGS                              	tags

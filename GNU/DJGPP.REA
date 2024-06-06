@@ -1,0 +1,10 @@
+The latest version of DJGPP (a port of GCC to MS-DOS running on an i386
+or i486) can be found on omnigate.clarkson.edu in /pub/msdos/djgpp via
+anonymous FTP.  Both sources and binaries are available there.
+The latest version of DJGPP (a port of GCC to MS-DOS running on an
+i386 or i486) can be found on oak.oakland.edu in /pub/msdos/djgpp (or
+any other local Simtel mirror site) via anonymous FTP.  Both sources
+and binaries are available there.
+
+You can also get DJGPP on CD-ROM from the FSF.  Ask 
+gnu@prep.ai.mit.edu for details.

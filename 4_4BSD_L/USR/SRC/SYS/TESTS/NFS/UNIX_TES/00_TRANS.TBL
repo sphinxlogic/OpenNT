@@ -1,0 +1,12 @@
+D BASIC                             	basic
+F DOMOUNT.C                         	domount.c
+D GENERAL                           	general
+F GETOPT.C                          	getopt.c
+F MAKEFILE                          	Makefile
+F README                            	README
+F RUNTESTS                          	runtests
+F SERVER                            	server
+D SPECIAL                           	special
+F TESTITEM                          	Testitems
+F TESTS.INI                         	tests.init
+D TOOLS                             	tools

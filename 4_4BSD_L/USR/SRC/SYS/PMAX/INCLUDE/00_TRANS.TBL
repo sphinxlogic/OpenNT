@@ -1,0 +1,30 @@
+L ANSI.H                            	ansi.h	../../hp300/include/ansi.h
+F CPU.H                             	cpu.h
+F DC7085CO.H                        	dc7085cons.h
+F ENDIAN.H                          	endian.h
+F EXEC.H                            	exec.h
+L FLOAT.H                           	float.h	../../hp300/include/float.h
+F KDBPARAM.H                        	kdbparam.h
+L LIMITS.H                          	limits.h	../../hp300/include/limits.h
+F MACHASMD.H                        	machAsmDefs.h
+F MACHCONS.H                        	machConst.h
+F MIPS_OPC.H                        	mips_opcode.h
+F PARAM.H                           	param.h
+F PCB.H                             	pcb.h
+F PMAP.H                            	pmap.h
+F PMIOCTL.H                         	pmioctl.h
+F PROC.H                            	proc.h
+F PROFILE.H                         	profile.h
+F PSL.H                             	psl.h
+F PTE.H                             	pte.h
+F PTRACE.H                          	ptrace.h
+F REG.H                             	reg.h
+F REGDEF.H                          	regdef.h
+F RELOC.H                           	reloc.h
+F SIGNAL.H                          	signal.h
+F STDARG.H                          	stdarg.h
+L TAGS                              	tags	/var/db/sys_tags
+F TRAP.H                            	trap.h
+F TYPES.H                           	types.h
+F VARARGS.H                         	varargs.h
+F VMPARAM.H                         	vmparam.h

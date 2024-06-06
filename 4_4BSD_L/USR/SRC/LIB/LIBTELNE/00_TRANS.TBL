@@ -1,0 +1,22 @@
+F AUTH.C                            	auth.c
+F AUTH.H                            	auth.h
+F AUTH_PRO.H                        	auth-proto.h
+F ENCRYPT.C                         	encrypt.c
+F ENCRYPT.H                         	encrypt.h
+F ENC_DES.C                         	enc_des.c
+F ENC_PROT.H                        	enc-proto.h
+F GENGET.C                          	genget.c
+F GETENT.C                          	getent.c
+F KERBERO0.C                        	kerberos.c
+F KERBERO1.C                        	kerberos5.c
+F KEY_PROT.H                        	key-proto.h
+F KRB4ENCP.C                        	krb4encpwd.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+F MISC.H                            	misc.h
+F MISC_PRO.H                        	misc-proto.h
+L OBJ                               	obj	/usr/obj/lib/libtelnet
+F READ_PAS.C                        	read_password.c
+F RSAENCPW.C                        	rsaencpwd.c
+F SPX.C                             	spx.c
+F TAGS                              	tags

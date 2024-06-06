@@ -1,0 +1,4 @@
+F CAT.C                             	cat.c
+F ERRFUNCT                          	errfunction
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sys/i386/floppy/cat

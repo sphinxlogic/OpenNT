@@ -1,0 +1,7 @@
+D CC                                	cc
+F CHECK                             	check
+F MAKEFILE                          	Makefile
+D MOD                               	mod
+F NOENV.C                           	noenv.c
+D PC                                	pc
+F RUNTEST                           	runtest

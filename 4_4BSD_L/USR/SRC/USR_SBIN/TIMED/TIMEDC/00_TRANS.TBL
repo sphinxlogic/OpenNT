@@ -1,0 +1,9 @@
+F CMDS.C                            	cmds.c
+F CMDTAB.C                          	cmdtab.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/timed/timedc
+F TAGS                              	tags
+F TIMEDC.8                          	timedc.8
+F TIMEDC.C                          	timedc.c
+F TIMEDC.H                          	timedc.h

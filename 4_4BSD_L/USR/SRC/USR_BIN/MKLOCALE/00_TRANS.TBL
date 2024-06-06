@@ -1,0 +1,9 @@
+F JAPANESE                          	Japanese
+F LDEF.H                            	ldef.h
+F LEX.L                             	lex.l
+F MAKEFILE                          	Makefile
+F MKLOCALE.1                        	mklocale.1
+L OBJ                               	obj	/usr/obj/usr.bin/mklocale
+F POSIX                             	POSIX
+F TAGS                              	tags
+F YACC.Y                            	yacc.y

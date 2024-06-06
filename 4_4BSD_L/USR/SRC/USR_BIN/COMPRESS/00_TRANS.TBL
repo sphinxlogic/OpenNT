@@ -1,0 +1,9 @@
+F COMPRESS.1                        	compress.1
+F COMPRESS.C                        	compress.c
+D DOC                               	doc
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/compress
+F TAGS                              	tags
+F ZCAT.SH                           	zcat.sh
+F ZOPEN.3                           	zopen.3
+F ZOPEN.C                           	zopen.c

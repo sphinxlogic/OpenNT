@@ -1,0 +1,8 @@
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/rcp
+F PATHNAME.H                        	pathnames.h
+F RCP.1                             	rcp.1
+F RCP.C                             	rcp.c
+F TAGS                              	tags
+F UTIL.C                            	util.c

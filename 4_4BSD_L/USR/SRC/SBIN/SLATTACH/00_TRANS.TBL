@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/slattach
+F SLATTACH.8                        	slattach.8
+F SLATTACH.C                        	slattach.c
+F TAGS                              	tags

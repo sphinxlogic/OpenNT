@@ -1,0 +1,6 @@
+F EGREP.C                           	egrep.c
+F GREP.1                            	grep.1
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/grep/egrep
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

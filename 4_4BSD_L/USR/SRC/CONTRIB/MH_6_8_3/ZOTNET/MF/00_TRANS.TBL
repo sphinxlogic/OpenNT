@@ -1,0 +1,11 @@
+F LLIB_LMF                          	llib-lmf
+F MAKEFILE                          	Makefile
+F MF.C                              	mf.c
+F MF.H                              	mf.h
+D MMDFI                             	mmdfI
+F MMUU.C                            	mmuu.c
+F MUINC.C                           	muinc.c
+F MUSIFT.C                          	musift.c
+F UMINC.C                           	uminc.c
+F UMSIFT.C                          	umsift.c
+F UUMM.C                            	uumm.c

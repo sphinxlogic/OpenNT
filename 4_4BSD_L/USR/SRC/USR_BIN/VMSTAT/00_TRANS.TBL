@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+F NAMES.C                           	names.c
+L OBJ                               	obj	/usr/obj/usr.bin/vmstat
+F TAGS                              	tags
+F VMSTAT.8                          	vmstat.8
+F VMSTAT.C                          	vmstat.c

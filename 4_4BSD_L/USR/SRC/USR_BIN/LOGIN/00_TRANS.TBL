@@ -1,0 +1,7 @@
+F KLOGIN.C                          	klogin.c
+F LOGIN.1                           	login.1
+F LOGIN.C                           	login.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/login
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

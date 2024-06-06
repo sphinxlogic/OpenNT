@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/rsh
+F PATHNAME.H                        	pathnames.h
+F RSH.1                             	rsh.1
+F RSH.C                             	rsh.c
+F TAGS                              	tags

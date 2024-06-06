@@ -1,0 +1,12 @@
+F COMPARE.C                         	compare.c
+F CREATE.C                          	create.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+F MTREE.8                           	mtree.8
+F MTREE.C                           	mtree.c
+F MTREE.H                           	mtree.h
+L OBJ                               	obj	/usr/obj/usr.sbin/mtree
+F SPEC.C                            	spec.c
+F TAGS                              	tags
+F VERIFY.C                          	verify.c

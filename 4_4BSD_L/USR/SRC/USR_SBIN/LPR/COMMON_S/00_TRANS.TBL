@@ -1,0 +1,8 @@
+F COMMON.C                          	common.c
+F DISPLAYQ.C                        	displayq.c
+F LP.H                              	lp.h
+F LP_LOCAL.H                        	lp.local.h
+F PATHNAME.H                        	pathnames.h
+F PRINTCAP.C                        	printcap.c
+F RMJOB.C                           	rmjob.c
+F STARTDAE.C                        	startdaemon.c

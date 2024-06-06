@@ -1,0 +1,8 @@
+F BSDCURSE.MUS                      	bsdcurses.mus
+F CURSES.MUS                        	curses.mus
+F MAKEFILE                          	Makefile
+F MAN2MUS                           	man2mus
+F MUS                               	mus
+F PAGER                             	pager
+F README                            	README
+F USERSUB.C                         	usersub.c

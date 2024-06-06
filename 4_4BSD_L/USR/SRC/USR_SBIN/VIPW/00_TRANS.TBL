@@ -1,0 +1,7 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/vipw
+F PW_UTIL.C                         	pw_util.c
+F PW_UTIL.H                         	pw_util.h
+F TAGS                              	tags
+F VIPW.8                            	vipw.8
+F VIPW.C                            	vipw.c

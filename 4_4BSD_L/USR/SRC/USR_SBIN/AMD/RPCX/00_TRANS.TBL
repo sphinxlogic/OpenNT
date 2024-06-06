@@ -1,0 +1,10 @@
+F AMQ.H                             	amq.h
+F AMQ.X                             	amq.x
+F AMQ_CLNT.C                        	amq_clnt.c
+F AMQ_SVC.C                         	amq_svc.c
+F AMQ_XDR.C                         	amq_xdr.c
+F MOUNT.H                           	mount.h
+F MOUNT_XD.C                        	mount_xdr.c
+F NFS_PRO0.C                        	nfs_prot_svc.c
+F NFS_PRO1.C                        	nfs_prot_xdr.c
+F NFS_PROT.H                        	nfs_prot.h

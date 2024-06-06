@@ -1,0 +1,10 @@
+F GETMNTOP.3                        	getmntopts.3
+F GETMNTOP.C                        	getmntopts.c
+F MAKEFILE                          	Makefile
+F MNTOPTS.H                         	mntopts.h
+F MOUNT.8                           	mount.8
+F MOUNT.C                           	mount.c
+F MOUNT_UF.C                        	mount_ufs.c
+L OBJ                               	obj	/usr/obj/sbin/mount
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

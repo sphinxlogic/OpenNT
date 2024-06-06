@@ -1,0 +1,8 @@
+F LOCATE.1                          	locate.1
+F LOCATE.C                          	locate.c
+F LOCATE.H                          	locate.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/locate/locate
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F UPDATEDB.CSH                      	updatedb.csh

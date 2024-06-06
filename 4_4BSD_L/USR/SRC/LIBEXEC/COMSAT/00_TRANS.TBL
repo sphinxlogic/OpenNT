@@ -1,0 +1,5 @@
+F COMSAT.8                          	comsat.8
+F COMSAT.C                          	comsat.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/comsat
+F TAGS                              	tags

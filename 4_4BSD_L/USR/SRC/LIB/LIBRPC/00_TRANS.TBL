@@ -1,0 +1,10 @@
+D DEMO                              	demo
+F DISCLAIM                          	DISCLAIMER
+D DOC                               	doc
+D ETC                               	etc
+F MAKEFILE                          	Makefile
+D MAN                               	man
+F README                            	README
+D RPC                               	rpc
+D RPCGEN                            	rpcgen
+D RPCSVC                            	rpcsvc

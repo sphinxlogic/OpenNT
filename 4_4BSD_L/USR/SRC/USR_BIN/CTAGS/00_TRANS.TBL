@@ -1,0 +1,13 @@
+F C.C                               	C.c
+F CTAGS.1                           	ctags.1
+F CTAGS.C                           	ctags.c
+F CTAGS.H                           	ctags.h
+F FORTRAN.C                         	fortran.c
+F LISP.C                            	lisp.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/ctags
+F PRINT.C                           	print.c
+F TAGS                              	tags
+D TEST                              	test
+F TREE.C                            	tree.c
+F YACC.C                            	yacc.c

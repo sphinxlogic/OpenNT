@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/strings
+F STRINGS.1                         	strings.1
+F STRINGS.C                         	strings.c
+F TAGS                              	tags

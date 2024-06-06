@@ -1,0 +1,8 @@
+F EXPORTS.5                         	exports.5
+F MAKEFILE                          	Makefile
+F MOUNTD.8                          	mountd.8
+F MOUNTD.C                          	mountd.c
+F NETGROUP.5                        	netgroup.5
+L OBJ                               	obj	/usr/obj/sbin/mountd
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

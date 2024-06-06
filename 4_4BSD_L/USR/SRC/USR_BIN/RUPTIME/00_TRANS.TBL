@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/ruptime
+F RUPTIME.1                         	ruptime.1
+F RUPTIME.C                         	ruptime.c
+F TAGS                              	tags

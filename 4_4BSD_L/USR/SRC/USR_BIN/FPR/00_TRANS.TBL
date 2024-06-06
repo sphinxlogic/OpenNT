@@ -1,0 +1,5 @@
+F FPR.1                             	fpr.1
+F FPR.C                             	fpr.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/fpr
+F TAGS                              	tags

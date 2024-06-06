@@ -1,0 +1,7 @@
+F CCITT_AD.C                        	ccitt_addr.c
+F KEYWORDS                          	keywords
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/route
+F ROUTE.8                           	route.8
+F ROUTE.C                           	route.c
+F TAGS                              	tags

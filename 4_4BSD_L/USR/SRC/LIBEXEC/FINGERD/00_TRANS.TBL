@@ -1,0 +1,6 @@
+F FINGERD.8                         	fingerd.8
+F FINGERD.C                         	fingerd.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/fingerd
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

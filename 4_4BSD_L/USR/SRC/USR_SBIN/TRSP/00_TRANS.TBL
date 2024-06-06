@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/trsp
+F TAGS                              	tags
+F TRSP.8                            	trsp.8
+F TRSP.C                            	trsp.c

@@ -1,0 +1,11 @@
+F CH06_CAN.PER                      	ch06.canon.perl
+F CH07_GET.SH                       	ch07.get_cache.sh
+F CH08_SUM.PER                      	ch08.sum_debug.perl
+F CH09_CHE.C                        	ch09.check_del.c
+F CH11_BIN.PER                      	ch11.bind_debug.perl
+F CH11_IP_.PER                      	ch11.ip_to_name.perl
+F CH13_CHE.C                        	ch13.check_soa.c
+F CH13_CHE.SH                       	ch13.check_soa.sh
+F H2N                               	h2n
+F H2N.MAN                           	h2n.man
+F README                            	README

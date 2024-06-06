@@ -1,0 +1,5 @@
+rc is a shell which features a C-like syntax (much more so than `csh')
+and far cleaner quoting rules than the C or Bourne shells.
+
+rc is available via anonymous FTP from ftp.white.toronto.edu
+in /pub/rc.

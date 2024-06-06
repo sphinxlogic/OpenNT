@@ -1,0 +1,7 @@
+F DATE.1                            	date.1
+F DATE.C                            	date.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+F NETDATE.C                         	netdate.c
+L OBJ                               	obj	/usr/obj/bin/date
+F TAGS                              	tags

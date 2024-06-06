@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/uucp/uupoll
+F TAGS                              	tags
+F UUPOLL.8                          	uupoll.8
+F UUPOLL.C                          	uupoll.c

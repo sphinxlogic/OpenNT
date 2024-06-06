@@ -1,0 +1,22 @@
+F DEBUG.H                           	debug.h
+F LLPARSE.C                         	llparse.c
+F LLPARSE.H                         	llparse.h
+F LLSCAN.C                          	llscan.c
+F MAIN.C                            	main.c
+F MAIN.H                            	main.h
+F MAKEFILE                          	Makefile
+F MALLOC.C                          	malloc.c
+F MALLOC.H                          	malloc.h
+L OBJ                               	obj	/usr/obj/sys/netiso/xebec
+F PROCS.C                           	procs.c
+F PROCS.H                           	procs.h
+F PUTDRIVE.C                        	putdriver.c
+F SETS.C                            	sets.c
+F SETS.H                            	sets.h
+D TEST                              	test
+F TEST.TRA                          	test.trans
+F TEST_DEF.H                        	test_def.h
+F TRACE                             	TRACE
+F XEBEC.BNF                         	xebec.bnf
+F XEBEC.C                           	xebec.c
+F XEBEC.H                           	xebec.h

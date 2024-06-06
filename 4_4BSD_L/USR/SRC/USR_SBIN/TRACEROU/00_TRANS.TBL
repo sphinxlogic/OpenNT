@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+F MEAN.AWK                          	mean.awk
+F MEDIAN.AWK                        	median.awk
+L OBJ                               	obj	/usr/obj/usr.sbin/traceroute
+F README                            	README
+F TAGS                              	tags
+F TRACEROU.8                        	traceroute.8
+F TRACEROU.C                        	traceroute.c

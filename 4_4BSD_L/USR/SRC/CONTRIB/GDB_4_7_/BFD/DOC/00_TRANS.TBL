@@ -1,0 +1,9 @@
+F BFD_TEXI                          	bfd.texinfo
+F CHANGELO                          	ChangeLog
+F CHEW.C                            	chew.c
+F CONFIG.STA                        	config.status
+F CONFIGUR.IN                       	configure.in
+F DOC.STR                           	doc.str
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F PROTO.STR                         	proto.str

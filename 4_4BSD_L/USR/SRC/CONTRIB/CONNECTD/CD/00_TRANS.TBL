@@ -1,0 +1,9 @@
+F CON.C                             	con.c
+F INIT.C                            	init.c
+F LINES                             	lines
+F LOG                               	log
+F MAIN.C                            	main.c
+F MAIN.H                            	main.h
+F MAKEFILE                          	Makefile
+F RCV.C                             	rcv.c
+F SND.C                             	snd.c

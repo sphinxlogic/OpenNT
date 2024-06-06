@@ -1,0 +1,4 @@
+F GMON.C                            	gmon.c
+F MAKEFILE.INC                      	Makefile.inc
+F MCOUNT.C                          	mcount.c
+F MONCONTR.3                        	moncontrol.3

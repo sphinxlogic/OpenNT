@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/strip
+F STRIP.1                           	strip.1
+F STRIP.C                           	strip.c
+F TAGS                              	tags

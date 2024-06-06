@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/lpr/pac
+F PAC.8                             	pac.8
+F PAC.C                             	pac.c
+F TAGS                              	tags

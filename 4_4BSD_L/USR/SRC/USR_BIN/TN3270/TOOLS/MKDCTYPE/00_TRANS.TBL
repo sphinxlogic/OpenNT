@@ -1,0 +1,6 @@
+F ECTYPE.C                          	ectype.c
+F ECTYPE.H                          	ectype.h
+F MAKEFILE                          	Makefile
+F MKDCTYPE.C                        	mkdctype.c
+L OBJ                               	obj	/usr/obj/usr.bin/tn3270/tools/mkdctype
+F TAGS                              	tags

@@ -1,0 +1,37 @@
+The following files have been removed or changed from the original
+4.4BSD-Lite distribution in order to comply with U.S. export restrictions
+on encryption code.  Yes, the current U.S. laws governing export of DES
+encription are shortsighted, ineffective and entirely ignorant of the
+current state of encription technology today, but there's not much we
+can do about it!  In any case, the changes were fortunately not extensive
+and can be easily reimplemented/replaced by any reasonably competent
+programmer.
+
+I've also striven in all cases to excise the encryption code and/or
+anything that depended on it as a unit so that the tree will still
+compile.  Configuration files that were broken completely or orphaned
+by excised encryption code were also removed to minimize confusion and
+avoid casting any doubt at all on the exportable nature of this CD.
+
+4.4BSD-Lite/usr/src/bin/rcp/				MODIFIED
+4.4BSD-Lite/usr/src/etc/kerberosIV/			REMOVED
+4.4BSD-Lite/usr/src/kerberosIV/				REMOVED
+4.4BSD-Lite/usr/src/lib/libc/gen/Makefile.inc		MODIFIED
+4.4BSD-Lite/usr/src/lib/libc/gen/crypt.[3c]		REMOVED
+4.4BSD-Lite/usr/src/lib/librpc/secure_rpc/		REMOVED
+4.4BSD-Lite/usr/src/lib/libtelnet			MODIFIED
+4.4BSD-Lite/usr/src/libexec/kpasswdd			REMOVED
+4.4BSD-Lite/usr/src/libexec/rlogind			MODIFIED
+4.4BSD-Lite/usr/src/libexec/rshd			MODIFIED
+4.4BSD-Lite/usr/src/libexec/telnetd			MODIFIED
+4.4BSD-Lite/usr/src/usr.bin/bdes/			REMOVED
+4.4BSD-Lite/usr/src/usr.bin/login/			MODIFIED
+4.4BSD-Lite/usr/src/usr.bin/rlogin/			MODIFIED
+4.4BSD-Lite/usr/src/usr.bin/rsh/			MODIFIED
+4.4BSD-Lite/usr/src/usr.bin/su/				MODIFIED
+4.4BSD-Lite/usr/src/usr.bin/telnet/			MODIFIED
+
+Please mail me if you've any questions..
+
+			Jordan Hubbard, Walnut Creek CDROM
+			jkh@cdrom.com

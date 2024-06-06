@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pagesize
+F PAGESIZE.1                        	pagesize.1
+F PAGESIZE.SH                       	pagesize.sh
+F TAGS                              	tags

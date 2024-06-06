@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/update
+F TAGS                              	tags
+F UPDATE.8                          	update.8
+F UPDATE.C                          	update.c

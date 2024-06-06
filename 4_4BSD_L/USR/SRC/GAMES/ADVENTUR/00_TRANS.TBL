@@ -1,0 +1,16 @@
+F ADVENTUR.6                        	adventure.6
+F CRC.C                             	crc.c
+F DONE.C                            	done.c
+F GLORKZ                            	glorkz
+F HDR.H                             	hdr.h
+F INIT.C                            	init.c
+F IO.C                              	io.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/adventure
+F SAVE.C                            	save.c
+F SETUP.C                           	setup.c
+F SUBR.C                            	subr.c
+F TAGS                              	tags
+F VOCAB.C                           	vocab.c
+F WIZARD.C                          	wizard.c

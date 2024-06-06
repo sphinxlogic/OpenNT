@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/printenv
+F PRINTENV.1                        	printenv.1
+F PRINTENV.C                        	printenv.c
+F TAGS                              	tags

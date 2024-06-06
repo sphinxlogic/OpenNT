@@ -1,0 +1,4 @@
+F NAMED_ST                          	named_stats
+F NINIT.C                           	ninit.c
+F NS_MAIN_.PAT                      	ns_main.c.patch
+F README                            	README

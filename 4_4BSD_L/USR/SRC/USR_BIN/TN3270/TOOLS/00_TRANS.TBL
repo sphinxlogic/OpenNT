@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+D MKASTODS                          	mkastods
+D MKASTOSC                          	mkastosc
+D MKDCTYPE                          	mkdctype
+D MKDSTOAS                          	mkdstoas
+D MKHITS                            	mkhits
+F MKMAKE.Y                          	mkmake.y
+F PRT3270.C                         	prt3270.c

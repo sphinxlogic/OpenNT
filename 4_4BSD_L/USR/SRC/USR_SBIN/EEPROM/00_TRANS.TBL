@@ -1,0 +1,6 @@
+F EEPROM.8                          	eeprom.8
+F EEPROM.C                          	eeprom.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/eeprom
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

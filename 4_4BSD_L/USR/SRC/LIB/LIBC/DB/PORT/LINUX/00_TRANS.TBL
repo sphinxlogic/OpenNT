@@ -1,0 +1,5 @@
+L CLIB                              	clib	../clib
+D INCLUDE                           	include
+F MAKEFILE                          	Makefile
+F OTHER_PA                          	OTHER_PATCHES
+L SYS                               	sys	include

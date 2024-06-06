@@ -1,0 +1,17 @@
+D ACCOUNT                           	account
+D AT                                	at
+D BACKUPS                           	backups
+D CRASH                             	crash
+D DB                                	db
+D EMACS                             	emacs
+D GAMES                             	games
+D LOG                               	log
+D MAIL                              	mail
+D MSGS                              	msgs
+D OBJ                               	obj
+D PRESERVE                          	preserve
+D QUOTAS                            	quotas
+D RUN                               	run
+D RWHO                              	rwho
+D SPOOL                             	spool
+D TMP                               	tmp

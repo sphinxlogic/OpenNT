@@ -1,0 +1,6 @@
+F EXEC.H                            	exec.h
+F README                            	README
+L TAGS                              	tags	/var/db/sys_tags
+F ULTRIX_0.C                        	ultrix_compat.c
+F ULTRIX_1.C                        	ultrix_syscalls.c
+F ULTRIX_2.C                        	ultrix_sysent.c

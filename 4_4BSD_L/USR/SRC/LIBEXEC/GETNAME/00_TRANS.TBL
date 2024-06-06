@@ -1,0 +1,4 @@
+F GETNAME.C                         	getNAME.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/getNAME
+F TAGS                              	tags

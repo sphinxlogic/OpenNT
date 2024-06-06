@@ -1,0 +1,6 @@
+F BUILDMIN                          	buildmini
+F GET                               	get
+F MAKETAPE                          	maketape
+F README                            	README
+F README_T                          	README_TOO
+L TAGS                              	tags	/var/db/sys_tags

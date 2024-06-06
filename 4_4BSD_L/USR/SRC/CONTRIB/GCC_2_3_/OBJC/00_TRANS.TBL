@@ -1,0 +1,12 @@
+F CORE.C                            	core.c
+F HASH.C                            	hash.c
+F HASH.H                            	hash.h
+F MAKEFILE                          	Makefile
+F MUTEX.H                           	mutex.h
+F OBJC.H                            	objc.h
+F OBJC_PRO.H                        	objc-proto.h
+F OBJECT.M                          	object.m
+F OBJECT0.H                         	Object.h
+F OBJECT1.H                         	object.h
+F RECORD.H                          	record.h
+F TODO                              	todo

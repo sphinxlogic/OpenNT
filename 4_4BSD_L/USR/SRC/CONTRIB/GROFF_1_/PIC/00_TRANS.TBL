@@ -1,0 +1,22 @@
+F COMMON.CC                         	common.cc
+F COMMON.H                          	common.h
+F DEPEND                            	depend
+F LEX.CC                            	lex.cc
+F MAIN.CC                           	main.cc
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+F MAKE_DOS                          	make-dos-dist
+F OBJECT.CC                         	object.cc
+F OBJECT.H                          	object.h
+F OUTPUT.H                          	output.h
+L PIC.1                             	pic.1	pic.man
+F PIC.CC                            	pic.cc
+F PIC.H                             	pic.h
+F PIC.MAN                           	pic.man
+F PIC.Y                             	pic.y
+F PIC_TAB.H                         	pic.tab.h
+F POSITION.H                        	position.h
+F TEX.CC                            	tex.cc
+F TEXT.H                            	text.h
+F TODO                              	TODO
+F TROFF.CC                          	troff.cc

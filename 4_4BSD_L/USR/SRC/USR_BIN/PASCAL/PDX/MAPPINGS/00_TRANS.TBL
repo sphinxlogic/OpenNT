@@ -1,0 +1,6 @@
+F FILETAB.H                         	filetab.h
+F FUNCTAB.C                         	functab.c
+F LINETAB.H                         	linetab.h
+F OBJADDR.C                         	objaddr.c
+F SRCFILE.C                         	srcfile.c
+F SRCLINE.C                         	srcline.c

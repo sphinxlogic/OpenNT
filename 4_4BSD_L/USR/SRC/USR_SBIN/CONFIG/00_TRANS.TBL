@@ -1,0 +1,15 @@
+F CONFIG.8                          	config.8
+F CONFIG.H                          	config.h
+F CONFIG.Y                          	config.y
+F LANG.L                            	lang.l
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MKGLUE.C                          	mkglue.c
+F MKHEADER.C                        	mkheaders.c
+F MKIOCONF.C                        	mkioconf.c
+F MKMAKEFI.C                        	mkmakefile.c
+F MKSWAPCO.C                        	mkswapconf.c
+F MKUBGLUE.C                        	mkubglue.c
+L OBJ                               	obj	/usr/obj/usr.sbin/config
+D SMM_DOC                           	SMM.doc
+F TAGS                              	tags

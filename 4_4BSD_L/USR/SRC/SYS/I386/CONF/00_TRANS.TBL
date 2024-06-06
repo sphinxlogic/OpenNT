@@ -1,0 +1,5 @@
+F DEVICES.I38                       	devices.i386
+F FILES.I38                         	files.i386
+F GENERIC.I38                       	GENERIC.i386
+F MAKEFILE.I38                      	Makefile.i386
+L TAGS                              	tags	/var/db/sys_tags

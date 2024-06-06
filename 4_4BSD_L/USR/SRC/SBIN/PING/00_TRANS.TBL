@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/ping
+F PING.8                            	ping.8
+F PING.C                            	ping.c
+F TAGS                              	tags

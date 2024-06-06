@@ -1,0 +1,4 @@
+F BZERO.S                           	bzero.s
+F FFS.S                             	ffs.s
+F MAKEFILE.INC                      	Makefile.inc
+F STRLEN.S                          	strlen.s

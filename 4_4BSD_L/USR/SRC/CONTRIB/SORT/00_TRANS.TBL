@@ -1,0 +1,16 @@
+F APPEND.C                          	append.c
+F EXTERN.H                          	extern.h
+F FIELDS.C                          	fields.c
+F FILES.C                           	files.c
+F FSORT.C                           	fsort.c
+F FSORT.H                           	fsort.h
+F INIT.C                            	init.c
+F MAKEFILE                          	Makefile
+F MSORT.C                           	msort.c
+F PATHNAME.H                        	pathnames.h
+F SORT.1                            	sort.1
+F SORT.C                            	sort.c
+F SORT.H                            	sort.h
+F TAGS                              	tags
+D TEST                              	TEST
+F TMP.C                             	tmp.c

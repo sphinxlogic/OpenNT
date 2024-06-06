@@ -1,0 +1,13 @@
+F CFG_PAPE.TEX                      	cfg-paper.texi
+F CHANGELO                          	ChangeLog
+F CONFIG.STA                        	config.status
+F CONFIGUR.IN                       	configure.in
+F CONFIGUR.MAN                      	configure.man
+F CONFIGUR.TEX                      	configure.texi
+F INSTALL_.IN                       	install-texi.in
+F INTRO.TEX                         	intro.texi
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F RELNOTES.TEX                      	relnotes.texi
+F STANDARD.TEX                      	standards.texi
+F SUBSTITU                          	substitute-strings

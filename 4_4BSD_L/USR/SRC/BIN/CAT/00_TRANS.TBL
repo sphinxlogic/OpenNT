@@ -1,0 +1,5 @@
+F CAT.1                             	cat.1
+F CAT.C                             	cat.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/cat
+F TAGS                              	tags

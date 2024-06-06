@@ -1,0 +1,4 @@
+F KERNFS.H                          	kernfs.h
+F KERNFS_0.C                        	kernfs_vfsops.c
+F KERNFS_1.C                        	kernfs_vnops.c
+L TAGS                              	tags	/var/db/sys_tags

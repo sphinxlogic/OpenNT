@@ -1,0 +1,12 @@
+D BASE                              	base
+L C                                 	c	TEST
+D CMD                               	cmd
+D COMP                              	comp
+D IO                                	io
+D LIB                               	lib
+D OP                                	op
+F OP_DBMX.DB                        	Op.dbmx.db
+L PERL                              	perl	../perl
+F README                            	README
+F TEST                              	TEST
+D TMP                               	tmp

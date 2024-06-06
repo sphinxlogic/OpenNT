@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/xargs
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F XARGS.1                           	xargs.1
+F XARGS.C                           	xargs.c

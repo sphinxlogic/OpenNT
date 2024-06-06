@@ -1,0 +1,22 @@
+GAMMA: A Magnetic Resonance Simulation Library in C++
+
+Tilo Levante, Scott Smith, Beat H. Meier, R.R. Ernst
+Laboratorium fuer Physikalische Chemie, Eidgenoessische Technische Hochschule,
+8092 Zuerich, Switzerland
+
+An object oriented package for magnetic resonance simulation by
+numerical density matrix calculation is presented. The definition of
+complex data types like matrices, operators or spin systems and
+appropriate mathematical operations on them allows the user to write
+the code for his particular simulation program in a very natural way,
+closely related to the abstract formalism used for the theoretical
+description. The simulation environment is fully user expandable.
+
+The library is currently available under the GPL license on hertz.ethz.ch.
+
+Questions to:
+ Tilo Levante                            Domain: tilo@nmr.lpc.ethz.ch
+ Institut fuer physikalische Chemie
+ Eidgenoessische Technische Hochschule
+ ETH-Zentrum                             Phone:  +41/1/632-4367
+ CH-8092 Zuerich                         Fax:    +41/1/632-1021

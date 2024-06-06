@@ -1,0 +1,22 @@
+F 00_CONTE                          	00.contents
+D 01_SETUP                          	01.setup
+L 02_CONFI                          	02.config	../../../usr.sbin/config/SMM.doc
+L 03_FSCK                           	03.fsck	../../../sbin/fsck/SMM.doc
+D 04_QUOTA                          	04.quotas
+D 05_FASTF                          	05.fastfs
+D 06_NFS                            	06.nfs
+L 07.LPD                            	07.lpd	../../../usr.sbin/lpr/SMM.doc
+L 08_SENDM                          	08.sendmailop	../../../usr.sbin/sendmail/doc/op
+L 09_SENDM                          	09.sendmail	../../../usr.sbin/sendmail/doc/intro
+L 10_NAMED                          	10.named	../../../contrib/bind-4.9.2/doc/bog
+L 11_TIMED                          	11.timedop	../../../usr.sbin/timed/SMM.doc/timedop
+L 12_TIMED                          	12.timed	../../../usr.sbin/timed/SMM.doc/timed
+L 13.AMD                            	13.amd	../../../usr.sbin/amd/doc
+L 14_UUCPI                          	14.uucpimpl	../../../usr.bin/uucp/SMM.doc/uucpimpl
+L 15_UUCPN                          	15.uucpnet	../../../usr.bin/uucp/SMM.doc/uucpnet
+D 16_SECUR                          	16.security
+D 17_PASSW                          	17.password
+D 18_NET                            	18.net
+L 19_PERL                           	19.perl	../../../contrib/perl-4.036/doc
+F MAKEFILE                          	Makefile
+F TITLE                             	Title

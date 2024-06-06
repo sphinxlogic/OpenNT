@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/whois
+F TAGS                              	tags
+F WHOIS.1                           	whois.1
+F WHOIS.C                           	whois.c

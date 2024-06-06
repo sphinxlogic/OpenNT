@@ -1,0 +1,6 @@
+F ADD.C                             	add.c
+F MAKECRC.C                         	makecrc.c
+F SUB.C                             	sub.c
+F ZFILE                             	zfile
+F ZREAD.C                           	zread.c
+F ZTOUCH                            	ztouch

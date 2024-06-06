@@ -1,0 +1,18 @@
+D CONF                              	conf
+F FSINFO.8                          	fsinfo.8
+F FSINFO.C                          	fsinfo.c
+F FSINFO.H                          	fsinfo.h
+F FSI_ANAL.C                        	fsi_analyze.c
+F FSI_DATA.H                        	fsi_data.h
+F FSI_DICT.C                        	fsi_dict.c
+F FSI_GRAM.Y                        	fsi_gram.y
+F FSI_LEX.L                         	fsi_lex.l
+F FSI_UTIL.C                        	fsi_util.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/amd/fsinfo
+F TAGS                              	tags
+F WR_ATAB.C                         	wr_atab.c
+F WR_BPARA.C                        	wr_bparam.c
+F WR_DUMPS.C                        	wr_dumpset.c
+F WR_EXPOR.C                        	wr_exportfs.c
+F WR_FSTAB.C                        	wr_fstab.c

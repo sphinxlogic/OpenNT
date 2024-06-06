@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+F MORSE.C                           	morse.c
+L OBJ                               	obj	/usr/obj/games/morse
+F TAGS                              	tags

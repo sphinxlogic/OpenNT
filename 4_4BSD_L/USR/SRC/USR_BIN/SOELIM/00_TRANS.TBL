@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/soelim
+F SOELIM.1                          	soelim.1
+F SOELIM.C                          	soelim.c
+F TAGS                              	tags

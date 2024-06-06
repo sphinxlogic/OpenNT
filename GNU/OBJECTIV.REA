@@ -1,0 +1,3 @@
+Objective C is not in a separate distribution, but rather is an integral
+part of GCC.  You should get the gcc-2.n.tar.gz sources (where n is the
+highest numbered archive) in this directory.

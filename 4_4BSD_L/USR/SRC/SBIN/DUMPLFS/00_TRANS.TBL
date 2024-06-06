@@ -1,0 +1,7 @@
+F DUMPLFS.8                         	dumplfs.8
+F DUMPLFS.C                         	dumplfs.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+L OBJ                               	obj	/usr/obj/sbin/dumplfs
+F TAGS                              	tags

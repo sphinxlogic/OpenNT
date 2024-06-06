@@ -1,0 +1,6 @@
+F CANFIELD.6                        	canfield.6
+F CANFIELD.C                        	canfield.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/canfield/canfield
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

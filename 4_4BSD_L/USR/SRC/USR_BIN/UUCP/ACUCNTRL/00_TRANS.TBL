@@ -1,0 +1,5 @@
+F ACUCNTRL.8                        	acucntrl.8
+F ACUCNTRL.C                        	acucntrl.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/uucp/acucntrl
+F TAGS                              	tags

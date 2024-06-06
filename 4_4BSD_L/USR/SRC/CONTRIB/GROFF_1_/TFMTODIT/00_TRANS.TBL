@@ -1,0 +1,5 @@
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+L TFMTODIT.1                        	tfmtodit.1	tfmtodit.man
+F TFMTODIT.CC                       	tfmtodit.cc
+F TFMTODIT.MAN                      	tfmtodit.man

@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/pwd
+F PWD.1                             	pwd.1
+F PWD.C                             	pwd.c
+F TAGS                              	tags

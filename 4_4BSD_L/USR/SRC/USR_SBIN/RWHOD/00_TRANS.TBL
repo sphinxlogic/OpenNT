@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/rwhod
+F RWHOD.8                           	rwhod.8
+F RWHOD.C                           	rwhod.c
+F TAGS                              	tags

@@ -1,0 +1,5 @@
+F HTONL.S                           	htonl.s
+F HTONS.S                           	htons.s
+F MAKEFILE.INC                      	Makefile.inc
+F NTOHL.S                           	ntohl.s
+F NTOHS.S                           	ntohs.s

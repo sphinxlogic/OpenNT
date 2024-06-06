@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/pascal/pc
+F PATHNAME.H                        	pathnames.h
+F PC.1                              	pc.1
+F PC.C                              	pc.c
+F TAGS                              	tags

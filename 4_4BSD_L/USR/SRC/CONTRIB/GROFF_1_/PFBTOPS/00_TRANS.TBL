@@ -1,0 +1,5 @@
+F MAKEFILE.DEP                      	Makefile.dep
+F MAKEFILE.SUB                      	Makefile.sub
+L PFBTOPS.1                         	pfbtops.1	pfbtops.man
+F PFBTOPS.C                         	pfbtops.c
+F PFBTOPS.MAN                       	pfbtops.man

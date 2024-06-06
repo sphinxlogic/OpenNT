@@ -1,0 +1,14 @@
+F HPUX.H                            	hpux.h
+F HPUX_COM.C                        	hpux_compat.c
+F HPUX_EXE.H                        	hpux_exec.h
+F HPUX_NET.C                        	hpux_net.c
+F HPUX_SIG.C                        	hpux_sig.c
+F HPUX_SY0.C                        	hpux_syscalls.c
+F HPUX_SY1.C                        	hpux_sysent.c
+F HPUX_SYS.H                        	hpux_syscall.h
+F HPUX_TER.H                        	hpux_termio.h
+F HPUX_TTY.C                        	hpux_tty.c
+F MAKEFILE                          	Makefile
+F MAKESYSC.SH                       	makesyscalls.sh
+F SYSCALLS.MAS                      	syscalls.master
+L TAGS                              	tags	/var/db/sys_tags

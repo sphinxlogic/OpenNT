@@ -1,0 +1,5 @@
+The Net2 release is the set of freely-redistributable code from CSRG at the
+University of California at Berkeley (i.e. is is essentially BSD unix, but
+missing some proprietary USL code that hasn't been reimplemented).
+
+FTPable sources are available from ftp.uu.net in /systems/unix/bsd-sources.

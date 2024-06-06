@@ -1,0 +1,26 @@
+F AUTOCONF.C                        	autoconf.c
+F CLOCK.C                           	clock.c
+F CLOCKREG.H                        	clockreg.h
+F CONF.C                            	conf.c
+F CONS.C                            	cons.c
+F CONS.H                            	cons.h
+L DKBAD.C                           	dkbad.c	../../hp300/hp300/dkbad.c
+F GENASSYM.C                        	genassym.c
+L HPUX_FLO.O                        	hpux_float.o	../../hp300/hp300/hpux_float.o
+L IN_CKSUM.C                        	in_cksum.c	../../hp300/hp300/in_cksum.c
+L KGDB_GLU.C                        	kgdb_glue.c	../../hp300/hp300/kgdb_glue.c
+L KGDB_PRO.H                        	kgdb_proto.h	../../hp300/hp300/kgdb_proto.h
+F KGDB_STU.C                        	kgdb_stub.c
+F LOCORE.S                          	locore.s
+F MACHDEP.C                         	machdep.c
+F MEM.C                             	mem.c
+L OC_CKSUM.S                        	oc_cksum.s	../../hp300/hp300/oc_cksum.s
+F PMAP.C                            	pmap.c
+F PMAP_BOO.C                        	pmap_bootstrap.c
+F PTE.H                             	pte.h
+F SWAPGENE.C                        	swapgeneric.c
+F SYS_MACH.C                        	sys_machdep.c
+L TAGS                              	tags	/var/db/sys_tags
+F TRAP.C                            	trap.c
+F VECTORS.S                         	vectors.s
+F VM_MACHD.C                        	vm_machdep.c

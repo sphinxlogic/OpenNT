@@ -1,0 +1,5 @@
+F COMPACT.1                         	compact.1
+F COMPACT.C                         	compact.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/old/compact/compact
+F TAGS                              	tags

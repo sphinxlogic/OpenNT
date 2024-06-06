@@ -1,0 +1,22 @@
+F ATC.6                             	atc.6
+F BUGS                              	BUGS
+F DEF.H                             	def.h
+F EXTERN.C                          	extern.c
+F EXTERN.H                          	extern.h
+D GAMES                             	games
+F GRAMMAR.Y                         	grammar.y
+F GRAPHICS.C                        	graphics.c
+F INCLUDE.H                         	include.h
+F INPUT.C                           	input.c
+F LEX.L                             	lex.l
+F LIST.C                            	list.c
+F LOG.C                             	log.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/atc
+F PATHNAME.H                        	pathnames.h
+F STRUCT.H                          	struct.h
+F TAGS                              	tags
+F TUNABLE.C                         	tunable.c
+F TUNABLE.H                         	tunable.h
+F UPDATE.C                          	update.c

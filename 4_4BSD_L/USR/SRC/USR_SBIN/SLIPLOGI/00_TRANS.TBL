@@ -1,0 +1,8 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/sliplogin
+F PATHNAME.H                        	pathnames.h
+F SLIP.HOS                          	slip.hosts
+F SLIP.LOG                          	slip.login
+F SLIPLOGI.8                        	sliplogin.8
+F SLIPLOGI.C                        	sliplogin.c
+F TAGS                              	tags

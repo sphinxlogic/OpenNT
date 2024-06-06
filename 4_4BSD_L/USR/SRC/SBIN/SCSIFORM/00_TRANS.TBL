@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/scsiformat
+F SCSIFORM.8                        	scsiformat.8
+F SCSIFORM.C                        	scsiformat.c
+F TAGS                              	tags

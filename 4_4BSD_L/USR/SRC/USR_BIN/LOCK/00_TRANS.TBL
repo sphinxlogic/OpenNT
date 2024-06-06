@@ -1,0 +1,5 @@
+F LOCK.1                            	lock.1
+F LOCK.C                            	lock.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/lock
+F TAGS                              	tags

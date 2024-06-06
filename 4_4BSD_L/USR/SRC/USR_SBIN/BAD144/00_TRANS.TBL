@@ -1,0 +1,5 @@
+F BAD144.8                          	bad144.8
+F BAD144.C                          	bad144.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/bad144
+F TAGS                              	tags

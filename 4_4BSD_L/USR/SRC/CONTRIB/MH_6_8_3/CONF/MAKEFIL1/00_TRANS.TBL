@@ -1,0 +1,14 @@
+F CONFIG                            	config
+F DIST                              	dist
+F DOC                               	doc
+F MH_MAKEF                          	MH-Makefile
+F MH_UNCON                          	MH-Unconfig
+D MTS                               	mts
+F MTSM                              	mtsM
+F PAPERS                            	papers
+F SBR                               	sbr
+D SUPPORT                           	support
+F SUPPORTM                          	supportM
+F UIP                               	uip
+D ZOTNET                            	zotnet
+F ZOTNETM                           	zotnetM

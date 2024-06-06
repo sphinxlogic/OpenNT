@@ -1,0 +1,11 @@
+F BOOT.PRM                          	boot.prm
+F BOOT.SEC                          	boot.sec
+F BOOT.SLV                          	boot.slv
+F CACHE                             	cache
+F HOSTS.CNA                         	hosts.cname
+F HOSTS.MAI                         	hosts.main
+F HOSTS.MX                          	hosts.mx
+F HOSTS.NS                          	hosts.ns
+F HOSTS.SOA                         	hosts.soa
+F HOSTS.WKS                         	hosts.wks
+F SERIAL                            	serial

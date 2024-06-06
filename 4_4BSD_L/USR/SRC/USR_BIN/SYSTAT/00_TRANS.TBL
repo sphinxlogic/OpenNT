@@ -1,0 +1,19 @@
+F CMDS.C                            	cmds.c
+F CMDTAB.C                          	cmdtab.c
+F DISKS.C                           	disks.c
+F EXTERN.H                          	extern.h
+F FETCH.C                           	fetch.c
+F IOSTAT.C                          	iostat.c
+F KEYBOARD.C                        	keyboard.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MBUFS.C                           	mbufs.c
+F NETCMDS.C                         	netcmds.c
+F NETSTAT.C                         	netstat.c
+L OBJ                               	obj	/usr/obj/usr.bin/systat
+F PIGS.C                            	pigs.c
+F SWAP.C                            	swap.c
+F SYSTAT.1                          	systat.1
+F SYSTAT.H                          	systat.h
+F TAGS                              	tags
+F VMSTAT.C                          	vmstat.c

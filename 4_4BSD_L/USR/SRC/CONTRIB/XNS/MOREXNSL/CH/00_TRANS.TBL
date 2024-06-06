@@ -1,0 +1,12 @@
+F ADDRESSE.STE                      	addresses.stencil
+F CH.H                              	CH.h
+F CHDEFAUL.C                        	CHdefault.c
+F CHENUMAL.C                        	CHenumalias.c
+F CHENUMER.C                        	CHenumerate.c
+F CHLOOKUP.C                        	CHlookup.c
+F CHRETRIE.C                        	CHretrieve.c
+F CHSTRTON.C                        	CHstrtoname.c
+F CHUSERNA.C                        	CHusername.c
+F CH_STENC                          	CH.stencil
+F MAKEFILE                          	Makefile
+D PROFILED                          	profiled

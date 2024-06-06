@@ -1,0 +1,14 @@
+D CALENDAR                          	calendar
+D DICT                              	dict
+D DOC                               	doc
+D GAMES                             	games
+D GROFF_FO                          	groff_font
+D LOCALE                            	locale
+D MAN                               	man
+D ME                                	me
+D MISC                              	misc
+D MK                                	mk
+D SKEL                              	skel
+D TABSET                            	tabset
+D TMAC                              	tmac
+D ZONEINFO                          	zoneinfo

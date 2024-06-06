@@ -1,0 +1,6 @@
+D BIN                               	bin
+D LANG                              	lang
+D LIB                               	lib
+D MAN                               	man
+F README                            	README
+D USR_LIB                           	usr.lib

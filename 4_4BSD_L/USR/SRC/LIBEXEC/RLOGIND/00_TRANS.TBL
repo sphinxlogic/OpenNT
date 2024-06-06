@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/rlogind
+F PATHNAME.H                        	pathnames.h
+F RLOGIND.8                         	rlogind.8
+F RLOGIND.C                         	rlogind.c
+F TAGS                              	tags

@@ -1,0 +1,5 @@
+F BINDRESV.3N                       	bindresvport.3n
+F GETRPCEN.3N                       	getrpcent.3n
+F GETRPCPO.3R                       	getrpcport.3r
+F RPC.3N                            	rpc.3n
+F XDR.3N                            	xdr.3n

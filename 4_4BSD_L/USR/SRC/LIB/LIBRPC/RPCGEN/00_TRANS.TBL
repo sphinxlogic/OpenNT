@@ -1,0 +1,12 @@
+F MAKEFILE                          	Makefile
+F RPC_CLNT.C                        	rpc_clntout.c
+F RPC_COUT.C                        	rpc_cout.c
+F RPC_HOUT.C                        	rpc_hout.c
+F RPC_MAIN.C                        	rpc_main.c
+F RPC_PARS.C                        	rpc_parse.c
+F RPC_PARS.H                        	rpc_parse.h
+F RPC_SCAN.C                        	rpc_scan.c
+F RPC_SCAN.H                        	rpc_scan.h
+F RPC_SVCO.C                        	rpc_svcout.c
+F RPC_UTIL.C                        	rpc_util.c
+F RPC_UTIL.H                        	rpc_util.h

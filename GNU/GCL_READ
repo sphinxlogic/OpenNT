@@ -1,0 +1,28 @@
+GNU Common Lisp         (EmcsT, SrcCD)
+
+GNU Common Lisp (GCL) has a compiler and interpreter for Common Lisp.
+It is very portable and extremely efficient on a wide class of
+applications.  It compares favorably in performance with commercial Lisps
+on several large theorem prover and symbolic algebra systems.  It
+supports the CLtL1 specification but is moving towards the proposed ANSI
+definition.  It is based on AKCL and KCL.  KCL was written by Taiichi
+Yuasa and Masami Hagiya in 1984, and AKCL has been developed by William
+Schelter since 1987.
+
+GCL compiles to C and then uses the native optimizing C compilers (e.g.
+GCC).  A function with a fixed number of args and one value turns into a
+C function of the same number of args and returning 1 value, so it cannot
+really be any more efficient on such calls.  It has a conservative GC
+which allows great freedom for the C compiler to put Lisp values in
+arbitrary registers.  It has a source level Lisp debugger for
+interpreted code, with display of source code in the other Emacs window.
+It has profiling tools based on the C profiling tools, which count
+function calls and percentage of time.  CLX works with GCL.  There is an
+Xlib interface via C.  PCL worked with earlier versions.  *Note
+Forthcoming GNUs::, for plans for about GCL.
+
+GCL version 1.0 is being released under the GNU Library General Public
+License.  (FTP `/pub/gnu/gcl.README' on `prep.ai.mit.edu'.)  Get
+source from `ftp.cli.com' or order the Emacs Tape or Source CD-ROM
+from the FSF (see file `/pub/gnu/GNUinfo/ORDERS' for ordering
+details).  For details ask `schelter@math.utexas.edu'

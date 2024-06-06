@@ -1,0 +1,20 @@
+F KVM.3                             	kvm.3
+F KVM.C                             	kvm.c
+F KVM_FILE.C                        	kvm_file.c
+F KVM_GETE.3                        	kvm_geterr.3
+F KVM_GETF.3                        	kvm_getfiles.3
+F KVM_GETL.3                        	kvm_getloadavg.3
+F KVM_GETL.C                        	kvm_getloadavg.c
+F KVM_GETP.3                        	kvm_getprocs.3
+F KVM_HP30.C                        	kvm_hp300.c
+L KVM_LUNA.C                        	kvm_luna68k.c	kvm_hp300.c
+F KVM_MIPS.C                        	kvm_mips.c
+F KVM_NLIS.3                        	kvm_nlist.3
+F KVM_OPEN.3                        	kvm_open.3
+F KVM_PRIV.H                        	kvm_private.h
+F KVM_PROC.C                        	kvm_proc.c
+F KVM_READ.3                        	kvm_read.3
+F KVM_SPAR.C                        	kvm_sparc.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/lib/libkvm
+F TAGS                              	tags

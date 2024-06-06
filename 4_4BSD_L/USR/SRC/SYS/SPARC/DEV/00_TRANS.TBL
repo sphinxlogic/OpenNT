@@ -1,0 +1,16 @@
+F BSD_AUD0.H                        	bsd_audioreg.h
+F BSD_AUD1.H                        	bsd_audiovar.h
+F BSD_AUDI.C                        	bsd_audio.c
+F CONS.C                            	cons.c
+F EVENT.C                           	event.c
+F EVENT_VA.H                        	event_var.h
+F FB.C                              	fb.c
+F KBD.C                             	kbd.c
+F KBD.H                             	kbd.h
+F KBIO.H                            	kbio.h
+F MS.C                              	ms.c
+L TAGS                              	tags	/var/db/sys_tags
+F VUID_EVE.H                        	vuid_event.h
+F ZS.C                              	zs.c
+F ZSREG.H                           	zsreg.h
+F ZSVAR.H                           	zsvar.h

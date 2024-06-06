@@ -1,0 +1,11 @@
+F ASCII.7                           	ascii.7
+F ENVIRON.7                         	environ.7
+F HIER.7                            	hier.7
+F HOSTNAME.7                        	hostname.7
+F INTRO.7                           	intro.7
+F MAILADDR.7                        	mailaddr.7
+F MAKEFILE                          	Makefile
+F MDOC.7                            	mdoc.7
+F MDOC_SAM.7                        	mdoc.samples.7
+L OBJ                               	obj	/usr/obj/share/man/man7
+F OPERATOR.7                        	operator.7

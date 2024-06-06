@@ -1,0 +1,6 @@
+F CPLUS_DE.C                        	cplus-dem.c
+F LD.C                              	ld.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/ld
+F SYMSEG.H                          	symseg.h
+F TAGS                              	tags

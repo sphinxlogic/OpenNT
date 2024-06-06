@@ -1,0 +1,92 @@
+This file lists freely redistributable information that isn't
+software.  Here are a few groups providing various books, historical
+documents, and more.  Please let:
+
+	gnu@prep.ai.mit.edu
+
+or	The GNU Project
+	Free Software Foundation
+	675 Massachusetts Avenue
+	Cambridge, MA  02139-3309
+
+know of additional entries or corrections. You can FTP a more complete
+list in file `/pub/gnu/FreelyAvailableTexts' from `prep.ai.mit.edu'.
+
+   * FreeLore
+
+     A goal of the FreeLore Project is to do "serious" book-length writing,
+     and give it away for free.  John Goodwin is now concentrating on writing
+     freelore and to show what it is by example (not unlike the FSF).  You can
+     FTP his results from `world.std.com' in `/obi/Networking/John.Goodwin'.
+     To volunteer, contact `jgoodwin@delphi.fnal.gov'.
+
+   * The Online Book Initiative (OBI)
+
+     OBI focuses on freely redistributable books, reference material,
+     conference proceedings, catalogues, etc.  OBI has about 400MB of (mostly
+     compressed) text online, ranging from poetry to standards documents to
+     novels.  You may anonymous FTP texts from `obi.std.com' in `/obi'.  You
+     can also dial `world.std.com' with a modem (617-739-9753, 8N1) and
+     create an account to access this information (login as `new').  Accounts
+     on `world' are charged for their connect time (ask `info@world.std.com'
+     for details).
+
+   * Project Gutenberg
+
+     Project Gutenberg is the brainchild of Michael Hart.  Professor Hart's
+     hope for success derives from the nature of what he calls `Replicator
+     Technology'.  Once anything is stored in a computer, it can be reproduced
+     indefinitely, making it available to all who want it.  Texts from
+     Project Gutenberg are available at a number of FTP sites, including
+     `mrcnext.cso.uiuc.edu' in file `/etext' and `oes.orst.edu' in file
+     `/pub/almanac/etext'.  To find out how to obtain text via e-mail, send
+     the word `HELP' in the body of a message to
+     `BITFTP%PUCC.BITNET@mitvma.mit.edu'.  Or look at
+     `bit.listserv.gutnberg', a USENET newsgroup.  For more information,
+     write to `dircompg@ux1.cso.uiuc.edu'.
+
+   * Project Runeberg
+
+     Project Runeberg publishes works of literature and art that are
+     machine-readable, such as electronic texts and images; in a Scandinavian
+     language, including Swedish, Danish, Norwegian, Icelandic and Faroese,
+     or created by an artist from a Nordic country; and free for duplication
+     and distribution by anyone and for any purpose.
+
+     Project Runeberg was founded in March 1993, inspired by Project
+     Gutenberg.  Coordinated by Lars Aronsson, Project Runeberg is an
+     activity of Lysator, a student computer club at Linkoping University in
+     Linkoping, Sweden.
+
+     FTP from host `ftp.lysator.liu.se' in `/pub/runeberg/README'.  Gopher
+     access via type 1 host `gopher.lysator.liu.se' path `/project-runeberg'.
+     `http://www.lysator.liu.se:7500/runeberg/Main.html' is the URL on the
+     World Wide Web.  For more infomation or to join the mailing list, ask
+     `runeberg-list-request@lysator.liu.se'.  Snailmail to: Lysator,
+     Universitetet, S-581 83 Linkoping, Sweden.
+
+   * Literary Works Available on the WWW
+
+     The locations below are URLs (Universal Resource Locators) on the
+     Internet's World Wide Web (WWW).  This list was compiled by Michael
+     Larsen.
+
+     CopticNet has Coptic scriptural materials at `ftp://pharos.bu.edu/CN'.
+     The Quartz archive has a few texts not available at other locations at
+     `ftp://quartz.rutgers.edu/pub/etext/misc'.  The Libellus Project has
+     Latin texts are at `ftp://ftp.u.washington.edu/public/libellus/texts'.
+     The Oxford Text Archive has a large collection at
+     `ftp://ota.ox.ac.uk/ota'.  The English Server at CMU has quite a few
+     poems which are located at the URL
+     `http://english-server.hss.cmu.edu/Poetry.html'.  The Sardinia
+     Research Center has a few Italian classics, including La Divina Commedia
+     at `http://www.crs4.it/HTML/homecrs4.html'.  The Quartz text archive has
+     a few texts not available elsewhere at location
+     `ftp://quartz.rutgers.edu/pub/etext/misc'.  The University of Toronto
+     has some of James Joyce's work at `gopher://gopher.epas.utoronto.ca'.
+     Wiretap is similar to Project Gutenberg in focus and scope and is it
+     located at URL `ftp://wiretap.spies.com/Library'.  Women's Studies at
+     Maryland has some poems by women, especially Emily Dickinson, located at
+     the URL
+     `gopher://info.umd.edu:901/11/inforM/Educational_Resources/WomensStudies'.
+

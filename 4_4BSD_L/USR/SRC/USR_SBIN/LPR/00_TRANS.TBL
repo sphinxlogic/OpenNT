@@ -1,0 +1,11 @@
+D COMMON_S                          	common_source
+D FILTERS                           	filters
+D LPC                               	lpc
+D LPD                               	lpd
+D LPQ                               	lpq
+D LPR                               	lpr
+D LPRM                              	lprm
+D LPTEST                            	lptest
+F MAKEFILE                          	Makefile
+D PAC                               	pac
+D SMM_DOC                           	SMM.doc

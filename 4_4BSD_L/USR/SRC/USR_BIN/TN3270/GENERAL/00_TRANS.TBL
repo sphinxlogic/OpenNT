@@ -1,0 +1,5 @@
+F GENBSUBS.C                        	genbsubs.c
+F GENERAL.H                         	general.h
+F GLOBALS.C                         	globals.c
+F GLOBALS.H                         	globals.h
+F VAXBSUBS.S                        	vaxbsubs.s

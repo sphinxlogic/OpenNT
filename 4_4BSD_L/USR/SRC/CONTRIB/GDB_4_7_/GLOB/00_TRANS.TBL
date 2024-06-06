@@ -1,0 +1,16 @@
+F CHANGELO                          	ChangeLog
+D CONFIG                            	config
+F CONFIG.STA                        	config.status
+F CONFIGUR.IN                       	configure.in
+F GLOB.C                            	glob.c
+F GLOB.TEX                          	glob.texinfo
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+L SYSDEP.H                          	sysdep.h	./sysdep-obsd.h
+F SYSDEP_0.H                        	sysdep-a68v.h
+F SYSDEP_1.H                        	sysdep-aix.h
+F SYSDEP_2.H                        	sysdep-irix.h
+F SYSDEP_3.H                        	sysdep-norm.h
+F SYSDEP_4.H                        	sysdep-obsd.h
+F SYSDEP_5.H                        	sysdep-sco.h
+F TILDE.C                           	tilde.c

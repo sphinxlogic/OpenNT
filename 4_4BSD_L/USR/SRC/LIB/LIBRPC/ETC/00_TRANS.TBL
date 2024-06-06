@@ -1,0 +1,5 @@
+F GETOPT.C                          	getopt.c
+F MAKEFILE                          	Makefile
+F PORTMAP.C                         	portmap.c
+F RPC                               	rpc
+F RPCINFO.C                         	rpcinfo.c

@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/rmdir
+F RMDIR.1                           	rmdir.1
+F RMDIR.C                           	rmdir.c
+F TAGS                              	tags

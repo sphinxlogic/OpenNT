@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/size
+F SIZE.1                            	size.1
+F SIZE.C                            	size.c
+F TAGS                              	tags

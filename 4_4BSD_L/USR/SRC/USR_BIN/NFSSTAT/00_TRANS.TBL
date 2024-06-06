@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F NFSSTAT.1                         	nfsstat.1
+F NFSSTAT.C                         	nfsstat.c
+L OBJ                               	obj	/usr/obj/usr.bin/nfsstat
+F TAGS                              	tags

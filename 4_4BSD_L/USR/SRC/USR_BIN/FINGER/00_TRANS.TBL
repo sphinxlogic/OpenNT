@@ -1,0 +1,11 @@
+F EXTERN.H                          	extern.h
+F FINGER.1                          	finger.1
+F FINGER.C                          	finger.c
+F FINGER.H                          	finger.h
+F LPRINT.C                          	lprint.c
+F MAKEFILE                          	Makefile
+F NET.C                             	net.c
+L OBJ                               	obj	/usr/obj/usr.bin/finger
+F SPRINT.C                          	sprint.c
+F TAGS                              	tags
+F UTIL.C                            	util.c

@@ -1,0 +1,7 @@
+If you have problems downloading and are seeing "Access denied" or
+"Permission denied", please make sure that you started your FTP client in
+a directory to which you have write permission.
+
+Please note that all files ending in `.gz' are compressed with `gzip', not
+with the unix `compress' program.  Get the file README and read it for more
+information.

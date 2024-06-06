@@ -1,0 +1,24 @@
+F CH.C                              	ch.c
+F COMMAND.C                         	command.c
+F DECODE.C                          	decode.c
+F HELP.C                            	help.c
+F INPUT.C                           	input.c
+F LESS.H                            	less.h
+F LINE.C                            	line.c
+F LINENUM.C                         	linenum.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MORE.1                            	more.1
+F MORE.HEL                          	more.help
+L OBJ                               	obj	/usr/obj/usr.bin/more
+F OPTION.C                          	option.c
+F OS.C                              	os.c
+F OUTPUT.C                          	output.c
+F PATHNAME.H                        	pathnames.h
+F POSITION.C                        	position.c
+F PRIM.C                            	prim.c
+F SCREEN.C                          	screen.c
+F SIGNAL.C                          	signal.c
+F TAGS                              	tags
+F TAGS.C                            	tags.c
+F TTYIN.C                           	ttyin.c

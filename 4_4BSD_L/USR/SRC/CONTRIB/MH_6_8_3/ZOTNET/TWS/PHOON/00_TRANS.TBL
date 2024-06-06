@@ -1,0 +1,13 @@
+F DELTIME.C                         	deltime.c
+F DELTIME.MAN                       	deltime.man
+F DTIME.C                           	dtime.c
+F DTIMEP.LEX                        	dtimep.lex
+F LEXEDIT.SED                       	lexedit.sed
+F LEXSTRIN.C                        	lexstring.c
+F LIBTWS.MAN                        	libtws.man
+F MAKEFILE                          	Makefile
+F PARSETIM.C                        	parsetime.c
+F PHOON.C                           	phoon.c
+F PHOON.MAN                         	phoon.man
+F README                            	README
+F TWS.H                             	tws.h

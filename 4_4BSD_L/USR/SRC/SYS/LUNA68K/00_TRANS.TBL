@@ -1,0 +1,10 @@
+D CONF                              	conf
+D DEV                               	dev
+D DOC                               	DOC
+D FONT                              	font
+D INCLUDE                           	include
+D LUNA68K                           	luna68k
+F MAKEFILE                          	Makefile
+D STAND                             	stand
+F TAGS                              	tags
+F TODO                              	TODO

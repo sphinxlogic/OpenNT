@@ -1,0 +1,14 @@
+F ADOBE.H                           	adobe.h
+F AOUT64.H                          	aout64.h
+F AR.H                              	ar.h
+F BSDAOUT.H                         	bsdaout.h
+F CHANGELO                          	ChangeLog
+F ENCAP.H                           	encap.h
+F HOST.H                            	host.h
+F HP.H                              	hp.h
+F HPPA.H                            	hppa.h
+F RANLIB.H                          	ranlib.h
+F RELOC.H                           	reloc.h
+F STAB.DEF                          	stab.def
+F STAB_GNU.H                        	stab_gnu.h
+F SUN4.H                            	sun4.h

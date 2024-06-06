@@ -1,0 +1,7 @@
+F ARGV.T                            	argv.t
+F DUP.T                             	dup.t
+F FS.T                              	fs.t
+F INPLACE.T                         	inplace.t
+F PIPE.T                            	pipe.t
+F PRINT.T                           	print.t
+F TELL.T                            	tell.t

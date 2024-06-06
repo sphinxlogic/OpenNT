@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F NICE.1                            	nice.1
+F NICE.C                            	nice.c
+L OBJ                               	obj	/usr/obj/usr.bin/nice
+F TAGS                              	tags

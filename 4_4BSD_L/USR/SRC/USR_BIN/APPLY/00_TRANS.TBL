@@ -1,0 +1,5 @@
+F APPLY.1                           	apply.1
+F APPLY.C                           	apply.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/apply
+F TAGS                              	tags

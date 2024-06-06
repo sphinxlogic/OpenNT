@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+F MV.1                              	mv.1
+F MV.C                              	mv.c
+L OBJ                               	obj	/usr/obj/bin/mv
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

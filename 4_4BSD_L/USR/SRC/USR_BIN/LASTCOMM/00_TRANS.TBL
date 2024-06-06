@@ -1,0 +1,6 @@
+F LASTCOMM.1                        	lastcomm.1
+F LASTCOMM.C                        	lastcomm.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/lastcomm
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags

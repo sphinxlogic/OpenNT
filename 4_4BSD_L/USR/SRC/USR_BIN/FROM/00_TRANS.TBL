@@ -1,0 +1,5 @@
+F FROM.1                            	from.1
+F FROM.C                            	from.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/from
+F TAGS                              	tags

@@ -1,0 +1,7 @@
+F KTRACE.1                          	ktrace.1
+F KTRACE.C                          	ktrace.c
+F KTRACE.H                          	ktrace.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/ktrace
+F SUBR.C                            	subr.c
+F TAGS                              	tags

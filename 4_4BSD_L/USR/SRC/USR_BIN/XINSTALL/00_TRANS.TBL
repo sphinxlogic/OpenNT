@@ -1,0 +1,6 @@
+F INSTALL.1                         	install.1
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/xinstall
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F XINSTALL.C                        	xinstall.c

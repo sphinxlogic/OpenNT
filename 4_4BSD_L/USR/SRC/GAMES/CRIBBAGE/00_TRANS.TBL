@@ -1,0 +1,16 @@
+F CARDS.C                           	cards.c
+F CRIB.C                            	crib.c
+F CRIBBAGE.6                        	cribbage.6
+F CRIBBAGE.H                        	cribbage.h
+F CRIBBAGE.N                        	cribbage.n
+F CRIBCUR.H                         	cribcur.h
+F DECK.H                            	deck.h
+F EXTERN.C                          	extern.c
+F INSTR.C                           	instr.c
+F IO.C                              	io.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/cribbage
+F PATHNAME.H                        	pathnames.h
+F SCORE.C                           	score.c
+F SUPPORT.C                         	support.c
+F TAGS                              	tags

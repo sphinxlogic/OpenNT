@@ -1,0 +1,5 @@
+F AMQ.8                             	amq.8
+F AMQ.C                             	amq.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/amd/amq
+F TAGS                              	tags

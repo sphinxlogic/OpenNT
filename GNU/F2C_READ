@@ -1,0 +1,4 @@
+`f2c' converts Fortran-77 source files into C or C++, which can then
+be compiled with GCC.  The source code and bug fixes are available by
+anonymous FTP from `netlib.att.com:/netlib/f2c', and by email from
+`netlib@research.att.com'.

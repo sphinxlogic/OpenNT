@@ -1,0 +1,12 @@
+F COMMANDS.L                        	commands.l
+F DEBUG.C                           	debug.c
+F GETINFO.C                         	getinfo.c
+F LIST.C                            	list.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F NSLOOKUP.HEL                      	nslookup.help
+F PATHNAME.H                        	pathnames.h
+F RES.H                             	res.h
+F SEND.C                            	send.c
+F SKIP.C                            	skip.c
+F SUBR.C                            	subr.c

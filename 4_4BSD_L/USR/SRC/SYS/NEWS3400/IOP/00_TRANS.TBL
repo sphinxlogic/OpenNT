@@ -1,0 +1,13 @@
+F FB.C                              	fb.c
+F FBREG.H                           	fbreg.h
+F FB_SUB.C                          	fb_sub.c
+F FRAMEBUF.H                        	framebuf.h
+F IOP.C                             	iop.c
+F KB.C                              	kb.c
+F KBREG.H                           	kbreg.h
+F KEYBOARD.H                        	keyboard.h
+F MOUSE.H                           	mouse.h
+F MSREG.H                           	msreg.h
+F RS.C                              	rs.c
+F RSREG.H                           	rsreg.h
+L TAGS                              	tags	/var/db/sys_tags

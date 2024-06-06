@@ -1,0 +1,10 @@
+F CKSUM.1                           	cksum.1
+F CKSUM.C                           	cksum.c
+F CRC.C                             	crc.c
+F EXTERN.H                          	extern.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/cksum
+F PRINT.C                           	print.c
+F SUM1.C                            	sum1.c
+F SUM2.C                            	sum2.c
+F TAGS                              	tags

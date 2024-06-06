@@ -1,0 +1,5 @@
+F CONFIG.STA                        	config.status
+F CONFIGUR.IN                       	configure.in
+F FIB.CC                            	fib.cc
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in

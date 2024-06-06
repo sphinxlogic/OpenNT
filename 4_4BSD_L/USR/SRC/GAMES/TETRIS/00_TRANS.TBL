@@ -1,0 +1,14 @@
+F INPUT.C                           	input.c
+F INPUT.H                           	input.h
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/games/tetris
+F PATHNAME.H                        	pathnames.h
+F SCORES.C                          	scores.c
+F SCORES.H                          	scores.h
+F SCREEN.C                          	screen.c
+F SCREEN.H                          	screen.h
+F SHAPES.C                          	shapes.c
+F TAGS                              	tags
+F TETRIS.6                          	tetris.6
+F TETRIS.C                          	tetris.c
+F TETRIS.H                          	tetris.h

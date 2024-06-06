@@ -1,0 +1,12 @@
+F ALLOW.C                           	allow.c
+F BACK.H                            	back.h
+F BACKGAMM.C                        	backgammon.c
+F BOARD.C                           	board.c
+F CHECK.C                           	check.c
+F FANCY.C                           	fancy.c
+F INIT.C                            	init.c
+F ODDS.C                            	odds.c
+F ONE.C                             	one.c
+F SAVE.C                            	save.c
+F SUBS.C                            	subs.c
+F TABLE.C                           	table.c

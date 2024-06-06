@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/swapon
+F SWAPON.8                          	swapon.8
+F SWAPON.C                          	swapon.c
+F TAGS                              	tags

@@ -1,0 +1,8 @@
+F BDUMP                             	bdump
+F KDUMP                             	kdump
+F PGRPDUMP                          	pgrpdump
+F STATS                             	stats
+L TAGS                              	tags	/var/db/sys_tags
+F VCHAIN                            	vchain
+F VDUMP                             	vdump
+F XPS                               	xps

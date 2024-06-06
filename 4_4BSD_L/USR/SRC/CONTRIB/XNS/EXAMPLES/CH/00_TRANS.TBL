@@ -1,0 +1,8 @@
+F CH2SERVE.C                        	CH2server.c
+F ENUMERAT.C                        	enumerate.c
+F LISTADDR.C                        	listaddr.c
+F LISTALIA.C                        	listaliasof.c
+F LISTPROP.C                        	listproperties.c
+F MAKEFILE                          	Makefile
+F REGISTER.C                        	registerhost.c
+F RETRIEVE.C                        	retrieveaddr.c

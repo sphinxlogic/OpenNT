@@ -1,0 +1,16 @@
+D ADMIN                             	admin
+D BIN                               	bin
+D CONTRIB                           	contrib
+D ETC                               	etc
+D GAMES                             	games
+D INCLUDE                           	include
+D LIB                               	lib
+D LIBEXEC                           	libexec
+D LOCAL                             	local
+F MAKEFILE                          	Makefile
+D OLD                               	old
+D SBIN                              	sbin
+D SHARE                             	share
+D SYS                               	sys
+D USR_BIN                           	usr.bin
+D USR_SBIN                          	usr.sbin

@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F MOUNT_NU.8                        	mount_null.8
+F MOUNT_NU.C                        	mount_null.c
+L OBJ                               	obj	/usr/obj/sbin/mount_null
+F TAGS                              	tags

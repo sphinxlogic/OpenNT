@@ -1,0 +1,9 @@
+F EXTERN.H                          	extern.h
+F LPD.8                             	lpd.8
+F LPD.C                             	lpd.c
+F LPDCHAR.C                         	lpdchar.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.sbin/lpr/lpd
+F PRINTJOB.C                        	printjob.c
+F RECVJOB.C                         	recvjob.c
+F TAGS                              	tags

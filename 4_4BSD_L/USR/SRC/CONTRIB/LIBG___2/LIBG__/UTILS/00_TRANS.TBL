@@ -1,0 +1,10 @@
+F CONFIG.STA                        	config.status
+F C___MODE.EL                       	c++-mode.el
+F DUMMY.OUT                         	dummy.out
+F ETAGS.C                           	etags.c
+F GENDEPEN                          	gendepend
+F GEN_PARA                          	gen-params
+F G__DEP.SH                         	g++dep.sh
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F TMP                               	TMP

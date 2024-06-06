@@ -1,0 +1,5 @@
+F EXPAND.1                          	expand.1
+F EXPAND.C                          	expand.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/expand
+F TAGS                              	tags

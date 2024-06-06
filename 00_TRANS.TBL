@@ -1,0 +1,11 @@
+D 4_4BSD_L                          	4.4BSD-Lite
+F BSD.TAR                           	bsd.tar
+F BSD_TAR.GZ                        	bsd.tar.gz
+F CRCLIST                           	CRCList
+F FILELIST                          	FileList
+F FILENAME.TXT                      	filename.txt
+D GNU                               	gnu
+F LS_LR                             	ls-lR
+F README.EXP                        	Readme.export
+F README.TXT                        	Readme.txt
+D UTILS                             	utils

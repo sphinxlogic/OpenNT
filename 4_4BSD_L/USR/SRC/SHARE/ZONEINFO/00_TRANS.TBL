@@ -1,0 +1,9 @@
+D DATFILES                          	datfiles
+F IALLOC.C                          	ialloc.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/share/zoneinfo
+F SCHECK.C                          	scheck.c
+F TAGS                              	tags
+F TZFILE.5                          	tzfile.5
+F ZIC.8                             	zic.8
+F ZIC.C                             	zic.c

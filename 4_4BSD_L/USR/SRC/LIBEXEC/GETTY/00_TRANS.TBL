@@ -1,0 +1,13 @@
+F EXTERN.H                          	extern.h
+F GETTY.8                           	getty.8
+F GETTYTAB.5                        	gettytab.5
+F GETTYTAB.H                        	gettytab.h
+F INIT.C                            	init.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/getty
+F PATHNAME.H                        	pathnames.h
+F SUBR.C                            	subr.c
+F TAGS                              	tags
+F TTYDEFAU.C                        	ttydefaults.c
+F TTYS.5                            	ttys.5

@@ -1,0 +1,15 @@
+F BOOT.C                            	boot.c
+F BOOTXX.C                          	bootxx.c
+F CGA.C                             	cga.c
+F CONF.C                            	conf.c
+F CONFXX.C                          	confxx.c
+F FD.C                              	fd.c
+F FDBOOTBL.C                        	fdbootblk.c
+F KBD.C                             	kbd.c
+D LIBSA                             	libsa
+D LIBSMSA                           	libsmsa
+F MAKEFILE                          	Makefile
+F PRF.C                             	prf.c
+F SRT0.C                            	srt0.c
+F WD.C                              	wd.c
+F WDBOOTBL.C                        	wdbootblk.c

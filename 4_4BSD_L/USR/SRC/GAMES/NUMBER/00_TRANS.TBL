@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F NUMBER.6                          	number.6
+F NUMBER.C                          	number.c
+L OBJ                               	obj	/usr/obj/games/number
+F TAGS                              	tags

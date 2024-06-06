@@ -1,0 +1,9 @@
+F ANNOUNCE.C                        	announce.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/libexec/talkd
+F PRINT.C                           	print.c
+F PROCESS.C                         	process.c
+F TABLE.C                           	table.c
+F TAGS                              	tags
+F TALKD.8                           	talkd.8
+F TALKD.C                           	talkd.c

@@ -1,0 +1,28 @@
+F ALL.M4                            	all.m4
+F AMD29K.M4                         	amd29k.m4
+F CHANGELO                          	ChangeLog
+D CONFIG                            	config
+F CONFIG.STA                        	config.status
+F CONFIGUR.IN                       	configure.in
+F GDBINT.TEX                        	gdbint.texinfo
+F GDBINV_M.IN                       	gdbinv-m.m4.in
+L GDBINV_M.M4                       	gdbinv-m.m4	./gdbinv-m.m4.in
+F GDBINV_S.IN                       	gdbinv-s.m4.in
+L GDBINV_S.M4                       	gdbinv-s.m4	./gdbinv-s.m4.in
+F GDB_TEXI                          	gdb.texinfo
+F GEN.M4                            	gen.m4
+F H8.M4                             	h8.m4
+F I80386.M4                         	i80386.m4
+F I960.M4                           	i960.m4
+F LPSRC.SED                         	lpsrc.sed
+F M680X0.M4                         	m680x0.m4
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F NONE.M4                           	none.m4
+F PRETEX.M4                         	pretex.m4
+F PSRC.SED                          	psrc.sed
+F PSREF.TEX                         	psref.tex
+F REFCARD.TEX                       	refcard.tex
+F SPARC.M4                          	sparc.m4
+F STABS.TEX                         	stabs.texinfo
+F VAX.M4                            	vax.m4

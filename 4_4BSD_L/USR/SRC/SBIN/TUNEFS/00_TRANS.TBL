@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/sbin/tunefs
+F TAGS                              	tags
+F TUNEFS.8                          	tunefs.8
+F TUNEFS.C                          	tunefs.c

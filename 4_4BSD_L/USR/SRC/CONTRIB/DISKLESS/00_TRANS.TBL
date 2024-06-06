@@ -1,0 +1,9 @@
+F DISKLES0.8                        	diskless_offset.8
+F DISKLES0.C                        	diskless_boot.c
+F DISKLES1.8                        	diskless_setup.8
+F DISKLES1.C                        	diskless_offset.c
+F DISKLES2.C                        	diskless_setup.c
+F PATHNAME.H                        	pathnames.h
+F README                            	README
+F SWAPVMUN.C                        	swapvmunix.c
+F TESTBOOT.C                        	testboot.c

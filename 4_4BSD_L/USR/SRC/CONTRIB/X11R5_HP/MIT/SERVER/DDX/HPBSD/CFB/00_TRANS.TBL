@@ -1,0 +1,44 @@
+F CFB.H                             	cfb.h
+L CFB8BIT.C                         	cfb8bit.c	../../cfb/cfb8bit.c
+L CFB8BIT.H                         	cfb8bit.h	../../cfb/cfb8bit.h
+F CFB8CPPL.C                        	cfb8cppl.c
+F CFB8LINE.C                        	cfb8line.c
+F CFBBITBL.C                        	cfbbitblt.c
+F CFBBLT.C                          	cfbblt.c
+L CFBBRES.C                         	cfbbres.c	../../cfb/cfbbres.c
+L CFBBRESD.C                        	cfbbresd.c	../../cfb/cfbbresd.c
+F CFBCMAP.C                         	cfbcmap.c
+F CFBFILLA.C                        	cfbfillarc.c
+L CFBFILLR.C                        	cfbfillrct.c	../../cfb/cfbfillrct.c
+F CFBFILLS.C                        	cfbfillsp.c
+F CFBGETSP.C                        	cfbgetsp.c
+F CFBGLBLT.C                        	cfbglblt8.c
+L CFBHRZVE.C                        	cfbhrzvert.c	../../cfb/cfbhrzvert.c
+L CFBIGBLT.C                        	cfbigblt8.c	../../cfb/cfbigblt8.c
+F CFBLINE.C                         	cfbline.c
+L CFBMSKBI.C                        	cfbmskbits.c	../../cfb/cfbmskbits.c
+L CFBMSKBI.H                        	cfbmskbits.h	../../cfb/cfbmskbits.h
+F CFBPIXMA.C                        	cfbpixmap.c
+F CFBPLY1R.C                        	cfbply1rct.c
+F CFBPNTWI.C                        	cfbpntwin.c
+F CFBPOLYP.C                        	cfbpolypnt.c
+F CFBPUSH8.C                        	cfbpush8.c
+F CFBRCTST.C                        	cfbrctstp8.c
+L CFBRROP.C                         	cfbrrop.c	../../cfb/cfbrrop.c
+L CFBRROP.H                         	cfbrrop.h	../../cfb/cfbrrop.h
+F CFBSETSP.C                        	cfbsetsp.c
+F CFBSOLID.C                        	cfbsolid.c
+F CFBTEBLT.C                        	cfbteblt8.c
+F CFBTEGBL.C                        	cfbtegblt.c
+F CFBTILE3.C                        	cfbtile32.c
+F CFBTILEO.C                        	cfbtileodd.c
+F CFBWINDO.C                        	cfbwindow.c
+F CFBZERAR.C                        	cfbzerarc.c
+F HPBSTORE.C                        	hpbstore.c
+F HPBYTEBL.C                        	hpByteBlt.c
+F HPCOPYAR.C                        	hpCopyArea.c
+F HPFB.C                            	hpfb.c
+F IMAKEFIL                          	Imakefile
+F MAKEFILE                          	Makefile
+F README                            	README
+L STIP68KG.H                        	stip68kgnu.h	../../cfb/stip68kgnu.h

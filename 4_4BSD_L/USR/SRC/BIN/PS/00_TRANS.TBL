@@ -1,0 +1,12 @@
+F DEVNAME.C                         	devname.c
+F EXTERN.H                          	extern.h
+F FMT.C                             	fmt.c
+F KEYWORD.C                         	keyword.c
+F MAKEFILE                          	Makefile
+F NLIST.C                           	nlist.c
+L OBJ                               	obj	/usr/obj/bin/ps
+F PRINT.C                           	print.c
+F PS.1                              	ps.1
+F PS.C                              	ps.c
+F PS.H                              	ps.h
+F TAGS                              	tags

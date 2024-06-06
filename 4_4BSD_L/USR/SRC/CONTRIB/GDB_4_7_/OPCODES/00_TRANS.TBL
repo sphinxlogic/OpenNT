@@ -1,0 +1,10 @@
+F CHANGELO                          	ChangeLog
+F CONFIG.STA                        	config.status
+F CONFIGUR.IN                       	configure.in
+F MAKEFILE                          	Makefile
+F MAKEFILE.IN                       	Makefile.in
+F SPARC_OP.C                        	sparc-opc.c
+L SYSDEP.H                          	sysdep.h	./../bfd/hosts/hp300bsd.h
+F Z8KGEN.C                          	z8kgen.c
+F Z8K_DIS.C                         	z8k-dis.c
+F Z8K_OPC.H                         	z8k-opc.h

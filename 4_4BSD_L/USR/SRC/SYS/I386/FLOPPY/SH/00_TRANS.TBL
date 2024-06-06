@@ -1,0 +1,5 @@
+L BUILTINS                          	builtins	../../../../bin/sh/builtins
+F MAKEFILE                          	Makefile
+L MKBUILTI                          	mkbuiltins	../../../../bin/sh/mkbuiltins
+L OBJ                               	obj	/usr/obj/sys/i386/floppy/sh
+L SHELL.H                           	shell.h	../../../../bin/sh/shell.h

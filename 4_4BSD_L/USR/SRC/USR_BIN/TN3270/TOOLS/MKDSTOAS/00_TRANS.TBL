@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+F MKDSTOAS.C                        	mkdstoas.c
+L OBJ                               	obj	/usr/obj/usr.bin/tn3270/tools/mkdstoas
+F TAGS                              	tags

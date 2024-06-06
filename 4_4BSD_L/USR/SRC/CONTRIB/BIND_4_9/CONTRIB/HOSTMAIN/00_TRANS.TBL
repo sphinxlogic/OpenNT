@@ -1,0 +1,10 @@
+F HOST2TXT.AWK                      	host2txt.awk
+F HOSTS.MAK                         	hosts.make
+F MAKEFILE                          	Makefile
+F NDDUMP2H.AWK                      	nddump2host.awk
+F NDREV.C                           	ndrev.c
+F NICNET.AWK                        	nicnet.awk
+F NICTXT2H.AWK                      	nictxt2host.awk
+F TXT2HOST.AWK                      	txt2host.awk
+F TXT2NAME.AWK                      	txt2named.awk
+F UMICH_ND.IN                       	umich_nddump.in

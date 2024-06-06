@@ -1,0 +1,6 @@
+F 8044.DES                          	8044.desc
+F MAKEFILE                          	Makefile
+F TROFFCLA.DES                      	troffClassic.desc
+F TROFFCLA.MAP                      	troffClassic.map
+F TROFFMA0.MAP                      	troffMath.map
+F TROFFMA1.MAP                      	troffMathExtra.map

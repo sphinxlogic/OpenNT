@@ -1,0 +1,6 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/tcopy
+F PATHNAME.H                        	pathnames.h
+F TAGS                              	tags
+F TCOPY.1                           	tcopy.1
+F TCOPY.C                           	tcopy.c

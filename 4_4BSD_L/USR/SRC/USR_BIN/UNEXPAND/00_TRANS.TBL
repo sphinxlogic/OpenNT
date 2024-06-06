@@ -1,0 +1,4 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/unexpand
+F TAGS                              	tags
+F UNEXPAND.C                        	unexpand.c

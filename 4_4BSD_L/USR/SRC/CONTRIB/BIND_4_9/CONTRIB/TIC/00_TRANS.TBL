@@ -1,0 +1,9 @@
+D ETC_NAME                          	etc.named
+F GENDNS                            	gendns
+F GENSTATI                          	genstatic
+F MAKEFILE                          	Makefile
+F MAKE_REV                          	make_rev
+F POKE_NS.C                         	poke_ns.c
+F READINFO                          	readinfo
+F README                            	README
+F UPDATEHO                          	updatehosts

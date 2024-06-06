@@ -1,0 +1,28 @@
+F ADRSMAP.H                         	adrsmap.h
+L ANSI.H                            	ansi.h	../../hp300/include/ansi.h
+F CPU.H                             	cpu.h
+L ENDIAN.H                          	endian.h	../../hp300/include/endian.h
+F EXEC.H                            	exec.h
+L KDBPARAM.H                        	kdbparam.h	../../pmax/include/kdbparam.h
+L LIMITS.H                          	limits.h	../../hp300/include/limits.h
+L MACHASMD.H                        	machAsmDefs.h	../../pmax/include/machAsmDefs.h
+F MACHCONS.H                        	machConst.h
+F MIPS_OPC.H                        	mips_opcode.h
+F PARAM.H                           	param.h
+L PCB.H                             	pcb.h	../../pmax/include/pcb.h
+L PMAP.H                            	pmap.h	../../pmax/include/pmap.h
+F PROC.H                            	proc.h
+L PROFILE.H                         	profile.h	../../pmax/include/profile.h
+L PSL.H                             	psl.h	../../pmax/include/psl.h
+L PTE.H                             	pte.h	../../pmax/include/pte.h
+L PTRACE.H                          	ptrace.h	../../pmax/include/ptrace.h
+L REG.H                             	reg.h	../../pmax/include/reg.h
+L REGDEF.H                          	regdef.h	../../pmax/include/regdef.h
+L RELOC.H                           	reloc.h	../../pmax/include/reloc.h
+L SIGNAL.H                          	signal.h	../../pmax/include/signal.h
+L STDARG.H                          	stdarg.h	../../pmax/include/stdarg.h
+L TAGS                              	tags	/var/db/sys_tags
+L TRAP.H                            	trap.h	../../pmax/include/trap.h
+L TYPES.H                           	types.h	../../pmax/include/types.h
+L VARARGS.H                         	varargs.h	../../hp300/include/varargs.h
+L VMPARAM.H                         	vmparam.h	../../pmax/include/vmparam.h

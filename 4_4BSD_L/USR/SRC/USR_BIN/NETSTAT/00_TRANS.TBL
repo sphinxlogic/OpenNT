@@ -1,0 +1,14 @@
+F IF.C                              	if.c
+F INET.C                            	inet.c
+F ISO.C                             	iso.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MBUF.C                            	mbuf.c
+F MROUTE.C                          	mroute.c
+F NETSTAT.1                         	netstat.1
+F NETSTAT.H                         	netstat.h
+F NS.C                              	ns.c
+L OBJ                               	obj	/usr/obj/usr.bin/netstat
+F ROUTE.C                           	route.c
+F TAGS                              	tags
+F UNIX.C                            	unix.c

@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/bin/rmail
+F RMAIL.8                           	rmail.8
+F RMAIL.C                           	rmail.c
+F TAGS                              	tags

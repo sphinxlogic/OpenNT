@@ -1,0 +1,11 @@
+F CMDS.C                            	cmds.c
+F CMDTAB.C                          	cmdtab.c
+F MAKEFILE                          	Makefile
+F PARTAB.C                          	partab.c
+F README                            	README
+F TIP.C                             	tip.c
+F TIP.H                             	tip.h
+F TIPOUT.C                          	tipout.c
+F TODO                              	TODO
+F VALUE.C                           	value.c
+F VARS.C                            	vars.c

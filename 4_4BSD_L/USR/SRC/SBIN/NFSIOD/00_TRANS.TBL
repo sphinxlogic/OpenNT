@@ -1,0 +1,5 @@
+F MAKEFILE                          	Makefile
+F NFSIOD.8                          	nfsiod.8
+F NFSIOD.C                          	nfsiod.c
+L OBJ                               	obj	/usr/obj/sbin/nfsiod
+F TAGS                              	tags

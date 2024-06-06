@@ -1,0 +1,95 @@
+Sept 22, 1993
+
+This archive contains binaries for GCC 2.4.5 and libg++ 2.4 for Solaris
+2.1 for x86.  The system was compiled to expect things set up in /usr/local.
+These binaries should probably work on all 386, 486, or Pentium platforms
+running Solaris.
+
+The string "i486-sun-solaris2" is compiled into the binaries.  Do not
+shorten this path or change its name (though symlinks can be made for
+convenience). 
+
+Compiled by Tim Bosserman tim@wesco.com (Thanks Tim!).
+
+
+The solaris gcc compilation here is almost complete; you can install it in
+/usr/local as-is.  However, you may still wish to install the fixincludes.
+We cannot distribute the fixed header files because they are proprietary.
+However, you can install them yourself on your own system.  To do so, first
+install the binaries in the proper place in your system (/usr/local).  Then,
+run the command
+
+    $ /bin/sh /usr/local/lib/gcc-lib/i486-sun-solaris2/2.4.5/just-fixinc
+
+This will build the fixincludes.  Note that the corrected header files go
+in the GCC installation directory so that only GCC sees them.  The original
+header files in /usr/include are not modified.
+
+
+In addition to the solaris GCC binaries (and the sources, if you want to
+rebuild gcc), you will need the Solaris-2 OS packages, `SUNWhea',
+`SUNWbtool', `SUNWarc', and `SUNWtoo' installed on your system.  They were
+supplied on the Solaris CD-ROM, though you may not have installed them if
+you chose the "End User System Support" software configuration.
+
+
+To check whether an optional package is installed, you can run `pkginfo
+NAME'.  `pkginfo' is in `/usr/bin/'.  If NAME is not installed, you will
+get an error, like this:
+
+     eg$ /usr/bin/pkginfo SUNWlibm
+     ERROR: information for "SUNWlibm" was not found
+
+If NAME is installed, you will see a one-line summary of the package,
+like this:
+
+     eg$ /usr/bin/pkginfo SUNWhea
+     system      SUNWhea        Header Files
+
+To install one of these optional parts of Solaris 2 (NAME in the example),
+put the Solaris 2.0 distribution CD in the drive, mount it (for example, as
+`/cdrom'), then do:
+
+     /usr/sbin/pkgadd -d /cdrom/Solaris_2.0 NAME ...
+
+You can specify several package names at once.
+
+   These are the Solaris 2 optional packages you'll need to use GCC:
+
+`SUNWarc'
+     *Needed to link your programs:* Archive libraries for system
+     interfaces.
+
+`SUNWbtool'
+     *Needed to build your programs:* "SPARCCompilers 2.0 Bundled
+     tools".  Most of the contents of `/usr/ccs/bin' (most notably, the
+     assembler) come from this package.
+
+`SUNWhea'
+     *Needed to complete installation and compile your programs:* Header
+     files (`/usr/include').
+
+`SUNWtoo'
+     *Needed to link your programs:* "Programming Tools", notably the
+     linker, `/usr/ccs/bin/ld'.
+
+One additional optional package may be of interest:
+
+`SUNWlibm'
+     Sun's math subroutine library. 
+
+
+Edit your .profile or .cshrc file to add /usr/ccs/bin to your path to
+pick up the programs in these packages.
+
+If you plan to compile X11 packages, you will also need to edit the Imake
+configuration files in /usr/openwin/lib/config.  It is recommended that you
+edit only site.def; anything defined in this file overrides definitions in
+other Imake configuration files.  Add the lines
+
+	#define	HasGcc yes
+	#define	CcCmd gcc
+	#define CppCmd /usr/local/lib/gcc-lib/i486-sun-solaris2/2.4.5/cpp
+
+When you run xmkmf, the resulting Makefile will pick up gcc and its libraries.
+$OPENWINHOME/lib has most or all of the X libraries you need.

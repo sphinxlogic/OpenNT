@@ -1,0 +1,16 @@
+F BOOTPARA.X                        	bootparam_prot.x
+F KLM_PROT.X                        	klm_prot.x
+F MAKEFILE                          	Makefile
+F MOUNT.X                           	mount.x
+F NFS_PROT.X                        	nfs_prot.x
+F NLM_PROT.X                        	nlm_prot.x
+F REX.X                             	rex.x
+F RNUSERS.X                         	rnusers.x
+F RQUOTA.X                          	rquota.x
+F RSTAT.C                           	rstat.c
+F RSTAT.X                           	rstat.x
+F RSTAT_PR.C                        	rstat_proc.c
+F SM_INTER.X                        	sm_inter.x
+F SPRAY.X                           	spray.x
+F YP.X                              	yp.x
+F YPPASSWD.X                        	yppasswd.x

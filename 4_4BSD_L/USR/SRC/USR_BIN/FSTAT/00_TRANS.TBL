@@ -1,0 +1,5 @@
+F FSTAT.1                           	fstat.1
+F FSTAT.C                           	fstat.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/fstat
+F TAGS                              	tags

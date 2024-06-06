@@ -1,0 +1,9 @@
+F CONFIG.H                          	config.h
+F EXTERN.H                          	extern.h
+F LFS.C                             	lfs.c
+F MAKEFILE                          	Makefile
+F MISC.C                            	misc.c
+F NEWFS.C                           	newfs.c
+F NEWLFS.8                          	newlfs.8
+L OBJ                               	obj	/usr/obj/sbin/newlfs
+F TAGS                              	tags

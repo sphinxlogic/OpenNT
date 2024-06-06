@@ -1,0 +1,9 @@
+F BACKGAMM.6                        	backgammon.6
+F EXTRA.C                           	extra.c
+F MAIN.C                            	main.c
+F MAKEFILE                          	Makefile
+F MOVE.C                            	move.c
+L OBJ                               	obj	/usr/obj/games/backgammon/backgammon
+F TAGS                              	tags
+F TEXT.C                            	text.c
+F VERSION.C                         	version.c

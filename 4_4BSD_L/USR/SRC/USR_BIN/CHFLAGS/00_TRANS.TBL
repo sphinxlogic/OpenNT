@@ -1,0 +1,5 @@
+F CHFLAGS.1                         	chflags.1
+F CHFLAGS.C                         	chflags.c
+F MAKEFILE                          	Makefile
+L OBJ                               	obj	/usr/obj/usr.bin/chflags
+F TAGS                              	tags

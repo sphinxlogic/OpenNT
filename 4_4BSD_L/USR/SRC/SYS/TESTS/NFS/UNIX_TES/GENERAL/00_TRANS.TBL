@@ -1,0 +1,14 @@
+F LARGE.C                           	large.c
+F LARGE1.C                          	large1.c
+F LARGE2.C                          	large2.c
+F LARGE3.C                          	large3.c
+F LARGE4.SH                         	large4.sh
+F MAKEFILE                          	Makefile
+F MAKEFILE.TST                      	makefile.tst
+F MKDUMMY                           	mkdummy
+F NROFF.IN                          	nroff.in
+F RMDUMMY                           	rmdummy
+F RUNTESTS                          	runtests
+F RUNTESTS.TST                      	runtests.tst
+F RUNTESTS.WRK                      	runtests.wrk
+F STAT.C                            	stat.c

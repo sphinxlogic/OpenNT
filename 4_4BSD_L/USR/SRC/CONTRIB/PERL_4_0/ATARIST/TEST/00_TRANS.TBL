@@ -1,0 +1,13 @@
+F BINHANDL                          	binhandl
+F CCON                              	ccon
+F DBM                               	dbm
+F ERR                               	err
+F GDBM                              	gdbm
+F GDBM.T                            	gdbm.t
+F GLOB                              	glob
+F OSEXAMPL.PL                       	osexample.pl
+F PI.PL                             	pi.pl
+F PRINTENV                          	printenv
+F README                            	readme
+F SIG                               	sig
+F TBINMODE                          	tbinmode

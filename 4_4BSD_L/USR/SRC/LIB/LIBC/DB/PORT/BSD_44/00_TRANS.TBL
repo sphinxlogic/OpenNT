@@ -1,0 +1,4 @@
+L CLIB                              	clib	../clib
+L INCLUDE                           	include	../include
+L MAKEFILE                          	Makefile	../Makefile
+L SYS                               	sys	include
