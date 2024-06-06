@@ -1,2 +1,0 @@
-# OpenNT
-USEINX OpenNT Paper
